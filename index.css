@@ -9,17 +9,79 @@
 
 /* Set the background color for my page: */
 body{
-    background-color: rgba(176, 221, 243, 0.939);
+    background-color: rgba(176, 221, 243, 0.8);
  
+}
+
+/* buttons */
+
+a{
+    border: 5px;
+    border-color: black;
+    border-style: solid;
+
+    margin: auto;
+}
+
+
+#link1{
+    border-color:rgb(16, 120, 87);
+    border-style: solid;
+    border-radius: 8px;
+    font-family: Oswald; 
+    padding: 2px;
+}
+
+#link1:hover{
+
+    background-color:rgb(16, 120, 87, .3);
+    border-color:rgb(0, 0, 0);
+}
+
+#link2{
+    border:2px;
+    border-color:rgb(16, 120, 87);
+    border-style: solid;
+    border-radius: 8px;
+    font-family: Oswald; 
+    padding: 2px;
+}
+
+#link2:hover{
+
+    background-color:rgb(16, 120, 87, .3);
+    border-color: rgb(0, 0, 0);
+}
+
+#link3{
+    border:2px;
+    border-color:rgb(16, 120, 87);
+    border-style: solid;
+    border-radius: 8px;
+    font-family: Oswald; 
+    padding: 2px;
+}
+
+#link3:hover{
+
+    background-color:rgb(16, 120, 87, .3);
+    border-color: rgb(0, 0, 0);
 }
 
 
 /* Choose the appearance of the tags, h1, h3 and p: */
+h4{
+    color:rgb(16, 120, 87);
+    font-family: 'Oswald', sans-serif;
+    font-size: 55px;
+    text-align: center;
+    font-weight: 900;   
+}
 
 h1{
     color:rgb(16, 120, 87);
     font-family: 'Oswald', sans-serif;
-    font-size: 50px;
+    font-size: 40px;
     text-align: center;
     font-weight: 900;
 }
@@ -36,21 +98,40 @@ p{
 .myWeek1{
     margin: auto;
     max-width: 600px;
-    background-color: rgb(214, 240, 251);
+    background-color: rgb(214, 240, 251, .8);
     border-radius: 20px;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-bottom: 4px;
 }
 
+.myWeek2{
+        margin: auto;
+        max-width: 600px;
+        background-color: rgb(214, 240, 251, .8);
+        border-radius: 20px;
+        padding-left: 8px;
+        padding-right: 8px;
+        padding-bottom: 4px;
+    }
 
-/* Set the apperance of the class, chart */
 .chart{
-    margin: 10px 100px;
+    margin: 10px 110px;
+    /* display: inline-block;
+    margin: 0 auto; */
     background-color: rgb(255, 255, 255);
-    width:380px;
+    width:380px; 
+    /* reduce to closer to 300 for mobile-suitability  */
     border-width: 1px;
     border-style: solid;
     border-radius: 10px;
     border-color: rgb(16, 120, 87);
-
+    padding: 6px 14px;   
     
 }
     
+ /* display: flex;
+    align-items: center;
+    justify-content: center;
+    width: auto;
+    height: auto;  */

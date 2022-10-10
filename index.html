@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
     <!-- Title for the page -->
-    <title>Data Science Week 1</title>
+    <title>Data Science HC</title>
 
     <!-- Link to my style sheet -->
     <link rel="stylesheet" href="index.css">
@@ -22,9 +22,21 @@
 
 
 <body>
+<!-- a div for buttons  -->
+    <div class="wrap">    
+
+        <h4>Data Science</h4>  
+        <h3>by Hannah Cantekin</h3>  
+    
+        <a href="project.html" id="link1">Project</a>
+        <a href="https://hcantekin.github.io/" id="link2">Portfolio</a>
+        <a href="https://github.com/hcantekin/hcantekin.github.io" id="link3">GitHub</a>
+    
+    </div>
+
     <!-- A div that contains a group of items for week 1. Can be useful for setting background colours etc.  -->
     <div class="myWeek1">
-        <h1>Data Science for Economists</h1>
+        <h1>Week 1: Embedding Charts</h1>
         
         <h3>Environmental Innovation</h3>
         <p>Chart 1 compares environmental technology patents across the G7.</p>
@@ -34,6 +46,22 @@
         <p>Chart 2 shows the brands with the largest share of litter found on UK beaches.</p>
         <div class="chart" id="Chart2"> </div>
     </div> 
+   
+    <div class="myWeek2"> 
+        <h1>Week 2: Linking Data</h1>
+       
+        <h3>Financial Times Chart</h3>
+        <p> Chart 3 shows the level of IMF lending over time.</p>
+        <div class="chart" id="Chart3"></div>
+
+        <h3>Fixed Chart</h3>
+        <p> Chart 4 is a "fixed" version of the FT chart, where the increase in incomes over time is accounted for by showing IMF lending as a proportion of global GDP.</p>
+        <div class="chart" id="Chart4"></div>
+       <p>The riskiest year, in terms of IMF lending, is 1984. Chart 4 suggests that credit provided by the IMF has tended to decline over time when accounting for changes in global GDP.  </p>
+        <!-- <h3>API Chart</h3>
+        <p> This chart uses an API...</p> -->
+        <!-- <div class="chart" id="Chart5"></div> -->
+    </div>
 </body>
 
 
@@ -41,12 +69,22 @@
     //Define charts:
     var myChart1 = "chartENV11.json";
     var myChart2 = "chartENV17.json";
+    var myChart3 = "IMF_chart_lending.json";
+    var myChart4 = "IMF_chart_fixed.json";
 
     // Embed charts:
     vegaEmbed('#Chart1', myChart1);
     vegaEmbed('#Chart2', myChart2);
+    vegaEmbed('#Chart3', myChart3);
+    vegaEmbed('#Chart4', myChart4);
 </script>
 
 </html>
 
 
+<!-- "transform": [
+{"regression": "y", "on": "x", "as": "trendline"}
+],
+"mark": {
+  "type": "line",
+  "color": "firebrick"} -->

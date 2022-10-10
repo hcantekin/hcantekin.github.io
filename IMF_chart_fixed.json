@@ -1,0 +1,43 @@
+{"$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+
+  "title": {
+      "text": "IMF lending as proportion of global GDP ",
+      "subtitle":"Credit outstanding to all members, USD % change, GDP-adjusted, Source: IMF",
+      "subtitleFontStyle":"italic",
+      "subtitleFontSize":10,
+      "anchor": "start",
+      "color": "black"},
+  
+  "data":{"url": "https://raw.githubusercontent.com/hcantekin/hcantekin.github.io/main/data_IMF_creditOutstanding_HC2.csv"},
+  
+"transform":[
+  { "calculate": "datum.Totals/1000000000", "as": "billions"}
+  ], 
+
+  "height": 300,
+  "width": 300,
+
+  "mark": {
+    "type": "line",
+    "color": "#15c9cf"},
+
+"encoding": {
+     "x": {
+       "field": "Year",
+       "type": "temporal",
+       "axis": {
+         "title": null,
+         "grid": false,
+         "ticks": true,
+         "labelAngle": 0}},
+
+      "y": {
+        "field": "credit/gdp %",
+        "type": "quantitative",
+        "title": "",
+        "axis": {"grid": false}}
+}
+}
+
+
+

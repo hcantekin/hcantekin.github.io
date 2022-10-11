@@ -16,20 +16,22 @@ body{
 /* buttons */
 
 a{
-    /* border: 5px;
-    border-color: black;
-    border-style: solid; */
-    margin: 50px;
+    display: table;
+    margin: auto;
+    margin-bottom: 4px;
 }
 
 
 #link1{
-    border:2px;
+    background-color: rgb(176, 221, 243);
+    border:1.5px;
     border-color:rgb(16, 120, 87);
     border-style: solid;
     border-radius: 8px;
     font-family: Oswald; 
-    padding: 3px;
+    padding: 4px;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 #link1:hover{
@@ -39,12 +41,15 @@ a{
 }
 
 #link2{
-    border:2px;
+    background-color: rgb(176, 221, 243);
+    border:1.5px;
     border-color:rgb(16, 120, 87);
     border-style: solid;
     border-radius: 8px;
     font-family: Oswald; 
-    padding: 3px;
+    padding: 4px;
+    padding-left: 6px;
+    padding-right: 6px;
 }
 
 #link2:hover{
@@ -54,12 +59,15 @@ a{
 }
 
 #link3{
-    border:2px;
+    background-color: rgb(176, 221, 243);
+    border:1.5px;
     border-color:rgb(16, 120, 87);
     border-style: solid;
     border-radius: 8px;
     font-family: Oswald; 
-    padding: 3px;
+    padding: 4px;
+    padding-left: 11px;
+    padding-right: 11px;
 }
 
 #link3:hover{
@@ -75,7 +83,6 @@ h4{
     font-family: 'Oswald', sans-serif;
     font-size: 60px;
     text-align: center;
-    font-weight: 900;   
 }
 h5{
     color:rgb(0, 0, 0);
@@ -90,7 +97,6 @@ h1{
     font-family: 'Oswald', sans-serif;
     font-size: 40px;
     text-align: center;
-    font-weight: 900;
 }
 h3{
     color:rgb(16, 120, 87);

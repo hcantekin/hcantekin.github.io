@@ -1,7 +1,7 @@
 {"$schema": "https://vega.github.io/schema/vega-lite/v5.json",
 
   "title": {
-      "text": "IMF lending as proportion of global GDP ",
+      "text": "IMF Lending as Proportion of Global GDP ",
       "subtitle":"Credit outstanding to all members as % share of global GDP, USD, Source: IMF",
       "subtitleFontStyle":"italic",
       "subtitleFontSize":10,

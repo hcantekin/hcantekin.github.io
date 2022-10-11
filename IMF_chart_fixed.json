@@ -2,7 +2,7 @@
 
   "title": {
       "text": "IMF lending as proportion of global GDP ",
-      "subtitle":"Credit outstanding to all members, USD % change, GDP-adjusted, Source: IMF",
+      "subtitle":"Credit outstanding to all members as % share of global GDP, USD, Source: IMF",
       "subtitleFontStyle":"italic",
       "subtitleFontSize":10,
       "anchor": "start",
@@ -38,6 +38,5 @@
         "axis": {"grid": false}}
 }
 }
-
 
 

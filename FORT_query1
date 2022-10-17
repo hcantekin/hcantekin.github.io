@@ -1,4 +1,4 @@
- 
+
   # Get Started:
 from fbri.private.sql.query import execute
  

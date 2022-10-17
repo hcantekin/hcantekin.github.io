@@ -1,0 +1,6 @@
+database = "fbri_prod_atp"
+table = "ad_targeting_dataset_siep_aug_2020"
+api_table = "ad_archive_api"
+
+sql=f"select a.* from {database}.{table} as a, {database}.{api_table} as b where a.ds=b.ds and a.archive_id=b.fbid and b.reached_countries like '%GB%' limit 20;"
+execute(sql)

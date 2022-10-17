@@ -2,10 +2,26 @@
   # Get Started:
 from fbri.private.sql.query import execute
  
+ # search ad library:
+ database= "fbri_prod_atp"
+table= "fbri_prod_atp.ad_archive_api"
+sql=f"SELECT * FROM fbri_prod_atp.ad_archive_api limit 20;"
+execute(sql)
+ # filtering for Conservative party ads:
+database= "fbri_prod_atp"
+table= "fbri_prod_atp.ad_archive_api"
+sql=f"SELECT * FROM fbri_prod_atp.ad_archive_api where currency='GBP' and ad_creative_link_description is not null and page_name='Conservatives' and potential_reach is not null limit 100;"
+execute(sql)
+ 
+  # search ad targetting data:
+  database = "fbri_prod_atp"
+table = "ad_targeting_dataset_siep_aug_2020" 
+sql = f"SELECT * FROM {database}.{table} LIMIT 5"
+execute(sql)
+
  # to join ad library w ad targeting: 
   #Column Name Change Notice-- The name of the fbid column of the ad_archive_api table was ad_archive_id prior to April 21, 2021. If you want to join on data before that date, use the ad_archive_id column name.
 data_joined = execute("SELECT * FROM fbri_prod_atp.ad_archive_api AS a, fbri_prod_atp.ad_targeting_dataset_siep_aug_2020 AS b WHERE a.ds = b.ds AND a.fbid = b.archive_id")
- 
  
  # to narrow down to UK:
 database = "fbri_prod_atp"
@@ -13,7 +29,6 @@ table = "ad_targeting_dataset_siep_aug_2020"
 api_table = "ad_archive_api"
 sql=f"select a.* from {database}.{table} as a, {database}.{api_table} as b where a.ds=b.ds and a.archive_id=b.fbid and b.reached_countries like '%GB%' limit 20;"
 execute(sql)
-
   
   # fields to include:
  archive_id

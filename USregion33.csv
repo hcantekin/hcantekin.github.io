@@ -1,4 +1,4 @@
-State,DEM_Ads,DEM_pc,REP_Ads,REP_pc,Population ,gdppc_th,total_don,DEM_don,REP_don,gdp ,gini
+State,DEM_Ads,Democrat,REP_Ads,Republican,Population (millions),GDP per capita (thousands of USD),total_don,DEM_don,REP_don,GDP (billions of USD),Inequality (Gini %)
 Alabama,29160,2.006085677,7415,1.779009369,5.04,41.664,45856354,15.35,78.77,247.09,0.48
 Alaska,21745,1.495964782,6558,1.573397632,0.73,69.43,10425219,31.56,63.12,54.97,0.44
 Arizona,33043,2.273219788,11553,2.771799762,7.28,47.779,70412397,47.89,47.25,411.19,0.46

@@ -1,51 +1,51 @@
 ,State,Number of Ads
-0,Washington,55820
-1,Pennsylvania,33970
-2,Florida,33846
-3,Michigan,33546
-4,North Carolina,33198
-5,Arizona,33043
-6,Wisconsin,32979
-7,Georgia,32455
-8,Virginia,32333
-9,New York,32331
-10,Texas,32234
-11,California,32186
+0,Alabama,29160
+1,Alaska,21745
+2,Arizona,33043
+3,Arkansas,27597
+4,California,32186
+5,Colorado,30640
+6,Connecticut,29907
+7,Delaware,24086
+8,Florida,33846
+9,Georgia,32455
+10,Hawaii,24354
+11,Idaho,23926
 12,Illinois,32022
-13,Ohio,31855
-14,New Jersey,31808
-15,Minnesota,31781
-16,Massachusetts,31594
-17,Maryland,31587
-18,Missouri,30968
-19,Indiana,30915
-20,Tennessee,30843
-21,Colorado,30640
-22,Oregon,30374
-23,South Carolina,29927
-24,Connecticut,29907
-25,Kentucky,29738
-26,Iowa,29515
-27,Alabama,29160
-28,Nevada,28921
-29,Oklahoma,28694
+13,Indiana,30915
+14,Iowa,29515
+15,Kansas,28323
+16,Kentucky,29738
+17,Louisiana,28199
+18,Maine,25745
+19,Maryland,31587
+20,Massachusetts,31594
+21,Michigan,33546
+22,Minnesota,31781
+23,Mississippi,25512
+24,Missouri,30968
+25,Montana,23219
+26,Nebraska,25819
+27,Nevada,28921
+28,New Hampshire,24855
+29,New Jersey,31808
 30,New Mexico,28614
-31,Kansas,28323
-32,Louisiana,28199
-33,Arkansas,27597
-34,Utah,26221
-35,Nebraska,25819
-36,Maine,25745
-37,Mississippi,25512
-38,West Virginia,25456
-39,New Hampshire,24855
-40,Hawaii,24354
-41,Delaware,24086
-42,Idaho,23926
-43,Rhode Island,23764
-44,Montana,23219
-45,Vermont,22127
-46,Alaska,21745
-47,South Dakota,20725
-48,North Dakota,18364
+31,New York,32331
+32,North Carolina,33198
+33,North Dakota,18364
+34,Ohio,31855
+35,Oklahoma,28694
+36,Oregon,30374
+37,Pennsylvania,33970
+38,Rhode Island,23764
+39,South Carolina,29927
+40,South Dakota,20725
+41,Tennessee,30843
+42,Texas,32234
+43,Utah,26221
+44,Vermont,22127
+45,Virginia,32333
+46,Washington,55820
+47,West Virginia,25456
+48,Wisconsin,32979
 49,Wyoming,16736

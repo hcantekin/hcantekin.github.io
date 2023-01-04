@@ -1,7 +1,7 @@
 ,gender,Party,Frequency,Percentage
-0,All,Dem,29867,44.78952657
-1,All,Rep,31273,46.89800999
-2,Men,Dem,218,0.326919905
-3,Men,Rep,1840,2.759323966
-4,Women,Dem,1871,2.805812576
-5,Women,Rep,1614,2.420407
+0,All,Democratic,29867,44.78952657
+1,All,Republican,31273,46.89800999
+2,Men,Democratic,218,0.326919905
+3,Men,Republican,1840,2.759323966
+4,Women,Democratic,1871,2.805812576
+5,Women,Republican,1614,2.420407

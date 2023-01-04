@@ -1,0 +1,101 @@
+﻿pc,Party,State,Population,gdppc_th,gdp 
+2.006085677,Democratic,Alabama,5.04,41.664,247.09
+1.495964782,Democratic,Alaska,0.73,69.43,54.97
+2.273219788,Democratic,Arizona,7.28,47.779,411.19
+1.898557834,Democratic,Arkansas,3.03,40.764,144.55
+2.214261783,Democratic,California,39.24,73.264,3356.63
+2.107903468,Democratic,Colorado,5.81,64.308,421.94
+2.057476143,Democratic,Connecticut,3.61,68.381,296.5
+1.657015762,Democratic,Delaware,1,64.187,80.72
+2.32846282,Democratic,Florida,21.78,47.269,1226.3
+2.232767855,Democratic,Georgia,10.8,53.27,683.3
+1.675453038,Democratic,Hawaii,1.44,51.713,90.06
+1.646008433,Democratic,Idaho,1.9,42.134,94.32
+2.202979271,Democratic,Illinois,12.67,61.56,938.35
+2.126822315,Democratic,Indiana,6.81,50.873,420.34
+2.030508188,Democratic,Iowa,3.19,56.295,219.84
+1.948503588,Democratic,Kansas,2.93,55.303,192.3
+2.045849652,Democratic,Kentucky,4.51,43.868,234.5
+1.939972908,Democratic,Louisiana,4.62,47.827,255.31
+1.771148002,Democratic,Maine,1.37,46.343,76.06
+2.173053096,Democratic,Maryland,6.17,59.783,438.23
+2.173534667,Democratic,Massachusetts,6.98,76.324,636.51
+2.307824078,Democratic,Michigan,10.05,47.934,568.41
+2.186399482,Democratic,Minnesota,5.71,60.659,412
+1.75511858,Democratic,Mississippi,2.95,35.374,125.11
+2.130468493,Democratic,Missouri,6.17,47.937,359.95
+1.597369799,Democratic,Montana,1.1,44.352,59.3
+1.776238892,Democratic,Nebraska,1.96,62.197,150.39
+1.989643479,Democratic,Nevada,3.14,50.753,192.96
+1.709919736,Democratic,New Hampshire,1.39,59.746,98.24
+2.188256969,Democratic,New Jersey,9.27,61.172,672.09
+1.968523167,Democratic,New Mexico,2.12,44.249,108.93
+2.224237175,Democratic,New York,19.84,76.365,1853.93
+2.283883138,Democratic,North Carolina,10.55,51.362,654.99
+1.263366165,Democratic,North Dakota,0.77,69.429,63.39
+2.191490372,Democratic,Ohio,11.78,53.42,736.45
+1.974026832,Democratic,Oklahoma,3.99,48.469,206.75
+2.089603784,Democratic,Oregon,4.25,53.691,266.94
+2.336993499,Democratic,Pennsylvania,12.96,54.842,839.44
+1.634863513,Democratic,Rhode Island,1.1,49.841,65.94
+2.058852059,Democratic,South Carolina,5.19,42.585,270.08
+1.425793061,Democratic,South Dakota,0.9,55.349,61.21
+2.121869017,Democratic,Tennessee,6.98,50.53,418.29
+2.217563982,Democratic,Texas,29.53,61.469,1985.32
+1.803894806,Democratic,Utah,3.34,55.995,220.34
+1.52224478,Democratic,Vermont,0.65,47.318,36.17
+2.224374767,Democratic,Virginia,8.64,58.474,591.85
+3.840181841,Democratic,Washington,7.74,74.319,667.58
+1.751266015,Democratic,West Virginia,1.78,40.014,87.39
+2.268816857,Democratic,Wisconsin,5.9,51.98,365.93
+1.151366594,Democratic,Wyoming,0.58,62.888,41.62
+1.779009369,Republican,Alabama,5.04,41.664,247.09
+1.573397632,Republican,Alaska,0.73,69.43,54.97
+2.771799762,Republican,Arizona,7.28,47.779,411.19
+1.779249289,Republican,Arkansas,3.03,40.764,144.55
+1.859142765,Republican,California,39.24,73.264,3356.63
+1.962068593,Republican,Colorado,5.81,64.308,421.94
+1.747339883,Republican,Connecticut,3.61,68.381,296.5
+1.593550941,Republican,Delaware,1,64.187,80.72
+2.950780341,Republican,Florida,21.78,47.269,1226.3
+2.880483679,Republican,Georgia,10.8,53.27,683.3
+1.485346865,Republican,Hawaii,1.44,51.713,90.06
+1.708712707,Republican,Idaho,1.9,42.134,94.32
+1.893931215,Republican,Illinois,12.67,61.56,938.35
+1.856503641,Republican,Indiana,6.81,50.873,420.34
+2.325547918,Republican,Iowa,3.19,56.295,219.84
+1.77301136,Republican,Kansas,2.93,55.303,192.3
+1.814997421,Republican,Kentucky,4.51,43.868,234.5
+1.977663416,Republican,Louisiana,4.62,47.827,255.31
+2.04292175,Republican,Maine,1.37,46.343,76.06
+1.78668682,Republican,Maryland,6.17,59.783,438.23
+1.793164669,Republican,Massachusetts,6.98,76.324,636.51
+2.419356774,Republican,Michigan,10.05,47.934,568.41
+2.37521143,Republican,Minnesota,5.71,60.659,412
+1.684960593,Republican,Mississippi,2.95,35.374,125.11
+1.844747544,Republican,Missouri,6.17,47.937,359.95
+1.644174134,Republican,Montana,1.1,44.352,59.3
+1.74542052,Republican,Nebraska,1.96,62.197,150.39
+2.3548182,Republican,Nevada,3.14,50.753,192.96
+2.152565348,Republican,New Hampshire,1.39,59.746,98.24
+1.884334401,Republican,New Jersey,9.27,61.172,672.09
+1.742781397,Republican,New Mexico,2.12,44.249,108.93
+1.989419513,Republican,New York,19.84,76.365,1853.93
+2.920790298,Republican,North Carolina,10.55,51.362,654.99
+1.610345365,Republican,North Dakota,0.77,69.429,63.39
+2.427753986,Republican,Ohio,11.78,53.42,736.45
+1.843308022,Republican,Oklahoma,3.99,48.469,206.75
+1.759575821,Republican,Oregon,4.25,53.691,266.94
+3.155912237,Republican,Pennsylvania,12.96,54.842,839.44
+1.536929739,Republican,Rhode Island,1.1,49.841,65.94
+1.850745552,Republican,South Carolina,5.19,42.585,270.08
+1.605786879,Republican,South Dakota,0.9,55.349,61.21
+1.830352323,Republican,Tennessee,6.98,50.53,418.29
+2.231739063,Republican,Texas,29.53,61.469,1985.32
+1.778529528,Republican,Utah,3.34,55.995,220.34
+1.450078574,Republican,Vermont,0.65,47.318,36.17
+1.957510107,Republican,Virginia,8.64,58.474,591.85
+2.87424575,Republican,Washington,7.74,74.319,667.58
+1.74542052,Republican,West Virginia,1.78,40.014,87.39
+2.604335361,Republican,Wisconsin,5.9,51.98,365.93
+1.623540984,Republican,Wyoming,0.58,62.888,41.62

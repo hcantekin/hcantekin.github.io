@@ -21,16 +21,16 @@
       "lookup": "properties.NAME",
       "from": {
         "key": "State",
-        "fields": ["State", "Number of Ads"],
+        "fields": ["State", "Ads"],
         "data": {
-          "url": "https://raw.githubusercontent.com/hcantekin/hcantekin.github.io/main/USDemsReg.json"
+          "url": "https://raw.githubusercontent.com/hcantekin/hcantekin.github.io/main/USDemsReg.csv"
         }
       }
     }
   ],
   "mark": {"type": "geoshape", "stroke": "white", "strokeWidth": 0.3},
   "encoding": {
-    "color": {"field": "Number of Ads", "type": "quantitative", "title": "Adverts"},
+    "color": {"field": "Ads", "type": "quantitative", "title": "Adverts"},
     "tooltip": [
       {
         "field": "State",
@@ -38,7 +38,7 @@
         "type": "nominal"
       },
       {
-        "field": "Number of Ads",
+        "field": "Ads",
         "title": "No. of Ads"
       }
     ]

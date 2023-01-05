@@ -76,9 +76,9 @@
                 can apply for access to the Ad Targeting dataset with a research proposal. I was granted access and explored the data in Jupyter. Overall, the Ad Library is much more user-friendly 
                 and allowed me to export csv's of data on ads, filtered by country, year, and social media page. Nonetheless, both the Library and API often had missing and awkwardly formatted data.  </p>
                 
-                <p>My main challenge was cleaning this “awkward” data, by extracting useful information from a lot of surplus string and floats.  The regional distribution data included a list of 
-                    each region the ad was posted and a percentage distribution for each region. I considered focussing on ads which were posted to one specific state (so the distribution was 1)
-                     but this greatly limited the dataset and left missing states in the US map. So, I downloaded a csv from the Ad Library on the ads posted by each party since 2019 and imported it into Colab. I wrote a Python 
+                <p>My main challenge was cleaning this “awkward” data, by extracting useful information from a lot of surplus string and floats.  Data on the regional distribution of ads included a list of 
+                    regions the ad was posted and a percentage distribution for each region. I considered focussing on ads which were posted to one specific state (so the distribution was 1)
+                     but this greatly limited the dataset and left missing states in the US map. So, I downloaded a csv from the Ad Library on the ads posted by each Party since 2019 and imported it into Colab. I wrote a Python 
                      <a class= "link" href= "https://github.com/hcantekin/hcantekin.github.io/blob/main/USDemsregion2.ipynb" id=b3> script</a>
                       which unstacks each ad's list of regions, cleans surplus string and floats, and counts the frequency of each region (i.e. state). Overall, this meant losing 
                       information on distribution but provides a broad idea of which states saw the greatest number of ads. </p>

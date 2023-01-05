@@ -1,0 +1,37 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": {
+      "text": "Economics of Regional Distribution by Party",
+      "subtitle": ["Share of ads per state (%) by population, GDP, and GDP per capita.", "Sources: Meta, Statista"],
+      "subtitleFontStyle": "italic",
+      "subtitleFontSize": 10,
+      "anchor": "start",
+      "color": "black"
+    },
+    "repeat": {
+      "row": ["Population (millions)", "GDP (billions of USD)", "GDP per capita (thousands of USD)"],
+      "column": ["Democratic", "Republican"]
+    },
+    "spec": {
+      "data": {"url": "https://raw.githubusercontent.com/hcantekin/hcantekin.github.io/main/USregion33.csv"},
+
+      "mark": "circle",
+        
+      "encoding": {
+        "x": {"field": {"repeat": "column"}, "type": "quantitative",
+        "axis":{
+            "tickCount": 4
+          }},
+        "y": {
+          "field": {"repeat": "row"},
+          "type": "quantitative"
+        },
+        "tooltip": {"field": "State", "type": "nominal"},
+        "color": {
+              "field": "State",
+              "type": "nominal",
+              "legend": null}
+        }
+      }
+    }
+  

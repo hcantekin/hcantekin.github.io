@@ -1,0 +1,234 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- Title for the page data_joined[ data_joined['page_name'].isin(['The Labour Party']) ] -->
+    <title>Data Science HC</title>
+
+    <!-- Link to my style sheet -->
+    <link rel="stylesheet" href="index.css">
+
+    <!--The next three lines allow the Vega embed-->
+    <script src="https://cdn.jsdelivr.net/npm/vega@5.22.1"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.2.0"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.12.2"></script>
+</head>
+
+
+<body>
+<!-- a div for buttons  -->
+    <div class="wrap">    
+        <h4>My Portfolio</h4>  
+        
+    </div>
+    <nav class="topnav">
+        <a href="project.html" id="link1">Project</a>
+        <a href="https://hcantekin.github.io/" id="link2">Portfolio</a>
+        <a href="https://github.com/hcantekin/hcantekin.github.io" id="link3">GitHub</a>
+    </nav>
+    <!-- A div that contains a group of items for week 1. Can be useful for setting background colours etc.  -->
+    <div class="myWeek1">
+        <h1>Week 1: Embedding Charts</h1> 
+        <h3>Environmental Innovation</h3>
+        <p>Chart 1 compares environmental technology patents across the G7.</p>
+        <div class="container">
+        <div class="chart" id="Chart1"></div>
+        </div>
+
+        <h3>UK Beach Litter</h3>
+        <p>Chart 2 shows the brands with the largest share of litter found on UK beaches.</p>
+        <div class="container">
+        <div class="chart" id="Chart2"> </div>
+        </div>
+    </div> 
+   
+    <div class="myWeek2"> 
+        <h1>Week 2: Linking Data</h1>
+        <h3>Financial Times Chart</h3>
+        <p>Chart 3 was created in this week's lecture: it shows the level of IMF lending over time.</p>
+        <div class="container">
+        <div class="chart" id="Chart3"></div>
+        </div>
+
+        <h3>Adjusted FT Chart</h3>
+        <p>Chart 4 develops Chart 3 by showing IMF lending over time as a share of global GDP (in current prices).</p>
+        <div class="container">
+        <div class="chart" id="Chart4"></div>
+        </div>
+       <p>According to Chart 4, the credit provided by the IMF has tended to decline over the last 30 years when adjusting for global GDP. 
+        Therefore, the riskiest year was 1984.</p>
+    </div>
+
+    <div class="myWeek3">
+        <h1>Week 3: Creating Charts</h1>
+        <h3>My First Chart</h3>
+        <p>Chart 5 examines the expected years of schooling for children in Central Europe and the Baltics, including differences by gender over time.</p>
+        <div class="container">
+        <div class="chart5" id="Chart5"></div>
+        </div>
+        <p>Chart 6 is a version of Chart 5 where I have made alterations to make the data more visually digestable.</p>
+        <div class="container">
+        <div class="chart" id="Chart6"></div>
+        </div>
+        <p>I changed the range of the y-axis so changes over time are more clear, changed the colours to be easily distinguishable, and increased the size of the colour strokes in the legend.</p>
+    </div>
+
+    <div class="myWeek4">
+        <h1>Week 4: Scraping Data</h1>
+        <h3>Scraping from Wikipedia</h3>
+        <p>Chart 7 was created using data from a Wikipedia table.</p>
+        <div class="container">
+        <div class="chart7" id="Chart7"></div>
+        </div>
+        <p>I attempted to scrape from other websites but ran into problems with the format of the data. Wikipedia is useful due to the large number of tables available, however, this chart would be better if it contained more data-points to show fluctuations over time. 
+        <p><a class="linka" href="https://github.com/hcantekin/hcantekin.github.io/blob/main/supermarket_data_cleaned.ipynb" id="a">My CoLab Code</a></p>
+    </div>
+
+    <div class="myWeek5">
+        <h1>Week 5: Building a Dashboard</h1>
+        <h3>Using the ONS API</h3>
+        <p>These charts show the number of welfare claimants (in thousands) in England over time, by region. <p><a class="linka" href="https://github.com/hcantekin/hcantekin.github.io/blob/main/data_ONS_dashboard.ipynb" id="a">My CoLab Code</a></p> </p>
+        <div class="grid" id="Grid1">
+            <div class="chart8" id="Chart8"></div>
+            <div class="chart9" id="Chart9"></div>
+            <div class="chart10" id="Chart10"></div>
+             <div class="chart11" id="Chart11"></div>
+             <div class="chart12" id="Chart12"></div>
+             <div class="chart13" id="Chart13"></div>
+             <div class="chart14" id="Chart14"></div>
+            <div class="chart15" id="Chart15"></div>
+            <div class="chart16" id="Chart16"></div>
+        </div>
+        
+    </div>
+
+    <div class="myWeek6">
+        <h1>Week 6: Reading Week</h1>
+     </div>  
+
+     <div class="myWeek7">
+        <h1>Week 7: Making Maps</h1>
+        <h3>Base Map</h3>
+        <p>This map shows the boundaries of Britain's Parliamentary consituencies. </p>
+        <div class="container">
+        <div class="chart17" id="Chart17"></div>
+        </div>
+
+        <h3>Chloropleth Map</h3>
+        <p>Building on the base map, this chloropleth shows the distribution of electoral registrations by consituency in 2021. The darker the region, the higher the number of registrations.</p>
+        <div class="container">
+        <div class="chart18" id="Chart18"></div>
+        </div>
+    </div> 
+     
+    <div class="myWeek8">
+        <h1>Week 8: Festival of Economics</h1>
+        <h3>Growth for Good</h3>
+        <p><a class="linkb" href="https://twitter.com/terzibus" id= "a1">Alessio Terzi</a> argues that people - particularly the young - feel increasingly frustrated by unsustainable and unequal economic growth. Chart 8 and 9 explore whether this is reflected in attitudes towards policy-makers.</p>
+        <div class="container">
+        <div class="chart19" id="Chart19"></div>
+        </div>
+        <p>Chart 8 demonstrates that there is no clear trend in levels of trust in governance over time for these countries.</p>
+            
+        <div class="container">
+        <div class="chart20" id="Chart20"></div>
+        </div>
+        <p>Chart 9 shows that in the last 20 years, an increasing share of Americans are not confident in the US government - which corroborates Terzi's argument. However, it also suggests that low confidence is more prevalent amongst older groups. Therefore, this survey's results contradict the idea that young people in particular are frustrated with policymakers.</p>
+     </div> 
+
+     <div class="myWeek9">
+        <h1>Week 9: Advanced Charts</h1>
+        <h3>Renewable Development</h3>
+        <p>Chart 10 explores whether there is a correlation between a country's development (proxied by GDP per capita) and it's use of renewable energy.</p>
+        <div class="container">
+        <div class="chart21" id="Chart21"></div>
+        </div>
+        <p>The distribution of points and the line of best fit indicate that there is no clear relationship between GDP and renewable energy transition.</P>
+        <h3>Political Advertisements</h3>
+        <div class="container">
+        <div class="chart22" id="Chart22"></div>
+        </div>
+        <p>This histogram shows the distribution for the length of delivery of Labour's online adverts, and indicates ads are most likely to run for 3 to 4 days. </p>
+    </div>   
+    <div class="myWeek10">
+        <h1>Week 10-11: Machine Learning</h1>
+        <h3>Supervised Learning</h3>
+        <p>I have used linear regression to examine a potential relationship between the distribution of online ads posted by the Democratic Party and US population by state.
+            The resulting line suggests a positive relationship, whereby the Democratic Party tends to post more ads in states with a higher population. <a class="linka" href= "https://github.com/hcantekin/hcantekin.github.io/blob/main/MLlinreg.ipynb" id="a"> My Colab Code.</a> </p>
+        <div style="text-align: center;">
+        <img src="Dem_linreg.jpg" alt="DemLR" height="300" width="450">
+        </div>
+            <h3>Unsupervised Learning</h3>
+        <p>I have used text clustering to analyse Facebook and Instagram adverts from 2021 which mention 'Brexit'. Clustering with text data required cleaning the text and vectorizing it using the sklearn library 'tfidvectorizer'. I aimed to explore whether distinguishable clusters appeared, which could be considered "pro" or "anti" Brexit. I created a wordcloud as part of my initial exploration of the data.</p>
+        <div style="text-align: center;">
+        <img src="brexitwordcloud.jpg" alt="Brexit">
+        </div>
+        <p>Overall, checking the key words of the clusters revealed no clearly distinguishable pro or anti-Brexit sentiment. Nonetheless, experimenting with the number of clusters does reveal the range of Brexit-related issues featured in the ads, for example, some clusters featured themes of business, farming, and pollution. <a class="linka" href="https://github.com/hcantekin/hcantekin.github.io/blob/main/Brexit_ML.ipynb" id="a"> My Colab Code. </a></p>
+    </div>
+    
+  </div>     
+
+</body>
+
+
+<script>
+    //Define charts:
+    var myChart1 = "chartENV11.json";
+    var myChart2 = "chartENV17.json";
+    var myChart3 = "IMF_chart_lending.json";
+    var myChart4 = "IMF_chart_fixed.json";
+    var myChart5 = "ceb_chart_draft.json";
+    var myChart6 = "CEB_chart1.json";
+    var myChart7 = "supermarket_chart.json";
+    var myChart8 = "ONS_DPAX(yh).json";
+    var myChart9 = "ONS_DPAY(em).json";
+    var myChart10 = "ONS_DPBC(wm).json";
+    var myChart11 = "ONS_DPDG(ne).json";
+    var myChart12 = "ONS_DPDJ(e).json";
+    var myChart13 = "ONS_DPDK(ldn).json";
+    var myChart14 = "ONS_DPDL(se).json";
+    var myChart15 = "ONS_IBWA(nw).json";
+    var myChart16 = "ONS_IBWK(E).json";
+    var myChart17 = "GBboundaries.json";
+    var myChart18 = "GBelec_map.json";
+    var myChart19 = "OECD_trustgov2.json";
+    var myChart20 = "gss_USconf.json";
+    var myChart21 = "OECD_RenEnergy.json";
+    var myChart22 = "Labourduration.json";
+
+    // Embed charts:
+    vegaEmbed('#Chart1', myChart1);
+    vegaEmbed('#Chart2', myChart2);
+    vegaEmbed('#Chart3', myChart3);
+    vegaEmbed('#Chart4', myChart4);
+    vegaEmbed('#Chart5', myChart5);
+    vegaEmbed('#Chart6', myChart6);
+    vegaEmbed('#Chart7', myChart7); 
+    vegaEmbed('#Chart8', myChart8);
+    vegaEmbed('#Chart9', myChart9);
+    vegaEmbed('#Chart10', myChart10);
+    vegaEmbed('#Chart11', myChart11);
+    vegaEmbed('#Chart12', myChart12);
+    vegaEmbed('#Chart13', myChart13);
+    vegaEmbed('#Chart14', myChart14);
+    vegaEmbed('#Chart15', myChart15); 
+    vegaEmbed('#Chart16', myChart16);
+    vegaEmbed('#Chart17', myChart17);
+    vegaEmbed('#Chart18', myChart18);
+    vegaEmbed('#Chart19', myChart19);
+    vegaEmbed('#Chart20', myChart20); 
+    vegaEmbed('#Chart21', myChart21);
+    vegaEmbed('#Chart22', myChart22);
+</script>
+
+</html>
+
+
+
+  

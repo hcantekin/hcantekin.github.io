@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <script src="https://cdn.jsdelivr.net/npm/vega@5.22.1"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.2.0"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.12.2"></script>
+       
+        <title>My Project</title>
+    
+        <link rel="stylesheet" href="project.css" />
+  
+        
+</head>
+      
+
+<body>
+    <!-- a div for buttons  -->
+        <div class="wrap">    
+            <h1>My Project</h1> 
+            <h2>Online Political Advertising in the United States
+            </h2> 
+        </div>
+        <nav class="topnav">
+            <a href="project.html" id="link1">Project</a>
+            <a href="https://hcantekin.github.io/" id="link2">Portfolio</a>
+            <a href="https://github.com/hcantekin/hcantekin.github.io" id="link3">GitHub</a>
+        </nav>
+        <div class="mainbody">
+            <h3>Aims & Analysis</h3>
+            <p>The aim of my project is to provide insight into how online political advertising is employed by the two main political parties in the United States. 
+                Specifically, I will use data compiled by Meta to examine the regional distribution of Facebook and Instagram ads posted by the Democratic and Republican Party.
+               I will also explore potential correlations between the distribution of ads with population and GDP by state.</p>
+            <div class="container">
+            <div class="chart" id="Chart1"></div>
+            </div>
+            <p>These maps suggest that both parties prioritise advertising in coastal regions, where populations tend to be larger. However, the Party's diverge on the basis 
+                that Washington saw the highest count of Democratic ads, whereas Pennsylvania saw the highest count of Republican ads. </p>
+            <div class="container">
+            <div class="chart" id="Chart2"></div>
+            </div>
+            <p> This chart demonstrates that there is a positive correlation when plotting the proportion of ads by state for each Party. For example, West Virginia saw 1.75 per 
+                cent of each Party's ads. Overall, this suggests that the Republican and Democratic Party tend to post more ads in the same states. </p>
+            <div class="container">
+            <div class="chart" id="Chart3"></div>
+            </div>
+        
+            <p> These charts examine the regional distribution for political ads alongside key economic factors such as population, GDP, and GDP per capita. 
+                As we would expect from analysing the maps, there is a positive trend when plotting the distribution of ads against population by state for both parties. 
+                This seems logical, as states with a greater population contain more potential voters and donors. However, this trend is less clear for the Republican party as 
+                the datapoints are more scattered. 
+                One possible explanation for this is the prioritisation of advertising in marginal or “purple states”, where both the Democratic or Republican Party could reasonably
+                 win the state in an election. Interestingly, the states with the highest number of Republican ads were all marginal in the 2020 presidential election: Florida, Pennsylvania, North Carolina, and Georgia. 
+
+                <div class="container">
+                    <div class="chart" id="Chart6"></div>
+                    </div>
+                <p>This chart indicates a positive trend between real GDP and the number of ads by state. Although, similarly to population, this trend is less clear for the Republican Party.
+                     However, for GDP per capita - a more nuanced measure which can be considered a proxy for living standards - there is no easily distinguishable trend for either Party. </p>
+                    <div class="container">
+                        <div class="chart" id="Chart7"></div>
+                        <div class="chart" id="Chart8"></div>
+                        </div>            
+                        <!-- <div class="container">
+                        <div class="chart" id="Chart8"></div>
+                    </div>  -->
+                    
+
+            <h3>Data</h3>
+            <p> I collected my data from <a class="link" href= "https://www.statista.com/statistics/248063/per-capita-us-real-gross-domestic-product-gdp-by-state/" id=b> Statista</a> and Meta. There 
+                are two ways I accessed Meta's data: (1) the publicly accessible <a class="link" href="https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=GB&media_type=all"> Ad Library</a> and (2) the <a class="link" href= "https://www.facebook.com/ads/library/api/?source=archive-landing-page"> Library API</a>, where researchers 
+                can apply for access to the Ad Targeting dataset with a research proposal. I was granted access and explored the data in Jupyter. Overall, the Ad Library is much more user-friendly 
+                and allowed me to export csv's of data on ads, filtered by country, year, and social media page. Nonetheless, both the Library and API often had missing and awkwardly formatted data.  </p>
+                
+                <p>My main challenge was cleaning this “awkward” data, by extracting useful information from a lot of surplus string and floats.  The regional distribution data included a list of 
+                    each region the ad was posted and a percentage distribution for each region. I considered focussing on ads which were posted to one specific state (so the distribution was 1)
+                     but this greatly limited the dataset and left missing states in the US map. So, I downloaded a csv from the Ad Library on the ads posted by each party since 2019 and imported it into Colab. I wrote a Python 
+                     <a class= "link" href= "https://github.com/hcantekin/hcantekin.github.io/blob/main/USDemsregion2.ipynb" id=b3> script</a>
+                      which unstacks each ad's list of regions, cleans surplus string and floats, and counts the frequency of each region (i.e. state). Overall, this meant losing 
+                      information on distribution but provides a broad idea of which states saw the greatest number of ads. </p>
+                 
+                 <div class="container">
+                    <div class="chart" id="Chart5"></div>
+                    </div>
+
+                    <p>I largely relied on the Ad Library but also used the API to access the targeting dataset. This allowed me to collect some data on how ads which are targeted to 
+                        users based on political interest (Democratic or Republican), target by gender. Using the API required writing a <a class="link" href="https://github.com/hcantekin/hcantekin.github.io/blob/main/Ads_interestsUS_scrubbed.ipynb"> script</a> with SQL and Python, but the Meta VPN was often unreliable and
+                        exporting large amounts of data was tricky due to data protections. Luckily, copying and pasting is not prevented, so I 
+                        converted data into csv's in Jupyter and copied large samples into Excel. With the csv loaded into Colab, I labelled each row 'Dem' or 'Rep' based on the 
+                        ad's targeted interests and grouped the resulting data by Party and gender (<a class="link" href= "https://github.com/hcantekin/hcantekin.github.io/blob/main/DRinterests_GA.ipynb">script</a>).
+                         This bar chart shows that most ads in the sample were targeted to all genders, however, ads which targeted 
+                        users with Democratic political interest were less likely to target men. </p>
+
+            <h3>Conclusion</h3>
+            <p>Overall, my project has explored the differences in the regional distribution of Democratic and Republican Party ads. My research suggests that factors such as population,
+                 GDP, and “purple” states can contribute to understanding where political parties post ads. Sometimes the scope of my analysis was limited by the awkward formatting of 
+                 Meta's data. Nonetheless, I am pleased I was able to create maps on ad distribution and explore the targeting dataset.  </p>
+        </div> 
+
+    </body>
+
+    <script> 
+    var myChart1 = "USDemsReg.json"
+    var myChart2 = "USRepReg.json"
+    var myChart3 = "USads.json";
+    var myChart4 = "USaddashb2.json";
+    var myChart5 = "DR_gender.json";
+    var myChart6 = "USad_population.json";
+    var myChart7 = "USads_gdp.json";
+    var myChart8 = "USads_gdppc.json";
+    // var myChart9 = "gdp_gdppc.json";
+    // var myChart10 = "Hgdp_gdppc.json";
+
+    vegaEmbed('#Chart1', myChart1);
+    vegaEmbed('#Chart2', myChart2);
+    vegaEmbed('#Chart3', myChart3);
+    vegaEmbed('#Chart4', myChart4);
+    vegaEmbed('#Chart5', myChart5);
+    vegaEmbed('#Chart6', myChart6);
+    vegaEmbed('#Chart7', myChart7);
+    vegaEmbed('#Chart8', myChart8);
+    // vegaEmbed('#Chart9', myChart9);
+    // vegaEmbed('#Chart10', myChart10);
+    </script>
+</html>

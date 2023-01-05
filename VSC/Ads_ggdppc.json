@@ -1,0 +1,35 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": {
+      "text": "Distribution of Online Ads by GDP per capita",
+      "subtitle": "Source: Meta, Statista",
+      "subtitleFontStyle": "italic",
+      "subtitleFontSize": 10,
+      "anchor": "start",
+      "color": "black"
+    },
+    "height": 300,
+    "width": 300,
+    "description": "A scatterplot showing horsepower and miles per gallons that opens a Google search for the car that you click on.",
+    "data": {"url": "https://raw.githubusercontent.com/hcantekin/hcantekin.github.io/main/USadsRegion22.csv"},
+  
+  "layer": [
+      {  
+    "mark": {"type": "circle", "size": 50},
+    "encoding": {
+      "x": {"field": "gdppc_th", "type": "quantitative", "title": "GDP per capita (thousands of USD)", "scale": {"domainMin": 20, "domainMax": 80}},
+      "y": {"field": "Ads_pc", "type": "quantitative", "title": "Proportion of Ads by state (%)", "scale": {"domainMin": 1, "domainMax": 4}},
+      "color": {"field": "Party", "type": "nominal"},
+      "tooltip": {"field": "State", "type": "nominal"}
+    }
+  },
+  {
+        "mark": {"type": "line", "color": "red"},
+        "transform": [{"regression": "Ads_pc", "on": "gdppc_th"}],
+        "encoding": {
+          "y": {"field": "Ads_pc", "type": "quantitative"},
+          "x": {"field": "gdppc_th", "type": "quantitative"}
+        }
+      }
+    ]
+  }

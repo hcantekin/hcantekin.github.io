@@ -1,0 +1,37 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title":{
+        "text": "US Citizens with Low Confidence in Government",
+        "fontSize": 12,
+        "subtitle": ["Proportion of survey respondents who have 'hardly any' confidence by age.", "Source: GSS"],
+         "subtitleFontStyle":"italic",
+          "subtitleFontSize":10,
+        "anchor": "start",
+        "color": "black"},
+    "description": "Stock prices of 5 Tech Companies over Time.",
+    "data": {"url": "https://raw.githubusercontent.com/hcantekin/hcantekin.github.io/main/data_gss_youthconf"},
+    "height": 300,
+    "width": 300,
+    "mark": "line",
+    "encoding": {
+      "x": {
+        "field": "Year ", 
+        "type": "quantitative",
+        "axis":{"grid":false, "format": ".0f"}
+        },
+      "y": {
+        "field": "Confidence", 
+        "type": "quantitative",
+        "axis": {
+          "title": "'Hardly any' confidence (%)",
+          "grid": false}
+        },
+      "color": {
+        "field": "Age", 
+        "type": "nominal",
+        "legend": {"symbolStrokeWidth": 4, "orient": "top-left"},
+        "scale": {"domain": ["18-30", "31-55", "56-88"], "range": ["#60ba6c", "#2473b4", "#aeadd3"]}
+      }
+    }
+  }
+  

@@ -1,0 +1,193 @@
+/* Richard Davies, Data Science for Economists */
+
+/* This is my first proper css file */
+
+
+/* Import a font */
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Neuton&display=swap');
+
+
+/* Set the background color for my page: */
+body{
+    background-color: rgba(176, 221, 243, 0.8);
+}
+.topnav{
+    text-align:center;
+}
+/* buttons */
+.topnav a{ 
+    font-size: 19px; 
+    color:rgb(16, 120, 87);  
+}
+.linka{
+    font-size: 14; 
+    color:rgb(16, 120, 87);
+}
+.linkb{
+    font-size: 14; 
+    color:rgb(16, 120, 87);
+}
+#a:hover{
+    background-color:rgba(147, 197, 223, 0.5);
+    border-radius: 6px;
+}
+#link1{
+    background-color: transparent;
+    border-radius: 6px;
+    font-family: Oswald; 
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#link1:hover{
+
+    background-color:rgba(147, 197, 223, 0.5);
+}
+
+#link2{
+    background-color: transparent;
+    border-radius: 6px;
+    font-family: Oswald; 
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#link2:hover{
+    background-color:rgba(147, 197, 223, 0.5);
+}
+
+#link3{
+    background-color: transparent;
+    border-radius: 6px;
+    font-family: Oswald; 
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#link3:hover{
+    background-color:rgba(147, 197, 223, 0.5);
+}
+
+
+/* Choose the appearance of the tags, h1, h3 and p: */
+h4{
+    color:rgb(248, 248, 248);
+    font-family: 'Oswald', sans-serif;
+    font-size: 100px;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+h5{
+    color:rgb(0, 0, 0);
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    text-align: center;
+    font-style: italic;
+}
+
+h1{
+    color:rgb(16, 120, 87);
+    font-family: 'Oswald', sans-serif;
+    font-size: 40px;
+    text-align: center;
+}
+h3{
+    color:rgb(16, 120, 87);
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+p{
+    color:rgb(0, 0, 0);
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size: 14;
+}
+.container{
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
+.myWeek1, .myWeek2, .myWeek3, .myWeek4, .myWeek5, .myWeek6, .myWeek7, .myWeek8, .myWeek9, .myWeek10{
+    margin: auto;
+    max-width: 800px;
+    background-color: rgb(214, 240, 251, .8);
+    border-radius: 20px;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-bottom: 4px;
+    }
+.chart, .chart20, .chart21, .chart22{
+    margin: 0 auto;
+    /* display: inline-block;
+    margin: 0 auto; */
+    background-color: rgb(255, 255, 255);
+    width:400px; 
+    /* reduce to closer to 300 for mobile-suitability  */
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: rgb(16, 120, 87);
+    padding: 6px 14px;   
+}
+.chart5{
+    margin: 0 auto;
+    background-color: rgb(255, 255, 255);
+    width:340px; 
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: rgb(16, 120, 87);
+    padding: 6px 14px;     
+}
+.chart7{
+    margin: 0 auto;
+    background-color: rgb(255, 255, 255);
+    width:380px; 
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: rgb(16, 120, 87);
+    padding: 6px 14px;
+}
+.chart19{
+    margin: 0 auto;
+    background-color: rgb(255, 255, 255);
+    width:430px; 
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: rgb(16, 120, 87);
+    padding: 6px 14px;
+}
+.chart8, .chart9, .chart10, .chart11, .chart12, .chart13, .chart14, .chart15, .chart16{
+    border-width: 1px;
+    border-style:groove;
+    border-radius: 7px;
+    border-color: rgb(16, 120, 87, 0.5);
+    background-color: white;
+    padding-left: 12px;
+}
+.Grid1{
+    display: grid;
+    grid-template-columns: 3;
+    margin: auto;
+}   
+.chart17, .chart18{
+    margin: 0 auto;
+    background-color: rgb(255, 255, 255);
+    width:360px; 
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: rgb(16, 120, 87);
+    padding: 6px 14px;   
+}
+ /* display: flex;
+    align-items: center;
+    justify-content: center;
+    width: auto;
+    height: auto;  */

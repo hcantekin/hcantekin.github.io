@@ -1,0 +1,44 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title":{
+      "text": "Expected years of schooling in Central Europe & the Baltics",
+      "fontSize": 12,
+      "subtitle": "By gender, Source: World Bank",
+       "subtitleFontStyle":"italic",
+        "subtitleFontSize":10,
+      "anchor": "start",
+      "color": "black"},
+    "description": "Expected years of schooling by gender in Central Europe & the Baltics",
+    "data": {
+    "values": [{"XS": "Female", "Year": "1996-01-01", "Value": 12.65637016}, {"XS": "Female", "Year": "1997-01-02", "Value": 12.98682022}, {"XS": "Female", "Year": "1998-01-04", "Value": 13.35171032}, {"XS": "Female", "Year": "1999-01-06", "Value": 13.78143024}, {"XS": "Female", "Year": "2000-01-08", "Value": 14.04880047}, {"XS": "Female", "Year": "2001-01-09", "Value": 14.39136982}, {"XS": "Female", "Year": "2002-01-11", "Value": 14.73085976}, {"XS": "Female", "Year": "2003-01-13", "Value": 14.98425007}, {"XS": "Female", "Year": "2004-01-15", "Value": 14.86079025}, {"XS": "Female", "Year": "2005-01-16", "Value": 15.09230042}, {"XS": "Female", "Year": "2006-01-18", "Value": 15.27184963}, {"XS": "Female", "Year": "2007-01-20", "Value": 15.48816967}, {"XS": "Female", "Year": "2008-01-22", "Value": 15.71455956}, {"XS": "Female", "Year": "2009-01-23", "Value": 15.87129021}, {"XS": "Female", "Year": "2010-01-25", "Value": 16.03915977}, {"XS": "Female", "Year": "2011-01-27", "Value": 15.93484974}, {"XS": "Female", "Year": "2012-01-29", "Value": 15.83808041}, {"XS": "Female", "Year": "2013-01-30", "Value": 16.39822006}, {"XS": "Female", "Year": "2014-02-01", "Value": 16.27520943}, {"XS": "Female", "Year": "2015-02-03", "Value": 16.22114944}, {"XS": "Female", "Year": "2016-02-05", "Value": 16.12334061}, {"XS": "Female", "Year": "2017-02-06", "Value": 16.14677048}, {"XS": "Female", "Year": "2018-02-08", "Value": 16.02352905}, {"XS": "Female", "Year": "2019-02-10", "Value": 15.87049007}, {"XS": "Male", "Year": "1996-01-01", "Value": 12.19178009}, {"XS": "Male", "Year": "1997-01-02", "Value": 12.53454018}, {"XS": "Male", "Year": "1998-01-04", "Value": 12.83693981}, {"XS": "Male", "Year": "1999-01-06", "Value": 13.17319965}, {"XS": "Male", "Year": "2000-01-08", "Value": 13.42992973}, {"XS": "Male", "Year": "2001-01-09", "Value": 13.68887043}, {"XS": "Male", "Year": "2002-01-11", "Value": 13.98987961}, {"XS": "Male", "Year": "2003-01-13", "Value": 14.23069954}, {"XS": "Male", "Year": "2004-01-15", "Value": 13.99547005}, {"XS": "Male", "Year": "2005-01-16", "Value": 14.20195007}, {"XS": "Male", "Year": "2006-01-18", "Value": 14.32306004}, {"XS": "Male", "Year": "2007-01-20", "Value": 14.47996044}, {"XS": "Male", "Year": "2008-01-22", "Value": 14.61793995}, {"XS": "Male", "Year": "2009-01-23", "Value": 14.71673965}, {"XS": "Male", "Year": "2010-01-25", "Value": 14.80023003}, {"XS": "Male", "Year": "2011-01-27", "Value": 14.71905041}, {"XS": "Male", "Year": "2012-01-29", "Value": 14.67951012}, {"XS": "Male", "Year": "2013-01-30", "Value": 15.13230038}, {"XS": "Male", "Year": "2014-02-01", "Value": 15.04751968}, {"XS": "Male", "Year": "2015-02-03", "Value": 15.00957012}, {"XS": "Male", "Year": "2016-02-05", "Value": 14.94719982}, {"XS": "Male", "Year": "2017-02-06", "Value": 14.95833969}, {"XS": "Male", "Year": "2018-02-08", "Value": 14.89352989}, {"XS": "Male", "Year": "2019-02-10", "Value": 14.64863968}, {"XS": "Total", "Year": "1996-01-01", "Value": 12.41423035}, {"XS": "Total", "Year": "1997-01-02", "Value": 12.75597}, {"XS": "Total", "Year": "1998-01-04", "Value": 13.08928013}, {"XS": "Total", "Year": "1999-01-06", "Value": 13.47111034}, {"XS": "Total", "Year": "2000-01-08", "Value": 13.73299026}, {"XS": "Total", "Year": "2001-01-09", "Value": 14.03293991}, {"XS": "Total", "Year": "2002-01-11", "Value": 14.35342979}, {"XS": "Total", "Year": "2003-01-13", "Value": 14.60048962}, {"XS": "Total", "Year": "2004-01-15", "Value": 14.42113018}, {"XS": "Total", "Year": "2005-01-16", "Value": 14.63910007}, {"XS": "Total", "Year": "2006-01-18", "Value": 14.78859997}, {"XS": "Total", "Year": "2007-01-20", "Value": 14.97414017}, {"XS": "Total", "Year": "2008-01-22", "Value": 15.15443993}, {"XS": "Total", "Year": "2009-01-23", "Value": 15.28151035}, {"XS": "Total", "Year": "2010-01-25", "Value": 15.40497017}, {"XS": "Total", "Year": "2011-01-27", "Value": 15.3120203}, {"XS": "Total", "Year": "2012-01-29", "Value": 15.24370956}, {"XS": "Total", "Year": "2013-01-30", "Value": 15.75014973}, {"XS": "Total", "Year": "2014-02-01", "Value": 15.64548016}, {"XS": "Total", "Year": "2015-02-03", "Value": 15.59953976}, {"XS": "Total", "Year": "2016-02-05", "Value": 15.52001953}, {"XS": "Total", "Year": "2017-02-06", "Value": 15.53713989}, {"XS": "Total", "Year": "2018-02-08", "Value": 15.44412994}, {"XS": "Total", "Year": "2019-02-10", "Value": 15.24411964}]},
+    "height": 260,
+    "width": 260,
+  
+    "mark": {
+      "type": "line"},
+  
+    "encoding": {
+      "x": {
+        "field": "Year",
+         "type": "temporal",
+         "axis": {
+           "title": "Year",
+           "grid":true}},
+      "y": {
+        "field": "Value", 
+        "type": "quantitative",
+        "scale": {"domainMin": 10, "domainMax": 18},
+        "axis": {
+            "title": "",
+            "grid":true}},
+
+      "color": {
+        "field": "XS",
+        "type": "nominal",
+        "legend": {"symbolStrokeWidth": 4, "orient": "top-left"},
+        "axis": {
+          "title": ""},
+        "scale": {"domain": ["Female", "Male", "Total"], "range": ["#60ba6c", "#2473b4", "#aeadd3"]}
+        }
+      }   
+  }

@@ -1,0 +1,63 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title":{
+      "text": "Renewable Transition by GDP per capita 2021",
+      "subtitle": "OECD countries by renewable energy and real GDP per capita, Source: OECD",
+      "subtitleFontStyle":"italic",
+      "subtitleFontSize":10,
+      "anchor": "start",
+      "color": "black"
+    },
+  
+    "height": 300,
+    "width": 300,
+  
+    "data": {"url": "https://raw.githubusercontent.com/hcantekin/hcantekin.github.io/main/data_OECD_RE"},
+  
+  "transform": [
+    {"calculate": "datum.GDPpc/1000", "as": "thousands"}
+    ],
+  
+  "layer":[{
+     "mark": {
+      "type": "circle",
+      "size": 60,
+      "color": "darkgreen"},
+      "encoding": {
+           "x": {
+              "field": "RES", 
+              "type": "quantitative",
+              "title": "Renewable energy, % of total energy"},
+           "y": {
+               "field": "thousands", 
+               "type": "quantitative",
+                 "title": "Real GDP per capita (thousands of USD)"},
+      "tooltip": [
+        {"field": "Country ", "type": "ordinal"}
+        
+        ]
+    }
+  },
+  {
+    "mark":{
+    "type": "line",
+    "color": "red"
+    },
+    "transform":[{
+      "regression": "thousands",
+      "on": "RES"
+    }],
+    "encoding": {
+      "y":{
+        "field":"thousands",
+        "type":"quantitative"
+      },
+      "x":{
+        "field":"RES",
+        "type":"quantitative"
+      }
+    }
+  }
+  ]
+  }
+  

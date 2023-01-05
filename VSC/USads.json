@@ -1,0 +1,62 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title":{
+    "text": "Comparison of Regional Distribution by Party",
+    "subtitle": ["Share of each Party's total online adverts by state, 2019 - 2022",  "Source: Meta"],
+    "subtitleFontStyle":"italic",
+    "subtitleFontSize":10,
+    "anchor": "start",
+    "color": "black"
+  },
+
+  "height": 300,
+  "width": 300,
+
+  "data": {"url": "https://raw.githubusercontent.com/hcantekin/hcantekin.github.io/main/USadsRegion.csv"},
+
+"layer":[{
+   "mark": {
+    "type": "circle",
+    "size": 50,
+    "color": "darkslateblue"},
+    "encoding": {
+         "x": {
+            "field": "DEM_pc", 
+            "type": "quantitative",
+            "title": "Democrat (%)"},
+         "y": {
+             "field": "REP_pc", 
+             "type": "quantitative",
+               "title": "Republican (%)"},
+    "tooltip": [
+      {"field": "State", "type": "ordinal"},
+      {"field": "REP_pc", "type": "quantitative", "title": "Rep", "format":".2f"},
+      {"field": "DEM_pc", "type": "quantitative", "title": "Dem", "format":".2f"}
+      
+      ]
+  }
+},
+{
+  "mark":{
+  "type": "line",
+  "color": "indianred"
+  },
+  "transform":[{
+    "regression": "REP_pc",
+    "on": "DEM_pc"
+  }],
+  "encoding": {
+    "y":{
+      "field":"REP_pc",
+      "type":"quantitative",
+      "scale": {"domainMin": 1, "domainMax": 3.5}
+    },
+    "x":{
+      "field":"DEM_pc",
+      "type":"quantitative",
+      "scale": {"domainMin": 1, "domainMax": 4}
+    }
+  }
+}
+]
+}

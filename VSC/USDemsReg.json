@@ -1,0 +1,46 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "Online Advertising by the Democratic Party",
+    "subtitle": ["Count of ads by official pages on Facebook and Instagram", "2019 - 2022, Source: Meta"],
+    "subtitleFontStyle": "italic",
+    "subtitleFontSize": 10,
+    "anchor": "middle",
+    "color": "black"
+  },
+  "config": {"background": "white", "view": {"stroke": "transparent"}},
+  "width": 250,
+  "height": 310,
+  "data": {
+    "url": "https://raw.githubusercontent.com/hcantekin/hcantekin.github.io/main/USAmap22.json",
+    "format": {"property": "features"}
+  },
+  "projection": {"type":"albersUsa"},
+  "transform": [
+    {
+      "lookup": "properties.NAME",
+      "from": {
+        "key": "State",
+        "fields": ["State", "Number of Ads"],
+        "data": {
+          "url": "https://raw.githubusercontent.com/hcantekin/hcantekin.github.io/main/USDemsReg.json"
+        }
+      }
+    }
+  ],
+  "mark": {"type": "geoshape", "stroke": "white", "strokeWidth": 0.3},
+  "encoding": {
+    "color": {"field": "Number of Ads", "type": "quantitative", "title": "Adverts"},
+    "tooltip": [
+      {
+        "field": "State",
+        "title": "State",
+        "type": "nominal"
+      },
+      {
+        "field": "Number of Ads",
+        "title": "No. of Ads"
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "US Political Ads by State",
+    "subtitle": ["Examining relationship with population, GDP, GDP per capita, and inequality.", "Sources: Meta, Statista"],
+    "subtitleFontStyle": "italic",
+    "subtitleFontSize": 10,
+    "anchor": "start",
+    "color": "black"
+  },
+  "repeat": {
+    "row": ["Population (millions)", "GDP per capita (thousands of USD)", "GDP (billions of USD)", "Inequality (Gini %)"],
+    "column": ["Democrat", "Republican"]
+  },
+  "spec": {
+    "data": {"url": "https://raw.githubusercontent.com/hcantekin/hcantekin.github.io/main/USregion33.csv"},
+
+    "mark": "circle",
+    "params": [
+      {
+        "name": "brush",
+        "select": {
+          "type": "interval",
+          "resolve": "union",
+          "on": "[mousedown[event.shiftKey], window:mouseup] > window:mousemove!",
+          "translate": "[mousedown[event.shiftKey], window:mouseup] > window:mousemove!",
+          "zoom": "wheel![event.shiftKey]"
+        }
+      },
+      {
+        "name": "grid",
+        "select": {
+          "type": "interval",
+          "resolve": "global",
+          "translate": "[mousedown[!event.shiftKey], window:mouseup] > window:mousemove!",
+          "zoom": "wheel![!event.shiftKey]"
+        },
+        "bind": "scales"
+      }
+    ],
+    "encoding": {
+      "x": {"field": {"repeat": "column"}, "type": "quantitative"},
+      "y": {
+        "field": {"repeat": "row"},
+        "type": "quantitative"
+      },
+      "tooltip": {"field": "State", "type": "nominal"},
+      "color": {
+        "condition": {
+          "param": "brush",
+          "field": "State",
+          "type": "nominal",
+          "legend": null
+        },
+        "value": "grey"
+      }
+    }
+  }
+}

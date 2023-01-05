@@ -12,8 +12,8 @@
     "data": {
       "url": "https://raw.githubusercontent.com/hcantekin/hcantekin.github.io/main/new_USads.csv"
     },
-    "height": 300,
-    "width": 230,
+    "height": 250,
+    "width": 225,
     "config": {"style": {"cell": {"stroke": "transparent"}}},
     "mark": "circle",
     "selection": {

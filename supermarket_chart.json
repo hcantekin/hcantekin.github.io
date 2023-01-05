@@ -1,0 +1,137 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "UK Supermarkets by Market Share (%)",
+    "fontSize": 14,
+    "subtitle": "Source: Wikipedia",
+    "subtitleFontStyle": "italic",
+    "subtitleFontSize": 12,
+    "anchor": "start",
+    "color": "black"
+  },
+  "description": "UK Supermarkets by market share (%)",
+  "data": {
+    "values": [
+      {
+        "Supermarket": "Tesco",
+        "Year": "2021-01-01",
+        "Market share (%)": "27.7"
+      },
+      {
+        "Supermarket": "Tesco",
+        "Year": "2007-01-01",
+        "Market share (%)": "31.6"
+      },
+      {
+        "Supermarket": "Tesco",
+        "Year": "2000-01-01",
+        "Market share (%)": "25.0"
+      },
+      {
+        "Supermarket": "Sainsbury's",
+        "Year": "2021-01-01",
+        "Market share (%)": "15.5"
+      },
+      {
+        "Supermarket": "Sainsbury's",
+        "Year": "2007-01-01",
+        "Market share (%)": "16.2"
+      },
+      {
+        "Supermarket": "Sainsbury's",
+        "Year": "2000-01-01",
+        "Market share (%)": "17.9"
+      },
+      {"Supermarket": "Asda", "Year": "2021-01-01", "Market share (%)": "14.6"},
+      {"Supermarket": "Asda", "Year": "2007-01-01", "Market share (%)": "16.6"},
+      {"Supermarket": "Asda", "Year": "2000-01-01", "Market share (%)": "14.1"},
+      {
+        "Supermarket": "Morrisons",
+        "Year": "2021-01-01",
+        "Market share (%)": "9.8"
+      },
+      {
+        "Supermarket": "Morrisons",
+        "Year": "2007-01-01",
+        "Market share (%)": "11.2"
+      },
+      {
+        "Supermarket": "Morrisons",
+        "Year": "2000-01-01",
+        "Market share (%)": "4.9"
+      },
+      {"Supermarket": "Aldi", "Year": "2021-01-01", "Market share (%)": "8.0"},
+      {"Supermarket": "Aldi", "Year": "2007-01-01", "Market share (%)": "2.6"},
+      {"Supermarket": "Aldi", "Year": "2000-01-01", "Market share (%)": "1.5"},
+      {"Supermarket": "Lidl", "Year": "2021-01-01", "Market share (%)": "6.1"},
+      {"Supermarket": "Lidl", "Year": "2007-01-01", "Market share (%)": "2.2"},
+      {"Supermarket": "Lidl", "Year": "2000-01-01", "Market share (%)": "1.3"},
+      {
+        "Supermarket": "Co-op Food",
+        "Year": "2021-01-01",
+        "Market share (%)": "5.7"
+      },
+      {
+        "Supermarket": "Co-op Food",
+        "Year": "2007-01-01",
+        "Market share (%)": "4.4"
+      },
+      {
+        "Supermarket": "Co-op Food",
+        "Year": "2000-01-01",
+        "Market share (%)": "5.4"
+      },
+      {
+        "Supermarket": "Waitrose & Partners",
+        "Year": "2021-01-01",
+        "Market share (%)": "5.0"
+      },
+      {
+        "Supermarket": "Waitrose & Partners",
+        "Year": "2007-01-01",
+        "Market share (%)": "3.9"
+      },
+      {
+        "Supermarket": "Waitrose & Partners",
+        "Year": "2000-01-01",
+        "Market share (%)": "2.7"
+      },
+      {
+        "Supermarket": "Iceland",
+        "Year": "2021-01-01",
+        "Market share (%)": "2.3"
+      },
+      {
+        "Supermarket": "Iceland",
+        "Year": "2007-01-01",
+        "Market share (%)": "1.6"
+      },
+      {
+        "Supermarket": "Iceland",
+        "Year": "2000-01-01",
+        "Market share (%)": "2.8"
+      }
+    ]
+  },
+  "height": 300,
+  "width": 190,
+  "mark": {"type": "line"},
+  "encoding": {
+    "x": {
+      "field": "Year",
+      "type": "temporal",
+      "axis": {"title": "Year", "grid": false}
+    },
+    "y": {
+      "field": "Market share (%)",
+      "type": "quantitative",
+      "axis": {"grid": false}
+    },
+    "color": {
+      "field": "Supermarket",
+      "type": "nominal",
+      "legend": {"symbolStrokeWidth": 4},
+      "axis": {"title": ""}
+    }
+  }
+}

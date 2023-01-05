@@ -1,0 +1,61 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": {
+      "text": "Population's Trust in Government",
+      "subtitle": [
+        "Share of sample who report confidence in the national government.",
+        "Source: OECD"
+      ],
+      "subtitleFontStyle": "italic",
+      "subtitleFontSize": 10,
+      "anchor": "start",
+      "color": "black"
+    },
+    "data": {
+      "url": "https://raw.githubusercontent.com/hcantekin/hcantekin.github.io/main/data_oecd_trustgov2.csv"
+    },
+    "height": 300,
+    "width": 300,
+    "encoding": {
+      "x": {"field": "Year", "type": "temporal", "title": "Year"},
+      "y": {"field": "Value", "type": "quantitative", "title": "Trust (%)"},
+      "color": {
+        "condition": {
+          "param": "hover",
+          "field": "Country",
+          "type": "nominal",
+          "legend": null
+        },
+        "value": "grey"
+      },
+      "opacity": {"condition": {"param": "hover", "value": 1}, "value": 0.2}
+    },
+    "layer": [
+      {
+        "description": "transparent layer to make it easier to trigger selection",
+        "params": [
+          {
+            "name": "hover",
+            "value": [{"Country": "United Kingdom"}],
+            "select": {"type": "point", "fields": ["Country"], "on": "mouseover"}
+          }
+        ],
+        "mark": {"type": "line", "strokeWidth": 8, "stroke": "transparent"}
+      },
+      {"mark": "line"},
+      {
+        "encoding": {
+          "x": {"aggregate": "max", "field": "Year"},
+          "y": {"aggregate": {"argmax": "Year"}, "field": "Value"}
+        },
+        "layer": [
+          {"mark": {"type": "circle"}},
+          {
+            "mark": {"type": "text", "align": "left", "dx": 5, "size": 11},
+            "encoding": {"text": {"field": "Country", "type": "nominal"}}
+          }
+        ]
+      }
+    ],
+    "config": {"view": {"stroke": null}}
+  }

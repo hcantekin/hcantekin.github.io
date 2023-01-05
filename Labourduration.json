@@ -1,0 +1,29 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": {
+      "text": "Duration of Labour's online adverts in the UK",
+      "subtitle": ["Count of Facebook and Instagram ads by the duration of their delivery", "2018-2022, Source: Meta"],
+      "subtitleFontStyle": "italic",
+      "subtitleFontSize": 10,
+      "anchor": "start",
+      "color": "black"
+    },
+    "data": {"url": "https://raw.githubusercontent.com/hcantekin/hcantekin.github.io/main/Meta_test01.csv"},
+    "height":300,
+    "width": 300,
+    
+    "mark": "bar",
+    "encoding": {
+      "color": {"value": "#d22321"},
+      "x": {
+        "field": "duration",
+        "title": "Duration of delivery (days)",
+        "bin": {
+          "step": 2
+        }
+      },
+      "y": {
+        "title": null,
+      "aggregate": "count"}
+      }
+    }

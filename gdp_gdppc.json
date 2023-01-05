@@ -1,0 +1,150 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "",
+    "title": {
+      "text": "Party Ads by Real GDP 2021",
+      "subtitle": "Sources: Meta, Statista",
+      "subtitleFontStyle": "italic",
+      "subtitleFontSize": 10,
+      "anchor": "start",
+      "color": "black"
+    },
+    "data": {
+      "url": "https://raw.githubusercontent.com/hcantekin/hcantekin.github.io/main/new_USads.csv"
+    },
+    "height": 300,
+    "width": 230,
+    "config": {"style": {"cell": {"stroke": "transparent"}}},
+    
+    "vconcat": [
+    {
+    "mark": "circle",
+    "selection": {
+      "Type": {
+        "type": "single",
+        "fields": ["Party"],
+        "bind": {
+          "input": "select",
+          "options": [
+            null,
+            "Democratic",
+            "Republican"
+          ],
+          "name": "Pick Party:"
+        }
+      }
+    },
+    "transform": [{"filter": {"selection": "Type"}}],
+    "encoding": {
+      "x": {
+        "field": "pc",
+        "type": "quantitative",
+        "scale": {"domain": [1, 4]},
+        "title": "Ads by state (%)",
+        "axis": {"grid": true}
+      },
+      "y": {
+        "field": "gdp ",
+        "type": "quantitative",
+        "title": "Real GDP (billions of USD)",
+        "axis": {"grid": true},
+        "sort": []
+      },
+      "color": {
+        "field": "Party",
+        "type": "nominal",
+        "title" :"",
+        "legend": {"orient": "top-right"},
+        "sort": [],
+        "scale": {"scheme": "plasma"}
+      },
+      "tooltip": [
+        {
+          "field": "State",
+          "type": "nominal"
+        },
+        {"field": "gdp ",
+        "type": "quantitative",
+        "title": "GDP ($)"},
+        {"field": "pc",
+        "type":"quantitative",
+        "title": "Ads (%)",
+        "format":".2f"}
+      ]
+    }
+  },
+  {
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "",
+    "title": {
+      "text": "Party Ads by GDP per capita 2021",
+      "subtitle": "Sources: Meta, Statista",
+      "subtitleFontStyle": "italic",
+      "subtitleFontSize": 10,
+      "anchor": "start",
+      "color": "black"
+    },
+    "data": {
+      "url": "https://raw.githubusercontent.com/hcantekin/hcantekin.github.io/main/new_USads.csv"
+    },
+    "height": 200,
+    "width": 220,
+    "config": {"style": {"cell": {"stroke": "transparent"}}},
+    "mark": "circle",
+    "selection": {
+      "Type": {
+        "type": "single",
+        "fields": ["Party"],
+        "bind": {
+          "input": "select",
+          "options": [
+            null,
+            "Democratic",
+            "Republican"
+          ],
+          "name": "Pick Party:"
+        }
+      }
+    },
+    "transform": [{"filter": {"selection": "Type"}}],
+    "encoding": {
+      "x": {
+        "field": "pc",
+        "type": "quantitative",
+        "scale": {"domain": [1, 4]},
+        "title": "Ads by state (%)",
+        "axis": {"grid": true}
+      },
+      "y": {
+        "field": "gdppc_th",
+        "type": "quantitative",
+        "scale": {"domain": [20, 80]},
+        "title": "GDP per capita (thousands of USD)",
+        "axis": {"grid": true},
+        "sort": []
+      },
+      "color": {
+        "field": "Party",
+        "type": "nominal",
+        "title" :"",
+        "legend": {"orient": "bottom-right"},
+        "sort": [],
+        "scale": {"scheme": "plasma"}
+      },
+      "tooltip": [
+        {
+          "field": "State",
+          "type": "nominal"
+        },
+        {"field": "gdppc_th",
+        "type": "quantitative",
+        "title": "GDPpc ($)"},
+        {"field": "pc",
+        "type":"quantitative",
+        "title": "Ads (%)",
+        "format":".2f"}
+      ]
+    }
+  }
+  ]
+  }

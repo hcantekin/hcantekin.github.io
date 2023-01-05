@@ -1,0 +1,50 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": {
+      "text": "UK Electoral Registrations 2021",
+      "subtitle": ["by parliamentary constituency, Source: ONS"],
+      "subtitleFontStyle": "italic",
+      "subtitleFontSize": 10,
+      "anchor": "middle",
+      "color": "black"
+    },
+    "config": {"background": "white", "view": {"stroke": "transparent"}},
+    "width": 250,
+    "height": 310,
+    "data": {
+      "url": "https://raw.githubusercontent.com/hcantekin/hcantekin.github.io/main/UKconstmap.json",
+      "format": {"property": "features"}
+    },
+    "projection": {"type": "identity", "reflectY": true},
+    "transform": [
+      {
+        "lookup": "properties.pcon19nm",
+        "from": {
+          "key": "Parliamentary constituency",
+          "fields": ["Electoral registrations 2021"],
+          "data": {
+            "url": "https://raw.githubusercontent.com/hcantekin/hcantekin.github.io/main/data_UK_electorate.csv"
+          }
+        }
+      },
+      {
+        "calculate": "toNumber(replace(datum['Electoral registrations 2021'],',',''))",
+        "as": "elec"
+      }
+    ],
+    "mark": {"type": "geoshape", "stroke": "white", "strokeWidth": 0.3},
+    "encoding": {
+      "color": {"field": "elec", "type": "quantitative", "title": ""},
+      "tooltip": [
+        {
+          "field": "properties.pcon19nm",
+          "title": "Constituency",
+          "type": "nominal"
+        },
+        {
+          "field": "Electoral registrations 2021",
+          "title": "Electoral Registrations"
+        }
+      ]
+    }
+  }

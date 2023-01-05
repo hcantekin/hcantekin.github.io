@@ -1,7 +1,7 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title": {
-    "text": "Online Advertising by the Democratic Party",
+    "text": "Online Advertising by the Republican Party",
     "subtitle": ["Count of ads by official pages on Facebook and Instagram", "2019 - 2022, Source: Meta"],
     "subtitleFontStyle": "italic",
     "subtitleFontSize": 10,
@@ -23,14 +23,17 @@
         "key": "State",
         "fields": ["State", "Number of Ads"],
         "data": {
-          "url": "https://raw.githubusercontent.com/hcantekin/hcantekin.github.io/main/USDemsReg.json"
+          "url": "https://raw.githubusercontent.com/hcantekin/hcantekin.github.io/main/USGOPreg.json"
         }
       }
     }
   ],
   "mark": {"type": "geoshape", "stroke": "white", "strokeWidth": 0.3},
   "encoding": {
-    "color": {"field": "Number of Ads", "type": "quantitative", "title": "Adverts"},
+    "color": {"field": "Number of Ads", "type": "quantitative", "title": "Adverts",
+    "scale":{
+          "scheme":"reds"}},
+
     "tooltip": [
       {
         "field": "State",

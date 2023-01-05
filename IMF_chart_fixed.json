@@ -1,42 +1,54 @@
-{"$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title": {
-      "text": "IMF Lending as Proportion of Global GDP ",
-      "subtitle":"Credit outstanding to all members as % share of global GDP, USD, Source: IMF",
-      "subtitleFontStyle":"italic",
-      "subtitleFontSize":10,
-      "anchor": "start",
-      "color": "black"},
-  
-  "data":{"url": "https://raw.githubusercontent.com/hcantekin/hcantekin.github.io/main/data_IMF_creditOutstanding_HC2.csv"},
-  
-"transform":[
-  { "calculate": "datum.Totals/1000000000", "as": "billions"}
-  ], 
-
+    "text": "IMF Lending as Proportion of Global GDP ",
+    "subtitle": "Credit outstanding to all members as % share of global GDP, USD, Source: IMF",
+    "subtitleFontStyle": "italic",
+    "subtitleFontSize": 10,
+    "anchor": "start",
+    "color": "black"
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/hcantekin/hcantekin.github.io/main/data_IMF_creditOutstanding_HC2.csv"
+  },
+  "transform": [{"calculate": "datum.Totals/1000000000", "as": "billions"}],
   "height": 300,
   "width": 300,
 
-  "mark": {
+"layer":[{
+  "mark": {"type": "line", "color": "#379998"},
+  "encoding": {
+    "x": {
+      "field": "Year",
+      "type": "temporal",
+      "axis": {"title": null, "grid": true, "ticks": true, "labelAngle": 0}
+    },
+    "y": {
+      "field": "credit/gdp %",
+      "type": "quantitative",
+      "title": "",
+      "axis": {"grid": true}
+      }}
+    },
+    {
+    "mark":{
     "type": "line",
-    "color": "#15c9cf"},
-
-"encoding": {
-     "x": {
-       "field": "Year",
-       "type": "temporal",
-       "axis": {
-         "title": null,
-         "grid": false,
-         "ticks": true,
-         "labelAngle": 0}},
-
-      "y": {
-        "field": "credit/gdp %",
-        "type": "quantitative",
-        "title": "",
-        "axis": {"grid": false}}
+    "color": "red"
+    },
+    "transform":[{
+      "regression": "credit/gdp %",
+      "on": "Year"
+    }],
+    "encoding": {
+      "y":{
+        "field":"credit/gdp %",
+        "type":"quantitative"
+      },
+      "x":{
+        "field":"Year",
+        "type":"temporal"
+      }
+    }
+   }
+  ]
 }
-}
-
-

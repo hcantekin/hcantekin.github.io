@@ -32,9 +32,9 @@
         </nav>
         <div class="mainbody">
             <h3>Aims & Analysis</h3>
-            <p>The aim of my project is to provide insight into how online political advertising is employed by the two main political parties in the United States. 
-                Specifically, I will use data compiled by Meta to examine the regional distribution of Facebook and Instagram ads posted by the Democratic and Republican Party.
-               I will also explore potential correlations between the distribution of ads with population and GDP by state.</p>
+            <p>My project will explore how online advertising is employed by the two main political parties in the United States. Specifically, I will use data
+                 collected by Meta to examine the regional distribution of Facebook and Instagram ads posted by the Democratic and Republican Party. I will then 
+                 examine the regional distribution with an economic lens, exploring whether population and GDP can aid in explaining the distribution of ads.</p>
             <div class="container">
             <div class="chart" id="Chart1"></div>
             </div>
@@ -54,7 +54,7 @@
                 This seems logical, as states with a greater population contain more potential voters and donors. However, this trend is less clear for the Republican party as 
                 the datapoints are more scattered. 
                 One possible explanation for this is the prioritisation of advertising in marginal or “purple states”, where both the Democratic or Republican Party could reasonably
-                 win the state in an election. Interestingly, the states with the highest number of Republican ads were all marginal in the 2020 presidential election: Florida, Pennsylvania, North Carolina, and Georgia. 
+                 win the state in an election. Interestingly, the states with the highest number of Republican ads were all marginal in the 2020 presidential election: Florida, Pennsylvania, North Carolina, and Georgia <a class="link" href="https://projects.fivethirtyeight.com/2020-swing-states/"> (Mejía & Skelley 2020).</a> 
 
                 <div class="container">
                     <div class="chart" id="Chart6"></div>
@@ -71,33 +71,32 @@
                     
 
             <h3>Data</h3>
-            <p> I collected my data from <a class="link" href= "https://www.statista.com/statistics/248063/per-capita-us-real-gross-domestic-product-gdp-by-state/" id=b> Statista</a> and Meta. There 
-                are two ways I accessed Meta's data: (1) the publicly accessible <a class="link" href="https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=GB&media_type=all"> Ad Library</a> and (2) the <a class="link" href= "https://www.facebook.com/ads/library/api/?source=archive-landing-page"> Library API</a>, where researchers 
-                can apply for access to the Ad Targeting dataset with a research proposal. I was granted access and explored the data in Jupyter. Overall, the Ad Library is much more user-friendly 
-                and allowed me to export csv's of data on ads, filtered by country, year, and social media page. Nonetheless, both the Library and API often had missing and awkwardly formatted data.  </p>
+            <p> I collected my data from <a class="link" href= "https://www.statista.com/statistics/248063/per-capita-us-real-gross-domestic-product-gdp-by-state/" id=b> Statista</a> and Meta. 
+                Statista provides easy-to-export economic data by US state, and Meta's efforts to improve transparency have led them to share invaluable data on political advertising. 
+                I accessed Meta's data in two ways: (1) the publicly accessible <a class="link" href="https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=GB&media_type=all"> Ad Library</a> and (2) the <a class="link" href= "https://www.facebook.com/ads/library/api/?source=archive-landing-page"> Library API</a>, where researchers 
+                can apply for access to the Ad Targeting dataset. I found the Ad Library more user-friendly as it allowed me to export csv's of data on ads, filtered by country, year, and social media page. Nonetheless, 
+                both the Library and API often had missing and awkwardly formatted data.  </p>
                 
-                <p>My main challenge was cleaning this “awkward” data, by extracting useful information from a lot of surplus string and floats.  Data on the regional distribution of ads included a list of 
+                <p>My main challenge was cleaning this “awkward” data, by extracting useful information from a lot of surplus string and floats. <a class= "link" href= "https://github.com/hcantekin/hcantekin.github.io/blob/main/data_USDemsRegion2.xlsx">Data</a> on the regional distribution of ads included a list of 
                     regions the ad was posted and a percentage distribution for each region. I considered focussing on ads which were posted to one specific state (so the distribution was 1)
-                     but this greatly limited the dataset and left missing states in the US map. So, I downloaded a csv from the Ad Library on the ads posted by each Party since 2019 and imported it into Colab. I wrote a Python 
+                     but this limited the dataset and left missing states in the US map. So, I downloaded a csv from the Ad Library on the ads posted by each Party since 2019 and imported it into Colab. I wrote a Python 
                      <a class= "link" href= "https://github.com/hcantekin/hcantekin.github.io/blob/main/USDemsregion2.ipynb" id=b3> script</a>
-                      which unstacks each ad's list of regions, cleans surplus string and floats, and counts the frequency of each region (i.e. state). Overall, this meant losing 
-                      information on distribution but provides a broad idea of which states saw the greatest number of ads. </p>
+                      which unstacks each ad's list of regions, cleans surplus string, and counts the frequency of each region (state). Overall, this sacrifices information on distribution 
+                      but provides a broad idea of which states saw the greatest number of ads.  </p>
                  
                  <div class="container">
                     <div class="chart" id="Chart5"></div>
                     </div>
 
-                    <p>I largely relied on the Ad Library but also used the API to access the targeting dataset. This allowed me to collect some data on how ads which are targeted to 
-                        users based on political interest (Democratic or Republican), target by gender. Using the API required writing a <a class="link" href="https://github.com/hcantekin/hcantekin.github.io/blob/main/Ads_interestsUS_scrubbed.ipynb"> script</a> with SQL and Python, but the Meta VPN was often unreliable and
-                        exporting large amounts of data was tricky due to data protections. Luckily, copying and pasting is not prevented, so I 
-                        converted data into csv's in Jupyter and copied large samples into Excel. With the csv loaded into Colab, I labelled each row 'Dem' or 'Rep' based on the 
-                        ad's targeted interests and grouped the resulting data by Party and gender (<a class="link" href= "https://github.com/hcantekin/hcantekin.github.io/blob/main/DRinterests_GA.ipynb">script</a>).
-                         This bar chart shows that most ads in the sample were targeted to all genders, however, ads which targeted 
-                        users with Democratic political interest were less likely to target men. </p>
+                    <p>I largely relied on the Ad Library but used the API to access the targeting dataset. Therefore, I collected some data on how ads which are targeted to users based on political interest 
+                        (Democratic or Republican) also target by gender.  Navigating the targeting dataset required writing a SQL and Python <a class="link" href="https://github.com/hcantekin/hcantekin.github.io/blob/main/Ads_interestsUS_scrubbed.ipynb"> script</a> in Jupyter; 
+                        however, the Meta VPN was often unreliable and exporting large amounts of data was tricky due to data protections. Fortunately, copying and pasting is not prevented, so I converted data into csv's in Jupyter and copied large samples into Excel. 
+                        Once loaded into Colab, I labelled each row 'Dem' or 'Rep' based on the ad's targeted interests and grouped by Party and gender (<a class="link" href= "https://github.com/hcantekin/hcantekin.github.io/blob/main/DRinterests_GA.ipynb">script</a>). This bar chart shows that 
+                        most ads in the sample were targeted to all genders, however, ads which targeted users with Democratic political interest were less likely to target men. </p>
 
             <h3>Conclusion</h3>
             <p>Overall, my project has explored the differences in the regional distribution of Democratic and Republican Party ads. My research suggests that factors such as population,
-                 GDP, and “purple” states can contribute to understanding where political parties post ads. Sometimes the scope of my analysis was limited by the awkward formatting of 
+                 GDP, and “purple” states can contribute to understanding where political parties post ads. Sometimes the scope of my analysis was limited by the formatting of 
                  Meta's data. Nonetheless, I am pleased I was able to create maps on ad distribution and explore the targeting dataset.  </p>
         </div> 
 
@@ -121,6 +120,6 @@
     vegaEmbed('#Chart6', myChart6);
     vegaEmbed('#Chart7', myChart7);
     vegaEmbed('#Chart8', myChart8);
-    
+
     </script>
 </html>

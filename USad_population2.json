@@ -2,8 +2,8 @@
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "description": "",
     "title": {
-      "text": "Party Ads by Population 2021",
-      "subtitle": "Sources: Meta, Statista",
+      "text": "Online Ads by Population",
+      "subtitle": "2021 Population in Millions, Sources: Meta, Statista",
       "subtitleFontStyle": "italic",
       "subtitleFontSize": 10,
       "anchor": "start",
@@ -46,7 +46,7 @@
         "field": "Population",
         "type": "quantitative",
         "scale": {"domain": [0, 40]},
-        "title": "Population (millions)",
+        "title": "Population",
         "axis": {"grid": true},
         "sort": []
       },

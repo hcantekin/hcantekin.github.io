@@ -2,8 +2,8 @@
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "description": "",
     "title": {
-      "text": "Party Ads by Real GDP 2021",
-      "subtitle": "Sources: Meta, Statista",
+      "text": "Online Ads by Real GDP",
+      "subtitle": "Billions of US Dollars, 2021, Sources: Meta, Statista",
       "subtitleFontStyle": "italic",
       "subtitleFontSize": 10,
       "anchor": "start",
@@ -14,7 +14,9 @@
     },
     "height": 250,
     "width": 210,
-    "config": {"style": {"cell": {"stroke": "transparent"}}},
+    "transform": [{"filter": {"selection": "Type"}}],
+    
+  "layer":[{ 
     "mark": "circle",
     "selection": {
       "Type": {
@@ -31,7 +33,7 @@
         }
       }
     },
-    "transform": [{"filter": {"selection": "Type"}}],
+  
     "encoding": {
       "x": {
         "field": "pc",
@@ -43,7 +45,7 @@
       "y": {
         "field": "gdp ",
         "type": "quantitative",
-        "title": "Real GDP (billions of USD)",
+        "title": "GDP",
         "axis": {"grid": true},
         "sort": []
       },
@@ -67,6 +69,26 @@
         "type":"quantitative",
         "title": "Ads (%)",
         "format":".2f"}
-      ]
+        ]}
+      },
+  {
+    "mark":{
+    "type": "line",
+    "color": "indianred"
+    },
+    "transform":[{
+      "regression": "gdp ",
+      "on": "pc"
+    }],
+    "encoding": {
+      "y":{
+        "field":"gdp ",
+        "type":"quantitative"
+      },
+      "x":{
+        "field":"pc",
+        "type":"quantitative"
+      }}
     }
+  ]
   }

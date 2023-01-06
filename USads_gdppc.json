@@ -2,8 +2,8 @@
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "description": "",
     "title": {
-      "text": "Party Ads by GDP per capita 2021",
-      "subtitle": "Sources: Meta, Statista",
+      "text": "Online Ads by GDP per capita",
+      "subtitle": "Thousands of US Dollars, 2021, Sources: Meta, Statista",
       "subtitleFontStyle": "italic",
       "subtitleFontSize": 10,
       "anchor": "start",
@@ -14,10 +14,13 @@
     },
     "height": 250,
     "width": 225,
-    "config": {"style": {"cell": {"stroke": "transparent"}}},
-    "mark": "circle",
+    "transform": [{"filter": {"selection": "Party"}}],
+    
+
+"layer":[{
+"mark": "circle",
     "selection": {
-      "Type": {
+      "Party": {
         "type": "single",
         "fields": ["Party"],
         "bind": {
@@ -31,7 +34,7 @@
         }
       }
     },
-    "transform": [{"filter": {"selection": "Type"}}],
+
     "encoding": {
       "x": {
         "field": "pc",
@@ -43,16 +46,15 @@
       "y": {
         "field": "gdppc_th",
         "type": "quantitative",
-        "scale": {"domain": [20, 80]},
-        "title": "GDP per capita (thousands of USD)",
+        "title": "GDP per capita",
         "axis": {"grid": true},
         "sort": []
       },
       "color": {
         "field": "Party",
         "type": "nominal",
-        "title" :"",
-        "legend": {"orient": "bottom-right"},
+        "title": null,
+        "legend": {"orient":"bottom-right"},
         "sort": [],
         "scale": {"scheme": "category10"}
       },
@@ -68,6 +70,26 @@
         "type":"quantitative",
         "title": "Ads (%)",
         "format":".2f"}
-      ]
+      ]}
+    },
+  {
+    "mark":{
+    "type": "line",
+    "color": "indianred"
+    },
+    "transform":[{
+      "regression": "gdppc_th",
+      "on": "pc"
+    }],
+    "encoding": {
+      "y":{
+        "field":"gdppc_th",
+        "type":"quantitative"
+      },
+      "x":{
+        "field":"pc",
+        "type":"quantitative"
+      }}
     }
+  ]
   }

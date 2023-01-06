@@ -46,6 +46,7 @@
       "y": {
         "field": "gdppc_th",
         "type": "quantitative",
+        "scale": {"domain": [20, 80]},
         "title": "GDP per capita",
         "axis": {"grid": true},
         "sort": []

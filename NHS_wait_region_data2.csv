@@ -1,13 +1,13 @@
 ﻿Waiting Time,Region,% of sample,Months
-Less than one month,East Midlands,28.5,> 1
-Less than one month,East of England,32,> 1
-Less than one month,London,29.5,> 1
-Less than one month,North East,30,> 1
-Less than one month,North West,28.8,> 1
-Less than one month,South East,30.1,> 1
-Less than one month,South West,32.8,> 1
-Less than one month,West Midlands,26.8,> 1
-Less than one month,Yorkshire and The Humber,31.6,> 1
+Less than one month,East Midlands,28.5,Less than 1
+Less than one month,East of England,32,Less than 1
+Less than one month,London,29.5,Less than 1
+Less than one month,North East,30,Less than 1
+Less than one month,North West,28.8,Less than 1
+Less than one month,South East,30.1,Less than 1
+Less than one month,South West,32.8,Less than 1
+Less than one month,West Midlands,26.8,Less than 1
+Less than one month,Yorkshire and The Humber,31.6,Less than 1
 1 to 3 months,East Midlands,30.5,1 to 3
 1 to 3 months,East of England,24.9,1 to 3
 1 to 3 months,London,26,1 to 3
@@ -35,15 +35,15 @@ Less than one month,Yorkshire and The Humber,31.6,> 1
 7 to 11 months,South West,8.3,7 to 11
 7 to 11 months,West Midlands,11.8,7 to 11
 7 to 11 months,Yorkshire and The Humber,8.6,7 to 11
-12 months or longer ,East Midlands,13.2,< 12
-12 months or longer ,East of England,15.1,< 12
-12 months or longer ,London,13.2,< 12
-12 months or longer ,North East,10.7,< 12
-12 months or longer ,North West,16.1,< 12
-12 months or longer ,South East,15,< 12
-12 months or longer ,South West,16.1,< 12
-12 months or longer ,West Midlands,13.5,< 12
-12 months or longer ,Yorkshire and The Humber,9.3,< 12
+12 months or longer ,East Midlands,13.2,Over 12
+12 months or longer ,East of England,15.1,Over 12
+12 months or longer ,London,13.2,Over 12
+12 months or longer ,North East,10.7,Over 12
+12 months or longer ,North West,16.1,Over 12
+12 months or longer ,South East,15,Over 12
+12 months or longer ,South West,16.1,Over 12
+12 months or longer ,West Midlands,13.5,Over 12
+12 months or longer ,Yorkshire and The Humber,9.3,Over 12
 Do Not Know or Prefer Not to Say,East Midlands,1.9,No Response
 Do Not Know or Prefer Not to Say,East of England,2.4,No Response
 Do Not Know or Prefer Not to Say,London,2.3,No Response

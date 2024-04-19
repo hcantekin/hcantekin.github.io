@@ -1,121 +1,49 @@
 ﻿year,value,industry
-1998,1.424469474,Arts & Creative
-1999,1.466566071,Arts & Creative
-2000,1.51178351,Arts & Creative
-2001,1.51430887,Arts & Creative
-2002,1.656822724,Arts & Creative
-2003,1.722838253,Arts & Creative
-2004,1.75811379,Arts & Creative
-2005,1.810279188,Arts & Creative
-2006,1.817933771,Arts & Creative
-2007,1.750864112,Arts & Creative
-2008,1.697178414,Arts & Creative
-2009,1.721907819,Arts & Creative
-2010,1.718231508,Arts & Creative
-2011,1.857876205,Arts & Creative
-2012,1.815449444,Arts & Creative
-2013,1.89080028,Arts & Creative
-2014,1.844313122,Arts & Creative
-2015,1.849449262,Arts & Creative
-2016,1.778168076,Arts & Creative
-2017,1.858853961,Arts & Creative
-2018,1.864617606,Arts & Creative
-2019,1.917149504,Arts & Creative
-2020,1.525550609,Arts & Creative
-2021,1.74525937,Arts & Creative
-1998,21.29153824,Production sector
-1999,20.45882613,Production sector
-2000,20.3251119,Production sector
-2001,19.01621365,Production sector
-2002,18.50623885,Production sector
-2003,17.85788282,Production sector
-2004,17.06802913,Production sector
-2005,16.61809962,Production sector
-2006,16.49157399,Production sector
-2007,15.94242273,Production sector
-2008,16.35833865,Production sector
-2009,15.58384952,Production sector
-2010,15.96951056,Production sector
-2011,15.79864383,Production sector
-2012,15.72701576,Production sector
-2013,15.88535004,Production sector
-2014,15.42847545,Production sector
-2015,14.76629612,Production sector
-2016,14.17046599,Production sector
-2017,14.32193759,Production sector
-2018,14.27350183,Production sector
-2019,14.2063348,Production sector
-2020,13.93856297,Production sector
-2021,14.33575807,Production sector
-1998,1.480875312,Mining and quarrying
-1999,1.547668466,Mining and quarrying
-2000,2.144839691,Mining and quarrying
-2001,1.9938756,Mining and quarrying
-2002,1.701029534,Mining and quarrying
-2003,1.623211457,Mining and quarrying
-2004,1.655945743,Mining and quarrying
-2005,1.835977157,Mining and quarrying
-2006,1.886071427,Mining and quarrying
-2007,1.750145366,Mining and quarrying
-2008,2.029158236,Mining and quarrying
-2009,1.439369174,Mining and quarrying
-2010,1.775361346,Mining and quarrying
-2011,1.853501882,Mining and quarrying
-2012,1.678884175,Mining and quarrying
-2013,1.516261146,Mining and quarrying
-2014,1.179132261,Mining and quarrying
-2015,0.757837062,Mining and quarrying
-2016,0.690247262,Mining and quarrying
-2017,0.890078192,Mining and quarrying
-2018,1.178019512,Mining and quarrying
-2019,1.088764532,Mining and quarrying
-2020,0.768501372,Mining and quarrying
-2021,0.854692896,Mining and quarrying
-1998,15.9236567,Manufacturing
-1999,15.31106503,Manufacturing
-2000,14.76638466,Manufacturing
-2001,13.79407069,Manufacturing
-2002,13.4238547,Manufacturing
-2003,12.81958822,Manufacturing
-2004,12.15740937,Manufacturing
-2005,11.66188135,Manufacturing
-2006,11.14796876,Manufacturing
-2007,10.72461768,Manufacturing
-2008,10.58780731,Manufacturing
-2009,9.916519135,Manufacturing
-2010,10.55807592,Manufacturing
-2011,10.44460626,Manufacturing
-2012,10.39483103,Manufacturing
-2013,10.68530352,Manufacturing
-2014,10.48431958,Manufacturing
-2015,10.33640729,Manufacturing
-2016,10.11769723,Manufacturing
-2017,10.05925971,Manufacturing
-2018,9.892413922,Manufacturing
-2019,9.743985097,Manufacturing
-2020,9.661820522,Manufacturing
-2021,9.794172896,Manufacturing
-1998,5.185672917,Construction
-1999,5.557114761,Construction
-2000,5.759960968,Construction
-2001,5.830700618,Construction
-2002,6.082073579,Construction
-2003,6.195023421,Construction
-2004,6.227797774,Construction
-2005,6.464070431,Construction
-2006,6.446093617,Construction
-2007,6.560996699,Construction
-2008,6.377671221,Construction
-2009,5.531403325,Construction
-2010,5.547651447,Construction
-2011,5.483988629,Construction
-2012,5.406573942,Construction
-2013,5.629905297,Construction
-2014,5.784888131,Construction
-2015,6.113063337,Construction
-2016,6.088776538,Construction
-2017,6.205174903,Construction
-2018,6.261961583,Construction
-2019,6.23796032,Construction
-2020,5.605085169,Construction
-2021,5.926687541,Construction
+1998,0.319336987,"Creative, arts and entertainment activities"
+1999,0.330598973,"Creative, arts and entertainment activities"
+2000,0.364002243,"Creative, arts and entertainment activities"
+2001,0.335046418,"Creative, arts and entertainment activities"
+2002,0.368856396,"Creative, arts and entertainment activities"
+2003,0.327181452,"Creative, arts and entertainment activities"
+2004,0.319359164,"Creative, arts and entertainment activities"
+2005,0.34375,"Creative, arts and entertainment activities"
+2006,0.363451082,"Creative, arts and entertainment activities"
+2007,0.372382059,"Creative, arts and entertainment activities"
+2008,0.337800382,"Creative, arts and entertainment activities"
+2009,0.351457413,"Creative, arts and entertainment activities"
+2010,0.359367332,"Creative, arts and entertainment activities"
+2011,0.385478861,"Creative, arts and entertainment activities"
+2012,0.384355145,"Creative, arts and entertainment activities"
+2013,0.400124469,"Creative, arts and entertainment activities"
+2014,0.369344247,"Creative, arts and entertainment activities"
+2015,0.386009575,"Creative, arts and entertainment activities"
+2016,0.373320465,"Creative, arts and entertainment activities"
+2017,0.393057842,"Creative, arts and entertainment activities"
+2018,0.402766128,"Creative, arts and entertainment activities"
+2019,0.423466758,"Creative, arts and entertainment activities"
+2020,0.328382123,"Creative, arts and entertainment activities"
+2021,0.400882333,"Creative, arts and entertainment activities"
+1998,1.105132487,"Arts, entertainment and recreation"
+1999,1.135967098,"Arts, entertainment and recreation"
+2000,1.147781267,"Arts, entertainment and recreation"
+2001,1.179262451,"Arts, entertainment and recreation"
+2002,1.287966328,"Arts, entertainment and recreation"
+2003,1.395656801,"Arts, entertainment and recreation"
+2004,1.438754625,"Arts, entertainment and recreation"
+2005,1.466529188,"Arts, entertainment and recreation"
+2006,1.454482689,"Arts, entertainment and recreation"
+2007,1.378482053,"Arts, entertainment and recreation"
+2008,1.359378032,"Arts, entertainment and recreation"
+2009,1.370450406,"Arts, entertainment and recreation"
+2010,1.358864176,"Arts, entertainment and recreation"
+2011,1.472397345,"Arts, entertainment and recreation"
+2012,1.431094299,"Arts, entertainment and recreation"
+2013,1.490675811,"Arts, entertainment and recreation"
+2014,1.474968875,"Arts, entertainment and recreation"
+2015,1.463439687,"Arts, entertainment and recreation"
+2016,1.404847611,"Arts, entertainment and recreation"
+2017,1.46579612,"Arts, entertainment and recreation"
+2018,1.461851478,"Arts, entertainment and recreation"
+2019,1.493682746,"Arts, entertainment and recreation"
+2020,1.197168486,"Arts, entertainment and recreation"
+2021,1.344377037,"Arts, entertainment and recreation"

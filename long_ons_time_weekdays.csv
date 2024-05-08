@@ -1,1441 +1,1441 @@
-Time,Activity,Value
-04:00:00,Sleep and rest,97.1
-04:00:00,Personal care,0.9
-04:00:00,Paid work,0.7
-04:00:00,Travel,0.1
-04:00:00,Unpaid household work,0.2
-04:00:00,Unpaid care,0.1
-04:00:00,Watching television,0.2
-04:00:00,Entertainment and leisure,0.3
-04:00:00,Education and study,0
-04:00:00,Other,0.4
-04:10:00,Sleep and rest,97.1
-04:10:00,Personal care,0.8
-04:10:00,Paid work,0.7
-04:10:00,Travel,0.1
-04:10:00,Unpaid household work,0.2
-04:10:00,Unpaid care,0.1
-04:10:00,Watching television,0.2
-04:10:00,Entertainment and leisure,0.3
-04:10:00,Education and study,0
-04:10:00,Other,0.4
-04:20:00,Sleep and rest,97.1
-04:20:00,Personal care,0.9
-04:20:00,Paid work,0.7
-04:20:00,Travel,0.1
-04:20:00,Unpaid household work,0.2
-04:20:00,Unpaid care,0.1
-04:20:00,Watching television,0.2
-04:20:00,Entertainment and leisure,0.4
-04:20:00,Education and study,0
-04:20:00,Other,0.4
-04:30:00,Sleep and rest,96.6
-04:30:00,Personal care,0.9
-04:30:00,Paid work,0.7
-04:30:00,Travel,0.1
-04:30:00,Unpaid household work,0.4
-04:30:00,Unpaid care,0.1
-04:30:00,Watching television,0.2
-04:30:00,Entertainment and leisure,0.4
-04:30:00,Education and study,0
-04:30:00,Other,0.5
-04:40:00,Sleep and rest,96.3
-04:40:00,Personal care,1.1
-04:40:00,Paid work,0.7
-04:40:00,Travel,0.2
-04:40:00,Unpaid household work,0.3
-04:40:00,Unpaid care,0.1
-04:40:00,Watching television,0.2
-04:40:00,Entertainment and leisure,0.4
-04:40:00,Education and study,0
-04:40:00,Other,0.5
-04:50:00,Sleep and rest,96
-04:50:00,Personal care,1.3
-04:50:00,Paid work,0.7
-04:50:00,Travel,0.2
-04:50:00,Unpaid household work,0.3
-04:50:00,Unpaid care,0.1
-04:50:00,Watching television,0.3
-04:50:00,Entertainment and leisure,0.4
-04:50:00,Education and study,0
-04:50:00,Other,0.5
-05:00:00,Sleep and rest,94.4
-05:00:00,Personal care,2
-05:00:00,Paid work,0.8
-05:00:00,Travel,0.4
-05:00:00,Unpaid household work,0.7
-05:00:00,Unpaid care,0.1
-05:00:00,Watching television,0.3
-05:00:00,Entertainment and leisure,0.7
-05:00:00,Education and study,0
-05:00:00,Other,0.5
-05:10:00,Sleep and rest,94.3
-05:10:00,Personal care,1.9
-05:10:00,Paid work,0.8
-05:10:00,Travel,0.5
-05:10:00,Unpaid household work,0.9
-05:10:00,Unpaid care,0.1
-05:10:00,Watching television,0.3
-05:10:00,Entertainment and leisure,0.7
-05:10:00,Education and study,0
-05:10:00,Other,0.5
-05:20:00,Sleep and rest,93.7
-05:20:00,Personal care,2.2
-05:20:00,Paid work,0.8
-05:20:00,Travel,0.6
-05:20:00,Unpaid household work,0.7
-05:20:00,Unpaid care,0.1
-05:20:00,Watching television,0.3
-05:20:00,Entertainment and leisure,0.7
-05:20:00,Education and study,0
-05:20:00,Other,0.8
-05:30:00,Sleep and rest,91.6
-05:30:00,Personal care,3.2
-05:30:00,Paid work,1
-05:30:00,Travel,1.1
-05:30:00,Unpaid household work,0.8
-05:30:00,Unpaid care,0.2
-05:30:00,Watching television,0.3
-05:30:00,Entertainment and leisure,0.8
-05:30:00,Education and study,0
-05:30:00,Other,0.9
-05:40:00,Sleep and rest,90.7
-05:40:00,Personal care,3.5
-05:40:00,Paid work,1.1
-05:40:00,Travel,1.7
-05:40:00,Unpaid household work,0.8
-05:40:00,Unpaid care,0.2
-05:40:00,Watching television,0.4
-05:40:00,Entertainment and leisure,0.9
-05:40:00,Education and study,0
-05:40:00,Other,0.7
-05:50:00,Sleep and rest,90
-05:50:00,Personal care,3.4
-05:50:00,Paid work,1.6
-05:50:00,Travel,1.7
-05:50:00,Unpaid household work,0.9
-05:50:00,Unpaid care,0.2
-05:50:00,Watching television,0.4
-05:50:00,Entertainment and leisure,1.1
-05:50:00,Education and study,0
-05:50:00,Other,0.7
-06:00:00,Sleep and rest,82.5
-06:00:00,Personal care,7.7
-06:00:00,Paid work,2.5
-06:00:00,Travel,1.3
-06:00:00,Unpaid household work,2.4
-06:00:00,Unpaid care,0.6
-06:00:00,Watching television,0.4
-06:00:00,Entertainment and leisure,1.8
-06:00:00,Education and study,0.1
-06:00:00,Other,0.7
-06:10:00,Sleep and rest,80.7
-06:10:00,Personal care,7.8
-06:10:00,Paid work,2.6
-06:10:00,Travel,1.7
-06:10:00,Unpaid household work,3
-06:10:00,Unpaid care,0.5
-06:10:00,Watching television,0.5
-06:10:00,Entertainment and leisure,2.2
-06:10:00,Education and study,0.1
-06:10:00,Other,1
-06:20:00,Sleep and rest,78.5
-06:20:00,Personal care,9
-06:20:00,Paid work,2.8
-06:20:00,Travel,2
-06:20:00,Unpaid household work,3.2
-06:20:00,Unpaid care,0.6
-06:20:00,Watching television,0.5
-06:20:00,Entertainment and leisure,2.6
-06:20:00,Education and study,0.1
-06:20:00,Other,0.7
-06:30:00,Sleep and rest,71
-06:30:00,Personal care,13.7
-06:30:00,Paid work,3.5
-06:30:00,Travel,2.6
-06:30:00,Unpaid household work,4.4
-06:30:00,Unpaid care,0.9
-06:30:00,Watching television,0.5
-06:30:00,Entertainment and leisure,3.2
-06:30:00,Education and study,0
-06:30:00,Other,0.3
-06:40:00,Sleep and rest,69.1
-06:40:00,Personal care,14.5
-06:40:00,Paid work,3.6
-06:40:00,Travel,2.7
-06:40:00,Unpaid household work,4.7
-06:40:00,Unpaid care,1.1
-06:40:00,Watching television,0.6
-06:40:00,Entertainment and leisure,3.5
-06:40:00,Education and study,0
-06:40:00,Other,0.2
-06:50:00,Sleep and rest,67.8
-06:50:00,Personal care,14
-06:50:00,Paid work,4.1
-06:50:00,Travel,3
-06:50:00,Unpaid household work,5.1
-06:50:00,Unpaid care,1.1
-06:50:00,Watching television,1.1
-06:50:00,Entertainment and leisure,3.6
-06:50:00,Education and study,0
-06:50:00,Other,0.2
-07:00:00,Sleep and rest,52.6
-07:00:00,Personal care,21.5
-07:00:00,Paid work,5.8
-07:00:00,Travel,4.2
-07:00:00,Unpaid household work,8.3
-07:00:00,Unpaid care,2.2
-07:00:00,Watching television,1
-07:00:00,Entertainment and leisure,3.9
-07:00:00,Education and study,0
-07:00:00,Other,0.5
-07:10:00,Sleep and rest,50.4
-07:10:00,Personal care,21
-07:10:00,Paid work,6.4
-07:10:00,Travel,4.8
-07:10:00,Unpaid household work,8.5
-07:10:00,Unpaid care,2.3
-07:10:00,Watching television,1.3
-07:10:00,Entertainment and leisure,4.7
-07:10:00,Education and study,0.1
-07:10:00,Other,0.5
-07:20:00,Sleep and rest,48.7
-07:20:00,Personal care,20.5
-07:20:00,Paid work,6.8
-07:20:00,Travel,5.8
-07:20:00,Unpaid household work,8.8
-07:20:00,Unpaid care,2.4
-07:20:00,Watching television,1.3
-07:20:00,Entertainment and leisure,5.1
-07:20:00,Education and study,0.1
-07:20:00,Other,0.6
-07:30:00,Sleep and rest,40.6
-07:30:00,Personal care,23.3
-07:30:00,Paid work,8.6
-07:30:00,Travel,7.4
-07:30:00,Unpaid household work,10.2
-07:30:00,Unpaid care,2.4
-07:30:00,Watching television,1.4
-07:30:00,Entertainment and leisure,5.5
-07:30:00,Education and study,0
-07:30:00,Other,0.6
-07:40:00,Sleep and rest,38.9
-07:40:00,Personal care,22.9
-07:40:00,Paid work,9.5
-07:40:00,Travel,8.9
-07:40:00,Unpaid household work,9.8
-07:40:00,Unpaid care,2.5
-07:40:00,Watching television,1.5
-07:40:00,Entertainment and leisure,5.5
-07:40:00,Education and study,0.1
-07:40:00,Other,0.4
-07:50:00,Sleep and rest,37.6
-07:50:00,Personal care,22.1
-07:50:00,Paid work,10.9
-07:50:00,Travel,9.4
-07:50:00,Unpaid household work,9.7
-07:50:00,Unpaid care,2.7
-07:50:00,Watching television,1.7
-07:50:00,Entertainment and leisure,5.2
-07:50:00,Education and study,0.1
-07:50:00,Other,0.6
-08:00:00,Sleep and rest,26.4
-08:00:00,Personal care,24.7
-08:00:00,Paid work,16.3
-08:00:00,Travel,10
-08:00:00,Unpaid household work,11.3
-08:00:00,Unpaid care,2.7
-08:00:00,Watching television,1.6
-08:00:00,Entertainment and leisure,5.8
-08:00:00,Education and study,0.3
-08:00:00,Other,0.8
-08:10:00,Sleep and rest,24.8
-08:10:00,Personal care,24.7
-08:10:00,Paid work,17.5
-08:10:00,Travel,10.3
-08:10:00,Unpaid household work,11.2
-08:10:00,Unpaid care,2.7
-08:10:00,Watching television,1.6
-08:10:00,Entertainment and leisure,6.5
-08:10:00,Education and study,0.3
-08:10:00,Other,0.5
-08:20:00,Sleep and rest,23.3
-08:20:00,Personal care,22.8
-08:20:00,Paid work,19.1
-08:20:00,Travel,11.1
-08:20:00,Unpaid household work,11.7
-08:20:00,Unpaid care,2.7
-08:20:00,Watching television,1.6
-08:20:00,Entertainment and leisure,6.7
-08:20:00,Education and study,0.3
-08:20:00,Other,0.7
-08:30:00,Sleep and rest,18.3
-08:30:00,Personal care,22.5
-08:30:00,Paid work,24.2
-08:30:00,Travel,11.8
-08:30:00,Unpaid household work,11.5
-08:30:00,Unpaid care,1.9
-08:30:00,Watching television,1.4
-08:30:00,Entertainment and leisure,7.5
-08:30:00,Education and study,0.3
-08:30:00,Other,0.6
-08:40:00,Sleep and rest,17.6
-08:40:00,Personal care,21.1
-08:40:00,Paid work,26
-08:40:00,Travel,11.4
-08:40:00,Unpaid household work,11.1
-08:40:00,Unpaid care,1.5
-08:40:00,Watching television,2.1
-08:40:00,Entertainment and leisure,7.9
-08:40:00,Education and study,0.4
-08:40:00,Other,0.8
-08:50:00,Sleep and rest,17
-08:50:00,Personal care,19.3
-08:50:00,Paid work,27.7
-08:50:00,Travel,10.5
-08:50:00,Unpaid household work,12.4
-08:50:00,Unpaid care,1.7
-08:50:00,Watching television,2
-08:50:00,Entertainment and leisure,8.4
-08:50:00,Education and study,0.4
-08:50:00,Other,0.7
-09:00:00,Sleep and rest,11.3
-09:00:00,Personal care,17.5
-09:00:00,Paid work,34.4
-09:00:00,Travel,7.5
-09:00:00,Unpaid household work,15.2
-09:00:00,Unpaid care,1.7
-09:00:00,Watching television,2.2
-09:00:00,Entertainment and leisure,7.7
-09:00:00,Education and study,1.7
-09:00:00,Other,0.9
-09:10:00,Sleep and rest,10.6
-09:10:00,Personal care,16.9
-09:10:00,Paid work,35.8
-09:10:00,Travel,6.6
-09:10:00,Unpaid household work,16.2
-09:10:00,Unpaid care,1.7
-09:10:00,Watching television,2.1
-09:10:00,Entertainment and leisure,7.8
-09:10:00,Education and study,1.6
-09:10:00,Other,0.7
-09:20:00,Sleep and rest,10.4
-09:20:00,Personal care,15.6
-09:20:00,Paid work,36.9
-09:20:00,Travel,6.3
-09:20:00,Unpaid household work,16.3
-09:20:00,Unpaid care,1.6
-09:20:00,Watching television,2.1
-09:20:00,Entertainment and leisure,8.5
-09:20:00,Education and study,1.6
-09:20:00,Other,0.8
-09:30:00,Sleep and rest,8.2
-09:30:00,Personal care,13.5
-09:30:00,Paid work,38.7
-09:30:00,Travel,6
-09:30:00,Unpaid household work,18.3
-09:30:00,Unpaid care,1.4
-09:30:00,Watching television,2.4
-09:30:00,Entertainment and leisure,8.9
-09:30:00,Education and study,1.7
-09:30:00,Other,1
-09:40:00,Sleep and rest,8.2
-09:40:00,Personal care,12.9
-09:40:00,Paid work,39.4
-09:40:00,Travel,5.4
-09:40:00,Unpaid household work,18.2
-09:40:00,Unpaid care,1.5
-09:40:00,Watching television,2.2
-09:40:00,Entertainment and leisure,9.3
-09:40:00,Education and study,1.7
-09:40:00,Other,1.1
-09:50:00,Sleep and rest,8.1
-09:50:00,Personal care,11.8
-09:50:00,Paid work,39.4
-09:50:00,Travel,5.6
-09:50:00,Unpaid household work,18.4
-09:50:00,Unpaid care,1.9
-09:50:00,Watching television,2.4
-09:50:00,Entertainment and leisure,9.7
-09:50:00,Education and study,1.8
-09:50:00,Other,1.1
-10:00:00,Sleep and rest,5.9
-10:00:00,Personal care,12.3
-10:00:00,Paid work,40.2
-10:00:00,Travel,5.5
-10:00:00,Unpaid household work,19.4
-10:00:00,Unpaid care,1.7
-10:00:00,Watching television,2.3
-10:00:00,Entertainment and leisure,10
-10:00:00,Education and study,1.8
-10:00:00,Other,1
-10:10:00,Sleep and rest,5.6
-10:10:00,Personal care,11.1
-10:10:00,Paid work,40.5
-10:10:00,Travel,5.6
-10:10:00,Unpaid household work,19.7
-10:10:00,Unpaid care,2
-10:10:00,Watching television,2.6
-10:10:00,Entertainment and leisure,10
-10:10:00,Education and study,2
-10:10:00,Other,0.9
-10:20:00,Sleep and rest,5.3
-10:20:00,Personal care,10.7
-10:20:00,Paid work,40.8
-10:20:00,Travel,5.2
-10:20:00,Unpaid household work,19.6
-10:20:00,Unpaid care,2.1
-10:20:00,Watching television,2.5
-10:20:00,Entertainment and leisure,10.7
-10:20:00,Education and study,2
-10:20:00,Other,1
-10:30:00,Sleep and rest,4.6
-10:30:00,Personal care,10
-10:30:00,Paid work,40.6
-10:30:00,Travel,6.6
-10:30:00,Unpaid household work,19.1
-10:30:00,Unpaid care,2.4
-10:30:00,Watching television,2.3
-10:30:00,Entertainment and leisure,11.3
-10:30:00,Education and study,2.1
-10:30:00,Other,1
-10:40:00,Sleep and rest,4.6
-10:40:00,Personal care,9.3
-10:40:00,Paid work,41.3
-10:40:00,Travel,6.1
-10:40:00,Unpaid household work,19.9
-10:40:00,Unpaid care,2.5
-10:40:00,Watching television,2.2
-10:40:00,Entertainment and leisure,10.6
-10:40:00,Education and study,2.3
-10:40:00,Other,1.1
-10:50:00,Sleep and rest,4.7
-10:50:00,Personal care,8.9
-10:50:00,Paid work,41.4
-10:50:00,Travel,5.6
-10:50:00,Unpaid household work,20.4
-10:50:00,Unpaid care,2.6
-10:50:00,Watching television,2.1
-10:50:00,Entertainment and leisure,10.8
-10:50:00,Education and study,2.4
-10:50:00,Other,1.1
-11:00:00,Sleep and rest,3.5
-11:00:00,Personal care,9.8
-11:00:00,Paid work,41
-11:00:00,Travel,6.7
-11:00:00,Unpaid household work,21
-11:00:00,Unpaid care,2.4
-11:00:00,Watching television,1.7
-11:00:00,Entertainment and leisure,10.8
-11:00:00,Education and study,2.2
-11:00:00,Other,0.9
-11:10:00,Sleep and rest,3.3
-11:10:00,Personal care,10
-11:10:00,Paid work,41.1
-11:10:00,Travel,5.8
-11:10:00,Unpaid household work,21.7
-11:10:00,Unpaid care,2.1
-11:10:00,Watching television,1.9
-11:10:00,Entertainment and leisure,10.9
-11:10:00,Education and study,2.4
-11:10:00,Other,0.9
-11:20:00,Sleep and rest,3.3
-11:20:00,Personal care,9.6
-11:20:00,Paid work,41.1
-11:20:00,Travel,6
-11:20:00,Unpaid household work,22.2
-11:20:00,Unpaid care,2.1
-11:20:00,Watching television,1.8
-11:20:00,Entertainment and leisure,10.6
-11:20:00,Education and study,2.2
-11:20:00,Other,1
-11:30:00,Sleep and rest,2.9
-11:30:00,Personal care,8.4
-11:30:00,Paid work,41
-11:30:00,Travel,6.6
-11:30:00,Unpaid household work,22.6
-11:30:00,Unpaid care,2
-11:30:00,Watching television,2.1
-11:30:00,Entertainment and leisure,11.1
-11:30:00,Education and study,2.2
-11:30:00,Other,1
-11:40:00,Sleep and rest,2.9
-11:40:00,Personal care,8.8
-11:40:00,Paid work,40.8
-11:40:00,Travel,6.1
-11:40:00,Unpaid household work,22.7
-11:40:00,Unpaid care,2.1
-11:40:00,Watching television,2.1
-11:40:00,Entertainment and leisure,11.3
-11:40:00,Education and study,2.2
-11:40:00,Other,0.9
-11:50:00,Sleep and rest,2.9
-11:50:00,Personal care,8.7
-11:50:00,Paid work,40.8
-11:50:00,Travel,5.9
-11:50:00,Unpaid household work,23
-11:50:00,Unpaid care,2.3
-11:50:00,Watching television,2.2
-11:50:00,Entertainment and leisure,11.1
-11:50:00,Education and study,2.2
-11:50:00,Other,0.9
-12:00:00,Sleep and rest,2.2
-12:00:00,Personal care,12.4
-12:00:00,Paid work,37.1
-12:00:00,Travel,5.8
-12:00:00,Unpaid household work,23.8
-12:00:00,Unpaid care,2.4
-12:00:00,Watching television,2.7
-12:00:00,Entertainment and leisure,10.5
-12:00:00,Education and study,2.1
-12:00:00,Other,1
-12:10:00,Sleep and rest,2
-12:10:00,Personal care,14
-12:10:00,Paid work,36.8
-12:10:00,Travel,5.3
-12:10:00,Unpaid household work,22.9
-12:10:00,Unpaid care,2.2
-12:10:00,Watching television,2.7
-12:10:00,Entertainment and leisure,10.9
-12:10:00,Education and study,2.2
-12:10:00,Other,1
-12:20:00,Sleep and rest,1.9
-12:20:00,Personal care,15.2
-12:20:00,Paid work,36.2
-12:20:00,Travel,5.6
-12:20:00,Unpaid household work,22.5
-12:20:00,Unpaid care,1.7
-12:20:00,Watching television,3
-12:20:00,Entertainment and leisure,10.9
-12:20:00,Education and study,2.1
-12:20:00,Other,0.9
-12:30:00,Sleep and rest,1.7
-12:30:00,Personal care,17.8
-12:30:00,Paid work,33.3
-12:30:00,Travel,5.8
-12:30:00,Unpaid household work,22.2
-12:30:00,Unpaid care,1.7
-12:30:00,Watching television,3.2
-12:30:00,Entertainment and leisure,11.4
-12:30:00,Education and study,2
-12:30:00,Other,1
-12:40:00,Sleep and rest,1.7
-12:40:00,Personal care,18.4
-12:40:00,Paid work,33.2
-12:40:00,Travel,5.9
-12:40:00,Unpaid household work,20.7
-12:40:00,Unpaid care,1.8
-12:40:00,Watching television,3.5
-12:40:00,Entertainment and leisure,11.4
-12:40:00,Education and study,2
-12:40:00,Other,1.3
-12:50:00,Sleep and rest,1.9
-12:50:00,Personal care,19.1
-12:50:00,Paid work,33.2
-12:50:00,Travel,5.4
-12:50:00,Unpaid household work,21.1
-12:50:00,Unpaid care,2.3
-12:50:00,Watching television,3.8
-12:50:00,Entertainment and leisure,10.4
-12:50:00,Education and study,1.9
-12:50:00,Other,1.1
-13:00:00,Sleep and rest,2.2
-13:00:00,Personal care,18.2
-13:00:00,Paid work,33.5
-13:00:00,Travel,5.4
-13:00:00,Unpaid household work,20.9
-13:00:00,Unpaid care,2
-13:00:00,Watching television,4.2
-13:00:00,Entertainment and leisure,9.8
-13:00:00,Education and study,2.3
-13:00:00,Other,1.3
-13:10:00,Sleep and rest,2.5
-13:10:00,Personal care,19.1
-13:10:00,Paid work,33.4
-13:10:00,Travel,5.4
-13:10:00,Unpaid household work,19.4
-13:10:00,Unpaid care,1.8
-13:10:00,Watching television,4.5
-13:10:00,Entertainment and leisure,10.4
-13:10:00,Education and study,2.3
-13:10:00,Other,1.2
-13:20:00,Sleep and rest,2.7
-13:20:00,Personal care,18.4
-13:20:00,Paid work,33.2
-13:20:00,Travel,5.2
-13:20:00,Unpaid household work,19.4
-13:20:00,Unpaid care,1.8
-13:20:00,Watching television,4.6
-13:20:00,Entertainment and leisure,11.1
-13:20:00,Education and study,2.5
-13:20:00,Other,1.2
-13:30:00,Sleep and rest,3
-13:30:00,Personal care,15.5
-13:30:00,Paid work,34.4
-13:30:00,Travel,4.7
-13:30:00,Unpaid household work,20
-13:30:00,Unpaid care,2.1
-13:30:00,Watching television,4.9
-13:30:00,Entertainment and leisure,12
-13:30:00,Education and study,2.2
-13:30:00,Other,1.1
-13:40:00,Sleep and rest,2.9
-13:40:00,Personal care,14.1
-13:40:00,Paid work,35
-13:40:00,Travel,5.1
-13:40:00,Unpaid household work,20.1
-13:40:00,Unpaid care,2.2
-13:40:00,Watching television,5.3
-13:40:00,Entertainment and leisure,12.2
-13:40:00,Education and study,2.3
-13:40:00,Other,1
-13:50:00,Sleep and rest,2.8
-13:50:00,Personal care,13.1
-13:50:00,Paid work,36.2
-13:50:00,Travel,5
-13:50:00,Unpaid household work,20.3
-13:50:00,Unpaid care,1.9
-13:50:00,Watching television,5.4
-13:50:00,Entertainment and leisure,12.2
-13:50:00,Education and study,2.3
-13:50:00,Other,0.9
-14:00:00,Sleep and rest,2.7
-14:00:00,Personal care,8.9
-14:00:00,Paid work,38.9
-14:00:00,Travel,6.5
-14:00:00,Unpaid household work,20.6
-14:00:00,Unpaid care,1.8
-14:00:00,Watching television,5.4
-14:00:00,Entertainment and leisure,11.9
-14:00:00,Education and study,2.5
-14:00:00,Other,0.8
-14:10:00,Sleep and rest,2.6
-14:10:00,Personal care,8.3
-14:10:00,Paid work,39.7
-14:10:00,Travel,6.3
-14:10:00,Unpaid household work,20
-14:10:00,Unpaid care,1.7
-14:10:00,Watching television,5.7
-14:10:00,Entertainment and leisure,12.2
-14:10:00,Education and study,2.5
-14:10:00,Other,1
-14:20:00,Sleep and rest,2.9
-14:20:00,Personal care,7.5
-14:20:00,Paid work,40
-14:20:00,Travel,5.8
-14:20:00,Unpaid household work,19.7
-14:20:00,Unpaid care,1.8
-14:20:00,Watching television,6
-14:20:00,Entertainment and leisure,12.7
-14:20:00,Education and study,2.7
-14:20:00,Other,0.9
-14:30:00,Sleep and rest,2.6
-14:30:00,Personal care,7.3
-14:30:00,Paid work,39.4
-14:30:00,Travel,6.5
-14:30:00,Unpaid household work,19.7
-14:30:00,Unpaid care,1.9
-14:30:00,Watching television,6
-14:30:00,Entertainment and leisure,13
-14:30:00,Education and study,2.9
-14:30:00,Other,0.9
-14:40:00,Sleep and rest,2.7
-14:40:00,Personal care,7
-14:40:00,Paid work,39.2
-14:40:00,Travel,6.9
-14:40:00,Unpaid household work,18.9
-14:40:00,Unpaid care,2
-14:40:00,Watching television,6.3
-14:40:00,Entertainment and leisure,13.5
-14:40:00,Education and study,2.8
-14:40:00,Other,0.7
-14:50:00,Sleep and rest,2.7
-14:50:00,Personal care,6
-14:50:00,Paid work,39.3
-14:50:00,Travel,7.7
-14:50:00,Unpaid household work,19
-14:50:00,Unpaid care,2.2
-14:50:00,Watching television,6.1
-14:50:00,Entertainment and leisure,13.2
-14:50:00,Education and study,2.8
-14:50:00,Other,0.9
-15:00:00,Sleep and rest,2.9
-15:00:00,Personal care,6.1
-15:00:00,Paid work,37.7
-15:00:00,Travel,9.3
-15:00:00,Unpaid household work,17.8
-15:00:00,Unpaid care,2.8
-15:00:00,Watching television,5.8
-15:00:00,Entertainment and leisure,13.4
-15:00:00,Education and study,2.9
-15:00:00,Other,1.4
-15:10:00,Sleep and rest,2.9
-15:10:00,Personal care,6.7
-15:10:00,Paid work,37.7
-15:10:00,Travel,8.8
-15:10:00,Unpaid household work,17.2
-15:10:00,Unpaid care,3.2
-15:10:00,Watching television,5.9
-15:10:00,Entertainment and leisure,13.5
-15:10:00,Education and study,2.6
-15:10:00,Other,1.3
-15:20:00,Sleep and rest,3
-15:20:00,Personal care,5.8
-15:20:00,Paid work,37.7
-15:20:00,Travel,9
-15:20:00,Unpaid household work,16.8
-15:20:00,Unpaid care,3.5
-15:20:00,Watching television,6.3
-15:20:00,Entertainment and leisure,14.5
-15:20:00,Education and study,2.4
-15:20:00,Other,1
-15:30:00,Sleep and rest,3.3
-15:30:00,Personal care,5
-15:30:00,Paid work,37.1
-15:30:00,Travel,8.5
-15:30:00,Unpaid household work,16.7
-15:30:00,Unpaid care,4.2
-15:30:00,Watching television,6.6
-15:30:00,Entertainment and leisure,15
-15:30:00,Education and study,2.7
-15:30:00,Other,1
-15:40:00,Sleep and rest,3.4
-15:40:00,Personal care,5.1
-15:40:00,Paid work,36.9
-15:40:00,Travel,7.5
-15:40:00,Unpaid household work,17.7
-15:40:00,Unpaid care,4.2
-15:40:00,Watching television,6.6
-15:40:00,Entertainment and leisure,14.7
-15:40:00,Education and study,2.8
-15:40:00,Other,1.1
-15:50:00,Sleep and rest,3.4
-15:50:00,Personal care,5.4
-15:50:00,Paid work,36.5
-15:50:00,Travel,6.6
-15:50:00,Unpaid household work,18.7
-15:50:00,Unpaid care,4.3
-15:50:00,Watching television,6.5
-15:50:00,Entertainment and leisure,14.9
-15:50:00,Education and study,2.9
-15:50:00,Other,0.9
-16:00:00,Sleep and rest,2.8
-16:00:00,Personal care,5.9
-16:00:00,Paid work,34.1
-16:00:00,Travel,8.2
-16:00:00,Unpaid household work,19.8
-16:00:00,Unpaid care,4.4
-16:00:00,Watching television,7.1
-16:00:00,Entertainment and leisure,14.3
-16:00:00,Education and study,2.5
-16:00:00,Other,0.8
-16:10:00,Sleep and rest,3
-16:10:00,Personal care,6.5
-16:10:00,Paid work,33.6
-16:10:00,Travel,6.9
-16:10:00,Unpaid household work,19.7
-16:10:00,Unpaid care,4.6
-16:10:00,Watching television,7
-16:10:00,Entertainment and leisure,14.9
-16:10:00,Education and study,2.5
-16:10:00,Other,1.2
-16:20:00,Sleep and rest,3.1
-16:20:00,Personal care,6.6
-16:20:00,Paid work,32.6
-16:20:00,Travel,7.7
-16:20:00,Unpaid household work,19.8
-16:20:00,Unpaid care,5
-16:20:00,Watching television,6.7
-16:20:00,Entertainment and leisure,14.5
-16:20:00,Education and study,2.6
-16:20:00,Other,1.4
-16:30:00,Sleep and rest,3.2
-16:30:00,Personal care,6.2
-16:30:00,Paid work,28.1
-16:30:00,Travel,10.9
-16:30:00,Unpaid household work,21.8
-16:30:00,Unpaid care,4.7
-16:30:00,Watching television,6.6
-16:30:00,Entertainment and leisure,14.8
-16:30:00,Education and study,2.5
-16:30:00,Other,1.2
-16:40:00,Sleep and rest,3.3
-16:40:00,Personal care,6.8
-16:40:00,Paid work,27.7
-16:40:00,Travel,10.5
-16:40:00,Unpaid household work,22.2
-16:40:00,Unpaid care,4.5
-16:40:00,Watching television,6.7
-16:40:00,Entertainment and leisure,14.6
-16:40:00,Education and study,2.3
-16:40:00,Other,1.3
-16:50:00,Sleep and rest,3.3
-16:50:00,Personal care,7.4
-16:50:00,Paid work,27.2
-16:50:00,Travel,9.9
-16:50:00,Unpaid household work,22.9
-16:50:00,Unpaid care,4.6
-16:50:00,Watching television,6.9
-16:50:00,Entertainment and leisure,14.8
-16:50:00,Education and study,1.8
-16:50:00,Other,1.2
-17:00:00,Sleep and rest,3.2
-17:00:00,Personal care,9.8
-17:00:00,Paid work,21
-17:00:00,Travel,11.1
-17:00:00,Unpaid household work,25.1
-17:00:00,Unpaid care,4.6
-17:00:00,Watching television,7.3
-17:00:00,Entertainment and leisure,14.9
-17:00:00,Education and study,1.7
-17:00:00,Other,1.4
-17:10:00,Sleep and rest,2.9
-17:10:00,Personal care,11.2
-17:10:00,Paid work,19.6
-17:10:00,Travel,10.2
-17:10:00,Unpaid household work,25.4
-17:10:00,Unpaid care,4.8
-17:10:00,Watching television,7.6
-17:10:00,Entertainment and leisure,15.1
-17:10:00,Education and study,1.7
-17:10:00,Other,1.4
-17:20:00,Sleep and rest,2.9
-17:20:00,Personal care,12
-17:20:00,Paid work,18.4
-17:20:00,Travel,9.9
-17:20:00,Unpaid household work,26
-17:20:00,Unpaid care,4.7
-17:20:00,Watching television,8.3
-17:20:00,Entertainment and leisure,14.8
-17:20:00,Education and study,1.6
-17:20:00,Other,1.4
-17:30:00,Sleep and rest,2.7
-17:30:00,Personal care,15.3
-17:30:00,Paid work,14
-17:30:00,Travel,10.2
-17:30:00,Unpaid household work,27
-17:30:00,Unpaid care,4.4
-17:30:00,Watching television,8.6
-17:30:00,Entertainment and leisure,15
-17:30:00,Education and study,1.6
-17:30:00,Other,1.1
-17:40:00,Sleep and rest,2.6
-17:40:00,Personal care,16.3
-17:40:00,Paid work,13.5
-17:40:00,Travel,9.9
-17:40:00,Unpaid household work,27.3
-17:40:00,Unpaid care,4
-17:40:00,Watching television,9.2
-17:40:00,Entertainment and leisure,15.2
-17:40:00,Education and study,1.4
-17:40:00,Other,0.7
-17:50:00,Sleep and rest,2.5
-17:50:00,Personal care,17.1
-17:50:00,Paid work,13.1
-17:50:00,Travel,9.4
-17:50:00,Unpaid household work,26.2
-17:50:00,Unpaid care,4.2
-17:50:00,Watching television,9.9
-17:50:00,Entertainment and leisure,15.4
-17:50:00,Education and study,1.4
-17:50:00,Other,0.9
-18:00:00,Sleep and rest,2
-18:00:00,Personal care,21
-18:00:00,Paid work,9.8
-18:00:00,Travel,8.7
-18:00:00,Unpaid household work,25.1
-18:00:00,Unpaid care,4.3
-18:00:00,Watching television,12.1
-18:00:00,Entertainment and leisure,14.8
-18:00:00,Education and study,1.3
-18:00:00,Other,0.9
-18:10:00,Sleep and rest,2.2
-18:10:00,Personal care,22
-18:10:00,Paid work,9.1
-18:10:00,Travel,7.2
-18:10:00,Unpaid household work,23.7
-18:10:00,Unpaid care,4
-18:10:00,Watching television,13.3
-18:10:00,Entertainment and leisure,15.6
-18:10:00,Education and study,1.3
-18:10:00,Other,1.6
-18:20:00,Sleep and rest,2.4
-18:20:00,Personal care,21.6
-18:20:00,Paid work,8.7
-18:20:00,Travel,6.7
-18:20:00,Unpaid household work,23.6
-18:20:00,Unpaid care,4.1
-18:20:00,Watching television,13.9
-18:20:00,Entertainment and leisure,16.1
-18:20:00,Education and study,1.3
-18:20:00,Other,1.6
-18:30:00,Sleep and rest,2.4
-18:30:00,Personal care,21
-18:30:00,Paid work,7.2
-18:30:00,Travel,7.5
-18:30:00,Unpaid household work,21.8
-18:30:00,Unpaid care,4.8
-18:30:00,Watching television,15.2
-18:30:00,Entertainment and leisure,17.1
-18:30:00,Education and study,1.3
-18:30:00,Other,1.6
-18:40:00,Sleep and rest,2.2
-18:40:00,Personal care,20.1
-18:40:00,Paid work,6.8
-18:40:00,Travel,7.1
-18:40:00,Unpaid household work,21.7
-18:40:00,Unpaid care,5.1
-18:40:00,Watching television,16.2
-18:40:00,Entertainment and leisure,17.9
-18:40:00,Education and study,1.4
-18:40:00,Other,1.5
-18:50:00,Sleep and rest,2
-18:50:00,Personal care,19.2
-18:50:00,Paid work,6.2
-18:50:00,Travel,6.9
-18:50:00,Unpaid household work,21.2
-18:50:00,Unpaid care,5.4
-18:50:00,Watching television,17.3
-18:50:00,Entertainment and leisure,18.9
-18:50:00,Education and study,1.3
-18:50:00,Other,1.6
-19:00:00,Sleep and rest,2.4
-19:00:00,Personal care,19.6
-19:00:00,Paid work,5.6
-19:00:00,Travel,6.2
-19:00:00,Unpaid household work,18.8
-19:00:00,Unpaid care,5.7
-19:00:00,Watching television,20.4
-19:00:00,Entertainment and leisure,18.7
-19:00:00,Education and study,1.3
-19:00:00,Other,1.4
-19:10:00,Sleep and rest,2.3
-19:10:00,Personal care,19.3
-19:10:00,Paid work,5.3
-19:10:00,Travel,5.6
-19:10:00,Unpaid household work,17.3
-19:10:00,Unpaid care,6.3
-19:10:00,Watching television,21.8
-19:10:00,Entertainment and leisure,19.6
-19:10:00,Education and study,1.3
-19:10:00,Other,1.2
-19:20:00,Sleep and rest,2.1
-19:20:00,Personal care,17.9
-19:20:00,Paid work,5.3
-19:20:00,Travel,4.9
-19:20:00,Unpaid household work,16.8
-19:20:00,Unpaid care,6.2
-19:20:00,Watching television,24.4
-19:20:00,Entertainment and leisure,19.8
-19:20:00,Education and study,1.2
-19:20:00,Other,1.1
-19:30:00,Sleep and rest,1.9
-19:30:00,Personal care,17.8
-19:30:00,Paid work,5.1
-19:30:00,Travel,3.9
-19:30:00,Unpaid household work,14.9
-19:30:00,Unpaid care,5.6
-19:30:00,Watching television,28.2
-19:30:00,Entertainment and leisure,20.2
-19:30:00,Education and study,1.2
-19:30:00,Other,1.3
-19:40:00,Sleep and rest,2.2
-19:40:00,Personal care,16.4
-19:40:00,Paid work,5
-19:40:00,Travel,3.6
-19:40:00,Unpaid household work,13
-19:40:00,Unpaid care,5.3
-19:40:00,Watching television,30.8
-19:40:00,Entertainment and leisure,21.1
-19:40:00,Education and study,1.2
-19:40:00,Other,1.4
-19:50:00,Sleep and rest,2.2
-19:50:00,Personal care,15.5
-19:50:00,Paid work,5
-19:50:00,Travel,3.5
-19:50:00,Unpaid household work,12.2
-19:50:00,Unpaid care,5.1
-19:50:00,Watching television,32.4
-19:50:00,Entertainment and leisure,21.1
-19:50:00,Education and study,1.4
-19:50:00,Other,1.5
-20:00:00,Sleep and rest,2.7
-20:00:00,Personal care,14.1
-20:00:00,Paid work,4.1
-20:00:00,Travel,3.6
-20:00:00,Unpaid household work,11.1
-20:00:00,Unpaid care,4.4
-20:00:00,Watching television,38.1
-20:00:00,Entertainment and leisure,19
-20:00:00,Education and study,1.4
-20:00:00,Other,1.6
-20:10:00,Sleep and rest,2.8
-20:10:00,Personal care,12.8
-20:10:00,Paid work,3.9
-20:10:00,Travel,2.8
-20:10:00,Unpaid household work,10.8
-20:10:00,Unpaid care,4.2
-20:10:00,Watching television,39.7
-20:10:00,Entertainment and leisure,19.8
-20:10:00,Education and study,1.5
-20:10:00,Other,1.8
-20:20:00,Sleep and rest,3.2
-20:20:00,Personal care,12.1
-20:20:00,Paid work,4
-20:20:00,Travel,2.3
-20:20:00,Unpaid household work,9.7
-20:20:00,Unpaid care,3.9
-20:20:00,Watching television,41.1
-20:20:00,Entertainment and leisure,20.6
-20:20:00,Education and study,1.3
-20:20:00,Other,1.9
-20:30:00,Sleep and rest,3.9
-20:30:00,Personal care,10.8
-20:30:00,Paid work,3.7
-20:30:00,Travel,2.2
-20:30:00,Unpaid household work,9.1
-20:30:00,Unpaid care,3.1
-20:30:00,Watching television,42.9
-20:30:00,Entertainment and leisure,20.7
-20:30:00,Education and study,1.2
-20:30:00,Other,2.4
-20:40:00,Sleep and rest,4.2
-20:40:00,Personal care,10.4
-20:40:00,Paid work,3.6
-20:40:00,Travel,1.7
-20:40:00,Unpaid household work,8.5
-20:40:00,Unpaid care,2.8
-20:40:00,Watching television,44
-20:40:00,Entertainment and leisure,21.1
-20:40:00,Education and study,1.2
-20:40:00,Other,2.4
-20:50:00,Sleep and rest,5
-20:50:00,Personal care,9.4
-20:50:00,Paid work,3.5
-20:50:00,Travel,2.3
-20:50:00,Unpaid household work,8.1
-20:50:00,Unpaid care,2.6
-20:50:00,Watching television,44.6
-20:50:00,Entertainment and leisure,20.9
-20:50:00,Education and study,1.2
-20:50:00,Other,2.5
-21:00:00,Sleep and rest,8
-21:00:00,Personal care,9.6
-21:00:00,Paid work,3
-21:00:00,Travel,2.7
-21:00:00,Unpaid household work,6.9
-21:00:00,Unpaid care,2.4
-21:00:00,Watching television,42.6
-21:00:00,Entertainment and leisure,20.9
-21:00:00,Education and study,1.1
-21:00:00,Other,2.6
-21:10:00,Sleep and rest,8.9
-21:10:00,Personal care,9.9
-21:10:00,Paid work,2.8
-21:10:00,Travel,2
-21:10:00,Unpaid household work,6.1
-21:10:00,Unpaid care,2.4
-21:10:00,Watching television,43.7
-21:10:00,Entertainment and leisure,20.5
-21:10:00,Education and study,1
-21:10:00,Other,2.7
-21:20:00,Sleep and rest,9.9
-21:20:00,Personal care,9.2
-21:20:00,Paid work,2.7
-21:20:00,Travel,1.6
-21:20:00,Unpaid household work,5.7
-21:20:00,Unpaid care,2.1
-21:20:00,Watching television,43.6
-21:20:00,Entertainment and leisure,21.2
-21:20:00,Education and study,1
-21:20:00,Other,3
-21:30:00,Sleep and rest,12.6
-21:30:00,Personal care,10
-21:30:00,Paid work,2.7
-21:30:00,Travel,1.9
-21:30:00,Unpaid household work,3.8
-21:30:00,Unpaid care,1.8
-21:30:00,Watching television,42.3
-21:30:00,Entertainment and leisure,21.1
-21:30:00,Education and study,0.9
-21:30:00,Other,2.7
-21:40:00,Sleep and rest,14.5
-21:40:00,Personal care,9.2
-21:40:00,Paid work,2.8
-21:40:00,Travel,2.2
-21:40:00,Unpaid household work,3.5
-21:40:00,Unpaid care,1.8
-21:40:00,Watching television,41.1
-21:40:00,Entertainment and leisure,21.8
-21:40:00,Education and study,0.8
-21:40:00,Other,2.3
-21:50:00,Sleep and rest,15.8
-21:50:00,Personal care,8.7
-21:50:00,Paid work,2.8
-21:50:00,Travel,1.9
-21:50:00,Unpaid household work,4.1
-21:50:00,Unpaid care,1.2
-21:50:00,Watching television,40.5
-21:50:00,Entertainment and leisure,21.7
-21:50:00,Education and study,0.6
-21:50:00,Other,2.5
-22:00:00,Sleep and rest,27.6
-22:00:00,Personal care,9.7
-22:00:00,Paid work,2.1
-22:00:00,Travel,2.3
-22:00:00,Unpaid household work,3.8
-22:00:00,Unpaid care,1.1
-22:00:00,Watching television,31.4
-22:00:00,Entertainment and leisure,19
-22:00:00,Education and study,0.2
-22:00:00,Other,2.7
-22:10:00,Sleep and rest,31.4
-22:10:00,Personal care,7.9
-22:10:00,Paid work,2.1
-22:10:00,Travel,2.2
-22:10:00,Unpaid household work,3.5
-22:10:00,Unpaid care,1.2
-22:10:00,Watching television,29.7
-22:10:00,Entertainment and leisure,19.2
-22:10:00,Education and study,0.2
-22:10:00,Other,2.7
-22:20:00,Sleep and rest,35.3
-22:20:00,Personal care,7
-22:20:00,Paid work,2
-22:20:00,Travel,2.3
-22:20:00,Unpaid household work,2.6
-22:20:00,Unpaid care,1.1
-22:20:00,Watching television,27.3
-22:20:00,Entertainment and leisure,19.1
-22:20:00,Education and study,0.4
-22:20:00,Other,3
-22:30:00,Sleep and rest,43.9
-22:30:00,Personal care,7.7
-22:30:00,Paid work,1.6
-22:30:00,Travel,2.1
-22:30:00,Unpaid household work,2.9
-22:30:00,Unpaid care,1.1
-22:30:00,Watching television,20.5
-22:30:00,Entertainment and leisure,16.9
-22:30:00,Education and study,0.6
-22:30:00,Other,2.7
-22:40:00,Sleep and rest,48
-22:40:00,Personal care,6.8
-22:40:00,Paid work,1.6
-22:40:00,Travel,1.8
-22:40:00,Unpaid household work,2.9
-22:40:00,Unpaid care,0.9
-22:40:00,Watching television,18.5
-22:40:00,Entertainment and leisure,16.3
-22:40:00,Education and study,0.7
-22:40:00,Other,2.7
-22:50:00,Sleep and rest,52.2
-22:50:00,Personal care,6
-22:50:00,Paid work,1.6
-22:50:00,Travel,1.2
-22:50:00,Unpaid household work,2.5
-22:50:00,Unpaid care,0.9
-22:50:00,Watching television,17.1
-22:50:00,Entertainment and leisure,15.2
-22:50:00,Education and study,0.6
-22:50:00,Other,2.5
-23:00:00,Sleep and rest,64.5
-23:00:00,Personal care,5.3
-23:00:00,Paid work,1.4
-23:00:00,Travel,1.4
-23:00:00,Unpaid household work,2.1
-23:00:00,Unpaid care,0.4
-23:00:00,Watching television,11.1
-23:00:00,Entertainment and leisure,10.9
-23:00:00,Education and study,0.6
-23:00:00,Other,2.3
-23:10:00,Sleep and rest,68.1
-23:10:00,Personal care,4.3
-23:10:00,Paid work,1.4
-23:10:00,Travel,1.5
-23:10:00,Unpaid household work,1.9
-23:10:00,Unpaid care,0.4
-23:10:00,Watching television,9.8
-23:10:00,Entertainment and leisure,9.7
-23:10:00,Education and study,0.6
-23:10:00,Other,2.2
-23:20:00,Sleep and rest,71.4
-23:20:00,Personal care,3.8
-23:20:00,Paid work,1.4
-23:20:00,Travel,1.2
-23:20:00,Unpaid household work,2
-23:20:00,Unpaid care,0.4
-23:20:00,Watching television,8.7
-23:20:00,Entertainment and leisure,8.3
-23:20:00,Education and study,0.5
-23:20:00,Other,2.3
-23:30:00,Sleep and rest,77.8
-23:30:00,Personal care,3.2
-23:30:00,Paid work,1.3
-23:30:00,Travel,0.8
-23:30:00,Unpaid household work,1.3
-23:30:00,Unpaid care,0.4
-23:30:00,Watching television,6.6
-23:30:00,Entertainment and leisure,6.2
-23:30:00,Education and study,0.4
-23:30:00,Other,2
-23:40:00,Sleep and rest,80.4
-23:40:00,Personal care,2
-23:40:00,Paid work,1.3
-23:40:00,Travel,0.8
-23:40:00,Unpaid household work,1.1
-23:40:00,Unpaid care,0.3
-23:40:00,Watching television,5.7
-23:40:00,Entertainment and leisure,6.1
-23:40:00,Education and study,0.3
-23:40:00,Other,2
-23:50:00,Sleep and rest,82.2
-23:50:00,Personal care,1.4
-23:50:00,Paid work,1.3
-23:50:00,Travel,0.7
-23:50:00,Unpaid household work,1.2
-23:50:00,Unpaid care,0.3
-23:50:00,Watching television,5
-23:50:00,Entertainment and leisure,5.6
-23:50:00,Education and study,0.3
-23:50:00,Other,2
-00:00:00,Sleep and rest,87
-00:00:00,Personal care,1.5
-00:00:00,Paid work,1
-00:00:00,Travel,0.3
-00:00:00,Unpaid household work,0.6
-00:00:00,Unpaid care,0.2
-00:00:00,Watching television,2.9
-00:00:00,Entertainment and leisure,4.2
-00:00:00,Education and study,0.2
-00:00:00,Other,2.2
-00:10:00,Sleep and rest,88.4
-00:10:00,Personal care,1.2
-00:10:00,Paid work,0.9
-00:10:00,Travel,0.3
-00:10:00,Unpaid household work,0.4
-00:10:00,Unpaid care,0.3
-00:10:00,Watching television,2.4
-00:10:00,Entertainment and leisure,3.7
-00:10:00,Education and study,0.2
-00:10:00,Other,2.2
-00:20:00,Sleep and rest,89.7
-00:20:00,Personal care,1.1
-00:20:00,Paid work,0.9
-00:20:00,Travel,0.2
-00:20:00,Unpaid household work,0.5
-00:20:00,Unpaid care,0.2
-00:20:00,Watching television,2.2
-00:20:00,Entertainment and leisure,3
-00:20:00,Education and study,0.2
-00:20:00,Other,2
-00:30:00,Sleep and rest,90.8
-00:30:00,Personal care,1.1
-00:30:00,Paid work,1
-00:30:00,Travel,0.2
-00:30:00,Unpaid household work,0.3
-00:30:00,Unpaid care,0.2
-00:30:00,Watching television,1.6
-00:30:00,Entertainment and leisure,2.7
-00:30:00,Education and study,0.2
-00:30:00,Other,1.9
-00:40:00,Sleep and rest,91.9
-00:40:00,Personal care,0.8
-00:40:00,Paid work,1
-00:40:00,Travel,0.1
-00:40:00,Unpaid household work,0.3
-00:40:00,Unpaid care,0.2
-00:40:00,Watching television,1.5
-00:40:00,Entertainment and leisure,2.4
-00:40:00,Education and study,0.1
-00:40:00,Other,1.8
-00:50:00,Sleep and rest,92
-00:50:00,Personal care,0.8
-00:50:00,Paid work,1
-00:50:00,Travel,0.2
-00:50:00,Unpaid household work,0.3
-00:50:00,Unpaid care,0.2
-00:50:00,Watching television,1.5
-00:50:00,Entertainment and leisure,2.2
-00:50:00,Education and study,0.1
-00:50:00,Other,1.8
-01:00:00,Sleep and rest,93.1
-01:00:00,Personal care,0.6
-01:00:00,Paid work,1
-01:00:00,Travel,0.2
-01:00:00,Unpaid household work,0
-01:00:00,Unpaid care,0.3
-01:00:00,Watching television,1.2
-01:00:00,Entertainment and leisure,1.8
-01:00:00,Education and study,0
-01:00:00,Other,1.6
-01:10:00,Sleep and rest,93.4
-01:10:00,Personal care,0.5
-01:10:00,Paid work,1
-01:10:00,Travel,0.2
-01:10:00,Unpaid household work,0.1
-01:10:00,Unpaid care,0.2
-01:10:00,Watching television,1.2
-01:10:00,Entertainment and leisure,1.8
-01:10:00,Education and study,0
-01:10:00,Other,1.7
-01:20:00,Sleep and rest,93.5
-01:20:00,Personal care,0.4
-01:20:00,Paid work,1
-01:20:00,Travel,0.2
-01:20:00,Unpaid household work,0.1
-01:20:00,Unpaid care,0.1
-01:20:00,Watching television,1
-01:20:00,Entertainment and leisure,2
-01:20:00,Education and study,0
-01:20:00,Other,1.7
-01:30:00,Sleep and rest,94
-01:30:00,Personal care,0.4
-01:30:00,Paid work,1.1
-01:30:00,Travel,0
-01:30:00,Unpaid household work,0
-01:30:00,Unpaid care,0.1
-01:30:00,Watching television,1
-01:30:00,Entertainment and leisure,1.7
-01:30:00,Education and study,0
-01:30:00,Other,1.7
-01:40:00,Sleep and rest,94.1
-01:40:00,Personal care,0.4
-01:40:00,Paid work,1
-01:40:00,Travel,0
-01:40:00,Unpaid household work,0
-01:40:00,Unpaid care,0.1
-01:40:00,Watching television,1
-01:40:00,Entertainment and leisure,1.6
-01:40:00,Education and study,0
-01:40:00,Other,1.7
-01:50:00,Sleep and rest,94.3
-01:50:00,Personal care,0.4
-01:50:00,Paid work,1
-01:50:00,Travel,0
-01:50:00,Unpaid household work,0.1
-01:50:00,Unpaid care,0.1
-01:50:00,Watching television,1
-01:50:00,Entertainment and leisure,1.5
-01:50:00,Education and study,0
-01:50:00,Other,1.6
-02:00:00,Sleep and rest,95
-02:00:00,Personal care,0.2
-02:00:00,Paid work,0.9
-02:00:00,Travel,0.1
-02:00:00,Unpaid household work,0.1
-02:00:00,Unpaid care,0.2
-02:00:00,Watching television,0.7
-02:00:00,Entertainment and leisure,1.1
-02:00:00,Education and study,0
-02:00:00,Other,1.7
-02:10:00,Sleep and rest,94.9
-02:10:00,Personal care,0.4
-02:10:00,Paid work,0.9
-02:10:00,Travel,0.1
-02:10:00,Unpaid household work,0.1
-02:10:00,Unpaid care,0.2
-02:10:00,Watching television,0.6
-02:10:00,Entertainment and leisure,1.1
-02:10:00,Education and study,0
-02:10:00,Other,1.7
-02:20:00,Sleep and rest,95.2
-02:20:00,Personal care,0.3
-02:20:00,Paid work,0.9
-02:20:00,Travel,0.1
-02:20:00,Unpaid household work,0.1
-02:20:00,Unpaid care,0.1
-02:20:00,Watching television,0.6
-02:20:00,Entertainment and leisure,1
-02:20:00,Education and study,0
-02:20:00,Other,1.7
-02:30:00,Sleep and rest,95.9
-02:30:00,Personal care,0.3
-02:30:00,Paid work,0.9
-02:30:00,Travel,0.1
-02:30:00,Unpaid household work,0.1
-02:30:00,Unpaid care,0.1
-02:30:00,Watching television,0.4
-02:30:00,Entertainment and leisure,0.6
-02:30:00,Education and study,0
-02:30:00,Other,1.6
-02:40:00,Sleep and rest,95.8
-02:40:00,Personal care,0.4
-02:40:00,Paid work,0.9
-02:40:00,Travel,0
-02:40:00,Unpaid household work,0.1
-02:40:00,Unpaid care,0.1
-02:40:00,Watching television,0.4
-02:40:00,Entertainment and leisure,0.6
-02:40:00,Education and study,0
-02:40:00,Other,1.6
-02:50:00,Sleep and rest,95.8
-02:50:00,Personal care,0.3
-02:50:00,Paid work,0.9
-02:50:00,Travel,0
-02:50:00,Unpaid household work,0.1
-02:50:00,Unpaid care,0.1
-02:50:00,Watching television,0.4
-02:50:00,Entertainment and leisure,0.6
-02:50:00,Education and study,0
-02:50:00,Other,1.7
-03:00:00,Sleep and rest,95.9
-03:00:00,Personal care,0.3
-03:00:00,Paid work,0.9
-03:00:00,Travel,0
-03:00:00,Unpaid household work,0.2
-03:00:00,Unpaid care,0.1
-03:00:00,Watching television,0.3
-03:00:00,Entertainment and leisure,0.5
-03:00:00,Education and study,0
-03:00:00,Other,1.8
-03:10:00,Sleep and rest,95.9
-03:10:00,Personal care,0.3
-03:10:00,Paid work,0.8
-03:10:00,Travel,0.1
-03:10:00,Unpaid household work,0.2
-03:10:00,Unpaid care,0.1
-03:10:00,Watching television,0.3
-03:10:00,Entertainment and leisure,0.4
-03:10:00,Education and study,0
-03:10:00,Other,1.8
-03:20:00,Sleep and rest,95.6
-03:20:00,Personal care,0.6
-03:20:00,Paid work,0.8
-03:20:00,Travel,0
-03:20:00,Unpaid household work,0.3
-03:20:00,Unpaid care,0.2
-03:20:00,Watching television,0.3
-03:20:00,Entertainment and leisure,0.3
-03:20:00,Education and study,0
-03:20:00,Other,1.8
-03:30:00,Sleep and rest,95.3
-03:30:00,Personal care,0.7
-03:30:00,Paid work,0.8
-03:30:00,Travel,0
-03:30:00,Unpaid household work,0.3
-03:30:00,Unpaid care,0.3
-03:30:00,Watching television,0.2
-03:30:00,Entertainment and leisure,0.4
-03:30:00,Education and study,0
-03:30:00,Other,2
-03:40:00,Sleep and rest,95
-03:40:00,Personal care,0.7
-03:40:00,Paid work,0.8
-03:40:00,Travel,0
-03:40:00,Unpaid household work,0.3
-03:40:00,Unpaid care,0.3
-03:40:00,Watching television,0.2
-03:40:00,Entertainment and leisure,0.6
-03:40:00,Education and study,0
-03:40:00,Other,2
-03:50:00,Sleep and rest,94.8
-03:50:00,Personal care,0.9
-03:50:00,Paid work,0.8
-03:50:00,Travel,0
-03:50:00,Unpaid household work,0.4
-03:50:00,Unpaid care,0.2
-03:50:00,Watching television,0.2
-03:50:00,Entertainment and leisure,0.6
-03:50:00,Education and study,0
-03:50:00,Other,2
+Time,Activity,Value,Time_2
+04:00:00,Sleep and rest,97.1,4.00
+04:00:00,Personal care,0.9,4.00
+04:00:00,Paid work,0.7,4.00
+04:00:00,Travel,0.1,4.00
+04:00:00,Unpaid household work,0.2,4.00
+04:00:00,Unpaid care,0.1,4.00
+04:00:00,Watching television,0.2,4.00
+04:00:00,Entertainment and leisure,0.3,4.00
+04:00:00,Education and study,0,4.00
+04:00:00,Other,0.4,4.00
+04:10:00,Sleep and rest,97.1,4.17
+04:10:00,Personal care,0.8,4.17
+04:10:00,Paid work,0.7,4.17
+04:10:00,Travel,0.1,4.17
+04:10:00,Unpaid household work,0.2,4.17
+04:10:00,Unpaid care,0.1,4.17
+04:10:00,Watching television,0.2,4.17
+04:10:00,Entertainment and leisure,0.3,4.17
+04:10:00,Education and study,0,4.17
+04:10:00,Other,0.4,4.17
+04:20:00,Sleep and rest,97.1,4.33
+04:20:00,Personal care,0.9,4.33
+04:20:00,Paid work,0.7,4.33
+04:20:00,Travel,0.1,4.33
+04:20:00,Unpaid household work,0.2,4.33
+04:20:00,Unpaid care,0.1,4.33
+04:20:00,Watching television,0.2,4.33
+04:20:00,Entertainment and leisure,0.4,4.33
+04:20:00,Education and study,0,4.33
+04:20:00,Other,0.4,4.33
+04:30:00,Sleep and rest,96.6,4.50
+04:30:00,Personal care,0.9,4.50
+04:30:00,Paid work,0.7,4.50
+04:30:00,Travel,0.1,4.50
+04:30:00,Unpaid household work,0.4,4.50
+04:30:00,Unpaid care,0.1,4.50
+04:30:00,Watching television,0.2,4.50
+04:30:00,Entertainment and leisure,0.4,4.50
+04:30:00,Education and study,0,4.50
+04:30:00,Other,0.5,4.50
+04:40:00,Sleep and rest,96.3,4.67
+04:40:00,Personal care,1.1,4.67
+04:40:00,Paid work,0.7,4.67
+04:40:00,Travel,0.2,4.67
+04:40:00,Unpaid household work,0.3,4.67
+04:40:00,Unpaid care,0.1,4.67
+04:40:00,Watching television,0.2,4.67
+04:40:00,Entertainment and leisure,0.4,4.67
+04:40:00,Education and study,0,4.67
+04:40:00,Other,0.5,4.67
+04:50:00,Sleep and rest,96,4.83
+04:50:00,Personal care,1.3,4.83
+04:50:00,Paid work,0.7,4.83
+04:50:00,Travel,0.2,4.83
+04:50:00,Unpaid household work,0.3,4.83
+04:50:00,Unpaid care,0.1,4.83
+04:50:00,Watching television,0.3,4.83
+04:50:00,Entertainment and leisure,0.4,4.83
+04:50:00,Education and study,0,4.83
+04:50:00,Other,0.5,4.83
+05:00:00,Sleep and rest,94.4,5.00
+05:00:00,Personal care,2,5.00
+05:00:00,Paid work,0.8,5.00
+05:00:00,Travel,0.4,5.00
+05:00:00,Unpaid household work,0.7,5.00
+05:00:00,Unpaid care,0.1,5.00
+05:00:00,Watching television,0.3,5.00
+05:00:00,Entertainment and leisure,0.7,5.00
+05:00:00,Education and study,0,5.00
+05:00:00,Other,0.5,5.00
+05:10:00,Sleep and rest,94.3,5.17
+05:10:00,Personal care,1.9,5.17
+05:10:00,Paid work,0.8,5.17
+05:10:00,Travel,0.5,5.17
+05:10:00,Unpaid household work,0.9,5.17
+05:10:00,Unpaid care,0.1,5.17
+05:10:00,Watching television,0.3,5.17
+05:10:00,Entertainment and leisure,0.7,5.17
+05:10:00,Education and study,0,5.17
+05:10:00,Other,0.5,5.17
+05:20:00,Sleep and rest,93.7,5.33
+05:20:00,Personal care,2.2,5.33
+05:20:00,Paid work,0.8,5.33
+05:20:00,Travel,0.6,5.33
+05:20:00,Unpaid household work,0.7,5.33
+05:20:00,Unpaid care,0.1,5.33
+05:20:00,Watching television,0.3,5.33
+05:20:00,Entertainment and leisure,0.7,5.33
+05:20:00,Education and study,0,5.33
+05:20:00,Other,0.8,5.33
+05:30:00,Sleep and rest,91.6,5.50
+05:30:00,Personal care,3.2,5.50
+05:30:00,Paid work,1,5.50
+05:30:00,Travel,1.1,5.50
+05:30:00,Unpaid household work,0.8,5.50
+05:30:00,Unpaid care,0.2,5.50
+05:30:00,Watching television,0.3,5.50
+05:30:00,Entertainment and leisure,0.8,5.50
+05:30:00,Education and study,0,5.50
+05:30:00,Other,0.9,5.50
+05:40:00,Sleep and rest,90.7,5.67
+05:40:00,Personal care,3.5,5.67
+05:40:00,Paid work,1.1,5.67
+05:40:00,Travel,1.7,5.67
+05:40:00,Unpaid household work,0.8,5.67
+05:40:00,Unpaid care,0.2,5.67
+05:40:00,Watching television,0.4,5.67
+05:40:00,Entertainment and leisure,0.9,5.67
+05:40:00,Education and study,0,5.67
+05:40:00,Other,0.7,5.67
+05:50:00,Sleep and rest,90,5.83
+05:50:00,Personal care,3.4,5.83
+05:50:00,Paid work,1.6,5.83
+05:50:00,Travel,1.7,5.83
+05:50:00,Unpaid household work,0.9,5.83
+05:50:00,Unpaid care,0.2,5.83
+05:50:00,Watching television,0.4,5.83
+05:50:00,Entertainment and leisure,1.1,5.83
+05:50:00,Education and study,0,5.83
+05:50:00,Other,0.7,5.83
+06:00:00,Sleep and rest,82.5,6.00
+06:00:00,Personal care,7.7,6.00
+06:00:00,Paid work,2.5,6.00
+06:00:00,Travel,1.3,6.00
+06:00:00,Unpaid household work,2.4,6.00
+06:00:00,Unpaid care,0.6,6.00
+06:00:00,Watching television,0.4,6.00
+06:00:00,Entertainment and leisure,1.8,6.00
+06:00:00,Education and study,0.1,6.00
+06:00:00,Other,0.7,6.00
+06:10:00,Sleep and rest,80.7,6.17
+06:10:00,Personal care,7.8,6.17
+06:10:00,Paid work,2.6,6.17
+06:10:00,Travel,1.7,6.17
+06:10:00,Unpaid household work,3,6.17
+06:10:00,Unpaid care,0.5,6.17
+06:10:00,Watching television,0.5,6.17
+06:10:00,Entertainment and leisure,2.2,6.17
+06:10:00,Education and study,0.1,6.17
+06:10:00,Other,1,6.17
+06:20:00,Sleep and rest,78.5,6.33
+06:20:00,Personal care,9,6.33
+06:20:00,Paid work,2.8,6.33
+06:20:00,Travel,2,6.33
+06:20:00,Unpaid household work,3.2,6.33
+06:20:00,Unpaid care,0.6,6.33
+06:20:00,Watching television,0.5,6.33
+06:20:00,Entertainment and leisure,2.6,6.33
+06:20:00,Education and study,0.1,6.33
+06:20:00,Other,0.7,6.33
+06:30:00,Sleep and rest,71,6.50
+06:30:00,Personal care,13.7,6.50
+06:30:00,Paid work,3.5,6.50
+06:30:00,Travel,2.6,6.50
+06:30:00,Unpaid household work,4.4,6.50
+06:30:00,Unpaid care,0.9,6.50
+06:30:00,Watching television,0.5,6.50
+06:30:00,Entertainment and leisure,3.2,6.50
+06:30:00,Education and study,0,6.50
+06:30:00,Other,0.3,6.50
+06:40:00,Sleep and rest,69.1,6.67
+06:40:00,Personal care,14.5,6.67
+06:40:00,Paid work,3.6,6.67
+06:40:00,Travel,2.7,6.67
+06:40:00,Unpaid household work,4.7,6.67
+06:40:00,Unpaid care,1.1,6.67
+06:40:00,Watching television,0.6,6.67
+06:40:00,Entertainment and leisure,3.5,6.67
+06:40:00,Education and study,0,6.67
+06:40:00,Other,0.2,6.67
+06:50:00,Sleep and rest,67.8,6.83
+06:50:00,Personal care,14,6.83
+06:50:00,Paid work,4.1,6.83
+06:50:00,Travel,3,6.83
+06:50:00,Unpaid household work,5.1,6.83
+06:50:00,Unpaid care,1.1,6.83
+06:50:00,Watching television,1.1,6.83
+06:50:00,Entertainment and leisure,3.6,6.83
+06:50:00,Education and study,0,6.83
+06:50:00,Other,0.2,6.83
+07:00:00,Sleep and rest,52.6,7.00
+07:00:00,Personal care,21.5,7.00
+07:00:00,Paid work,5.8,7.00
+07:00:00,Travel,4.2,7.00
+07:00:00,Unpaid household work,8.3,7.00
+07:00:00,Unpaid care,2.2,7.00
+07:00:00,Watching television,1,7.00
+07:00:00,Entertainment and leisure,3.9,7.00
+07:00:00,Education and study,0,7.00
+07:00:00,Other,0.5,7.00
+07:10:00,Sleep and rest,50.4,7.17
+07:10:00,Personal care,21,7.17
+07:10:00,Paid work,6.4,7.17
+07:10:00,Travel,4.8,7.17
+07:10:00,Unpaid household work,8.5,7.17
+07:10:00,Unpaid care,2.3,7.17
+07:10:00,Watching television,1.3,7.17
+07:10:00,Entertainment and leisure,4.7,7.17
+07:10:00,Education and study,0.1,7.17
+07:10:00,Other,0.5,7.17
+07:20:00,Sleep and rest,48.7,7.33
+07:20:00,Personal care,20.5,7.33
+07:20:00,Paid work,6.8,7.33
+07:20:00,Travel,5.8,7.33
+07:20:00,Unpaid household work,8.8,7.33
+07:20:00,Unpaid care,2.4,7.33
+07:20:00,Watching television,1.3,7.33
+07:20:00,Entertainment and leisure,5.1,7.33
+07:20:00,Education and study,0.1,7.33
+07:20:00,Other,0.6,7.33
+07:30:00,Sleep and rest,40.6,7.50
+07:30:00,Personal care,23.3,7.50
+07:30:00,Paid work,8.6,7.50
+07:30:00,Travel,7.4,7.50
+07:30:00,Unpaid household work,10.2,7.50
+07:30:00,Unpaid care,2.4,7.50
+07:30:00,Watching television,1.4,7.50
+07:30:00,Entertainment and leisure,5.5,7.50
+07:30:00,Education and study,0,7.50
+07:30:00,Other,0.6,7.50
+07:40:00,Sleep and rest,38.9,7.67
+07:40:00,Personal care,22.9,7.67
+07:40:00,Paid work,9.5,7.67
+07:40:00,Travel,8.9,7.67
+07:40:00,Unpaid household work,9.8,7.67
+07:40:00,Unpaid care,2.5,7.67
+07:40:00,Watching television,1.5,7.67
+07:40:00,Entertainment and leisure,5.5,7.67
+07:40:00,Education and study,0.1,7.67
+07:40:00,Other,0.4,7.67
+07:50:00,Sleep and rest,37.6,7.83
+07:50:00,Personal care,22.1,7.83
+07:50:00,Paid work,10.9,7.83
+07:50:00,Travel,9.4,7.83
+07:50:00,Unpaid household work,9.7,7.83
+07:50:00,Unpaid care,2.7,7.83
+07:50:00,Watching television,1.7,7.83
+07:50:00,Entertainment and leisure,5.2,7.83
+07:50:00,Education and study,0.1,7.83
+07:50:00,Other,0.6,7.83
+08:00:00,Sleep and rest,26.4,8.00
+08:00:00,Personal care,24.7,8.00
+08:00:00,Paid work,16.3,8.00
+08:00:00,Travel,10,8.00
+08:00:00,Unpaid household work,11.3,8.00
+08:00:00,Unpaid care,2.7,8.00
+08:00:00,Watching television,1.6,8.00
+08:00:00,Entertainment and leisure,5.8,8.00
+08:00:00,Education and study,0.3,8.00
+08:00:00,Other,0.8,8.00
+08:10:00,Sleep and rest,24.8,8.17
+08:10:00,Personal care,24.7,8.17
+08:10:00,Paid work,17.5,8.17
+08:10:00,Travel,10.3,8.17
+08:10:00,Unpaid household work,11.2,8.17
+08:10:00,Unpaid care,2.7,8.17
+08:10:00,Watching television,1.6,8.17
+08:10:00,Entertainment and leisure,6.5,8.17
+08:10:00,Education and study,0.3,8.17
+08:10:00,Other,0.5,8.17
+08:20:00,Sleep and rest,23.3,8.33
+08:20:00,Personal care,22.8,8.33
+08:20:00,Paid work,19.1,8.33
+08:20:00,Travel,11.1,8.33
+08:20:00,Unpaid household work,11.7,8.33
+08:20:00,Unpaid care,2.7,8.33
+08:20:00,Watching television,1.6,8.33
+08:20:00,Entertainment and leisure,6.7,8.33
+08:20:00,Education and study,0.3,8.33
+08:20:00,Other,0.7,8.33
+08:30:00,Sleep and rest,18.3,8.50
+08:30:00,Personal care,22.5,8.50
+08:30:00,Paid work,24.2,8.50
+08:30:00,Travel,11.8,8.50
+08:30:00,Unpaid household work,11.5,8.50
+08:30:00,Unpaid care,1.9,8.50
+08:30:00,Watching television,1.4,8.50
+08:30:00,Entertainment and leisure,7.5,8.50
+08:30:00,Education and study,0.3,8.50
+08:30:00,Other,0.6,8.50
+08:40:00,Sleep and rest,17.6,8.67
+08:40:00,Personal care,21.1,8.67
+08:40:00,Paid work,26,8.67
+08:40:00,Travel,11.4,8.67
+08:40:00,Unpaid household work,11.1,8.67
+08:40:00,Unpaid care,1.5,8.67
+08:40:00,Watching television,2.1,8.67
+08:40:00,Entertainment and leisure,7.9,8.67
+08:40:00,Education and study,0.4,8.67
+08:40:00,Other,0.8,8.67
+08:50:00,Sleep and rest,17,8.83
+08:50:00,Personal care,19.3,8.83
+08:50:00,Paid work,27.7,8.83
+08:50:00,Travel,10.5,8.83
+08:50:00,Unpaid household work,12.4,8.83
+08:50:00,Unpaid care,1.7,8.83
+08:50:00,Watching television,2,8.83
+08:50:00,Entertainment and leisure,8.4,8.83
+08:50:00,Education and study,0.4,8.83
+08:50:00,Other,0.7,8.83
+09:00:00,Sleep and rest,11.3,9.00
+09:00:00,Personal care,17.5,9.00
+09:00:00,Paid work,34.4,9.00
+09:00:00,Travel,7.5,9.00
+09:00:00,Unpaid household work,15.2,9.00
+09:00:00,Unpaid care,1.7,9.00
+09:00:00,Watching television,2.2,9.00
+09:00:00,Entertainment and leisure,7.7,9.00
+09:00:00,Education and study,1.7,9.00
+09:00:00,Other,0.9,9.00
+09:10:00,Sleep and rest,10.6,9.17
+09:10:00,Personal care,16.9,9.17
+09:10:00,Paid work,35.8,9.17
+09:10:00,Travel,6.6,9.17
+09:10:00,Unpaid household work,16.2,9.17
+09:10:00,Unpaid care,1.7,9.17
+09:10:00,Watching television,2.1,9.17
+09:10:00,Entertainment and leisure,7.8,9.17
+09:10:00,Education and study,1.6,9.17
+09:10:00,Other,0.7,9.17
+09:20:00,Sleep and rest,10.4,9.33
+09:20:00,Personal care,15.6,9.33
+09:20:00,Paid work,36.9,9.33
+09:20:00,Travel,6.3,9.33
+09:20:00,Unpaid household work,16.3,9.33
+09:20:00,Unpaid care,1.6,9.33
+09:20:00,Watching television,2.1,9.33
+09:20:00,Entertainment and leisure,8.5,9.33
+09:20:00,Education and study,1.6,9.33
+09:20:00,Other,0.8,9.33
+09:30:00,Sleep and rest,8.2,9.50
+09:30:00,Personal care,13.5,9.50
+09:30:00,Paid work,38.7,9.50
+09:30:00,Travel,6,9.50
+09:30:00,Unpaid household work,18.3,9.50
+09:30:00,Unpaid care,1.4,9.50
+09:30:00,Watching television,2.4,9.50
+09:30:00,Entertainment and leisure,8.9,9.50
+09:30:00,Education and study,1.7,9.50
+09:30:00,Other,1,9.50
+09:40:00,Sleep and rest,8.2,9.67
+09:40:00,Personal care,12.9,9.67
+09:40:00,Paid work,39.4,9.67
+09:40:00,Travel,5.4,9.67
+09:40:00,Unpaid household work,18.2,9.67
+09:40:00,Unpaid care,1.5,9.67
+09:40:00,Watching television,2.2,9.67
+09:40:00,Entertainment and leisure,9.3,9.67
+09:40:00,Education and study,1.7,9.67
+09:40:00,Other,1.1,9.67
+09:50:00,Sleep and rest,8.1,9.83
+09:50:00,Personal care,11.8,9.83
+09:50:00,Paid work,39.4,9.83
+09:50:00,Travel,5.6,9.83
+09:50:00,Unpaid household work,18.4,9.83
+09:50:00,Unpaid care,1.9,9.83
+09:50:00,Watching television,2.4,9.83
+09:50:00,Entertainment and leisure,9.7,9.83
+09:50:00,Education and study,1.8,9.83
+09:50:00,Other,1.1,9.83
+10:00:00,Sleep and rest,5.9,10.00
+10:00:00,Personal care,12.3,10.00
+10:00:00,Paid work,40.2,10.00
+10:00:00,Travel,5.5,10.00
+10:00:00,Unpaid household work,19.4,10.00
+10:00:00,Unpaid care,1.7,10.00
+10:00:00,Watching television,2.3,10.00
+10:00:00,Entertainment and leisure,10,10.00
+10:00:00,Education and study,1.8,10.00
+10:00:00,Other,1,10.00
+10:10:00,Sleep and rest,5.6,10.17
+10:10:00,Personal care,11.1,10.17
+10:10:00,Paid work,40.5,10.17
+10:10:00,Travel,5.6,10.17
+10:10:00,Unpaid household work,19.7,10.17
+10:10:00,Unpaid care,2,10.17
+10:10:00,Watching television,2.6,10.17
+10:10:00,Entertainment and leisure,10,10.17
+10:10:00,Education and study,2,10.17
+10:10:00,Other,0.9,10.17
+10:20:00,Sleep and rest,5.3,10.33
+10:20:00,Personal care,10.7,10.33
+10:20:00,Paid work,40.8,10.33
+10:20:00,Travel,5.2,10.33
+10:20:00,Unpaid household work,19.6,10.33
+10:20:00,Unpaid care,2.1,10.33
+10:20:00,Watching television,2.5,10.33
+10:20:00,Entertainment and leisure,10.7,10.33
+10:20:00,Education and study,2,10.33
+10:20:00,Other,1,10.33
+10:30:00,Sleep and rest,4.6,10.50
+10:30:00,Personal care,10,10.50
+10:30:00,Paid work,40.6,10.50
+10:30:00,Travel,6.6,10.50
+10:30:00,Unpaid household work,19.1,10.50
+10:30:00,Unpaid care,2.4,10.50
+10:30:00,Watching television,2.3,10.50
+10:30:00,Entertainment and leisure,11.3,10.50
+10:30:00,Education and study,2.1,10.50
+10:30:00,Other,1,10.50
+10:40:00,Sleep and rest,4.6,10.67
+10:40:00,Personal care,9.3,10.67
+10:40:00,Paid work,41.3,10.67
+10:40:00,Travel,6.1,10.67
+10:40:00,Unpaid household work,19.9,10.67
+10:40:00,Unpaid care,2.5,10.67
+10:40:00,Watching television,2.2,10.67
+10:40:00,Entertainment and leisure,10.6,10.67
+10:40:00,Education and study,2.3,10.67
+10:40:00,Other,1.1,10.67
+10:50:00,Sleep and rest,4.7,10.83
+10:50:00,Personal care,8.9,10.83
+10:50:00,Paid work,41.4,10.83
+10:50:00,Travel,5.6,10.83
+10:50:00,Unpaid household work,20.4,10.83
+10:50:00,Unpaid care,2.6,10.83
+10:50:00,Watching television,2.1,10.83
+10:50:00,Entertainment and leisure,10.8,10.83
+10:50:00,Education and study,2.4,10.83
+10:50:00,Other,1.1,10.83
+11:00:00,Sleep and rest,3.5,11.00
+11:00:00,Personal care,9.8,11.00
+11:00:00,Paid work,41,11.00
+11:00:00,Travel,6.7,11.00
+11:00:00,Unpaid household work,21,11.00
+11:00:00,Unpaid care,2.4,11.00
+11:00:00,Watching television,1.7,11.00
+11:00:00,Entertainment and leisure,10.8,11.00
+11:00:00,Education and study,2.2,11.00
+11:00:00,Other,0.9,11.00
+11:10:00,Sleep and rest,3.3,11.17
+11:10:00,Personal care,10,11.17
+11:10:00,Paid work,41.1,11.17
+11:10:00,Travel,5.8,11.17
+11:10:00,Unpaid household work,21.7,11.17
+11:10:00,Unpaid care,2.1,11.17
+11:10:00,Watching television,1.9,11.17
+11:10:00,Entertainment and leisure,10.9,11.17
+11:10:00,Education and study,2.4,11.17
+11:10:00,Other,0.9,11.17
+11:20:00,Sleep and rest,3.3,11.33
+11:20:00,Personal care,9.6,11.33
+11:20:00,Paid work,41.1,11.33
+11:20:00,Travel,6,11.33
+11:20:00,Unpaid household work,22.2,11.33
+11:20:00,Unpaid care,2.1,11.33
+11:20:00,Watching television,1.8,11.33
+11:20:00,Entertainment and leisure,10.6,11.33
+11:20:00,Education and study,2.2,11.33
+11:20:00,Other,1,11.33
+11:30:00,Sleep and rest,2.9,11.50
+11:30:00,Personal care,8.4,11.50
+11:30:00,Paid work,41,11.50
+11:30:00,Travel,6.6,11.50
+11:30:00,Unpaid household work,22.6,11.50
+11:30:00,Unpaid care,2,11.50
+11:30:00,Watching television,2.1,11.50
+11:30:00,Entertainment and leisure,11.1,11.50
+11:30:00,Education and study,2.2,11.50
+11:30:00,Other,1,11.50
+11:40:00,Sleep and rest,2.9,11.67
+11:40:00,Personal care,8.8,11.67
+11:40:00,Paid work,40.8,11.67
+11:40:00,Travel,6.1,11.67
+11:40:00,Unpaid household work,22.7,11.67
+11:40:00,Unpaid care,2.1,11.67
+11:40:00,Watching television,2.1,11.67
+11:40:00,Entertainment and leisure,11.3,11.67
+11:40:00,Education and study,2.2,11.67
+11:40:00,Other,0.9,11.67
+11:50:00,Sleep and rest,2.9,11.83
+11:50:00,Personal care,8.7,11.83
+11:50:00,Paid work,40.8,11.83
+11:50:00,Travel,5.9,11.83
+11:50:00,Unpaid household work,23,11.83
+11:50:00,Unpaid care,2.3,11.83
+11:50:00,Watching television,2.2,11.83
+11:50:00,Entertainment and leisure,11.1,11.83
+11:50:00,Education and study,2.2,11.83
+11:50:00,Other,0.9,11.83
+12:00:00,Sleep and rest,2.2,12.00
+12:00:00,Personal care,12.4,12.00
+12:00:00,Paid work,37.1,12.00
+12:00:00,Travel,5.8,12.00
+12:00:00,Unpaid household work,23.8,12.00
+12:00:00,Unpaid care,2.4,12.00
+12:00:00,Watching television,2.7,12.00
+12:00:00,Entertainment and leisure,10.5,12.00
+12:00:00,Education and study,2.1,12.00
+12:00:00,Other,1,12.00
+12:10:00,Sleep and rest,2,12.17
+12:10:00,Personal care,14,12.17
+12:10:00,Paid work,36.8,12.17
+12:10:00,Travel,5.3,12.17
+12:10:00,Unpaid household work,22.9,12.17
+12:10:00,Unpaid care,2.2,12.17
+12:10:00,Watching television,2.7,12.17
+12:10:00,Entertainment and leisure,10.9,12.17
+12:10:00,Education and study,2.2,12.17
+12:10:00,Other,1,12.17
+12:20:00,Sleep and rest,1.9,12.33
+12:20:00,Personal care,15.2,12.33
+12:20:00,Paid work,36.2,12.33
+12:20:00,Travel,5.6,12.33
+12:20:00,Unpaid household work,22.5,12.33
+12:20:00,Unpaid care,1.7,12.33
+12:20:00,Watching television,3,12.33
+12:20:00,Entertainment and leisure,10.9,12.33
+12:20:00,Education and study,2.1,12.33
+12:20:00,Other,0.9,12.33
+12:30:00,Sleep and rest,1.7,12.50
+12:30:00,Personal care,17.8,12.50
+12:30:00,Paid work,33.3,12.50
+12:30:00,Travel,5.8,12.50
+12:30:00,Unpaid household work,22.2,12.50
+12:30:00,Unpaid care,1.7,12.50
+12:30:00,Watching television,3.2,12.50
+12:30:00,Entertainment and leisure,11.4,12.50
+12:30:00,Education and study,2,12.50
+12:30:00,Other,1,12.50
+12:40:00,Sleep and rest,1.7,12.67
+12:40:00,Personal care,18.4,12.67
+12:40:00,Paid work,33.2,12.67
+12:40:00,Travel,5.9,12.67
+12:40:00,Unpaid household work,20.7,12.67
+12:40:00,Unpaid care,1.8,12.67
+12:40:00,Watching television,3.5,12.67
+12:40:00,Entertainment and leisure,11.4,12.67
+12:40:00,Education and study,2,12.67
+12:40:00,Other,1.3,12.67
+12:50:00,Sleep and rest,1.9,12.83
+12:50:00,Personal care,19.1,12.83
+12:50:00,Paid work,33.2,12.83
+12:50:00,Travel,5.4,12.83
+12:50:00,Unpaid household work,21.1,12.83
+12:50:00,Unpaid care,2.3,12.83
+12:50:00,Watching television,3.8,12.83
+12:50:00,Entertainment and leisure,10.4,12.83
+12:50:00,Education and study,1.9,12.83
+12:50:00,Other,1.1,12.83
+13:00:00,Sleep and rest,2.2,13.00
+13:00:00,Personal care,18.2,13.00
+13:00:00,Paid work,33.5,13.00
+13:00:00,Travel,5.4,13.00
+13:00:00,Unpaid household work,20.9,13.00
+13:00:00,Unpaid care,2,13.00
+13:00:00,Watching television,4.2,13.00
+13:00:00,Entertainment and leisure,9.8,13.00
+13:00:00,Education and study,2.3,13.00
+13:00:00,Other,1.3,13.00
+13:10:00,Sleep and rest,2.5,13.17
+13:10:00,Personal care,19.1,13.17
+13:10:00,Paid work,33.4,13.17
+13:10:00,Travel,5.4,13.17
+13:10:00,Unpaid household work,19.4,13.17
+13:10:00,Unpaid care,1.8,13.17
+13:10:00,Watching television,4.5,13.17
+13:10:00,Entertainment and leisure,10.4,13.17
+13:10:00,Education and study,2.3,13.17
+13:10:00,Other,1.2,13.17
+13:20:00,Sleep and rest,2.7,13.33
+13:20:00,Personal care,18.4,13.33
+13:20:00,Paid work,33.2,13.33
+13:20:00,Travel,5.2,13.33
+13:20:00,Unpaid household work,19.4,13.33
+13:20:00,Unpaid care,1.8,13.33
+13:20:00,Watching television,4.6,13.33
+13:20:00,Entertainment and leisure,11.1,13.33
+13:20:00,Education and study,2.5,13.33
+13:20:00,Other,1.2,13.33
+13:30:00,Sleep and rest,3,13.50
+13:30:00,Personal care,15.5,13.50
+13:30:00,Paid work,34.4,13.50
+13:30:00,Travel,4.7,13.50
+13:30:00,Unpaid household work,20,13.50
+13:30:00,Unpaid care,2.1,13.50
+13:30:00,Watching television,4.9,13.50
+13:30:00,Entertainment and leisure,12,13.50
+13:30:00,Education and study,2.2,13.50
+13:30:00,Other,1.1,13.50
+13:40:00,Sleep and rest,2.9,13.67
+13:40:00,Personal care,14.1,13.67
+13:40:00,Paid work,35,13.67
+13:40:00,Travel,5.1,13.67
+13:40:00,Unpaid household work,20.1,13.67
+13:40:00,Unpaid care,2.2,13.67
+13:40:00,Watching television,5.3,13.67
+13:40:00,Entertainment and leisure,12.2,13.67
+13:40:00,Education and study,2.3,13.67
+13:40:00,Other,1,13.67
+13:50:00,Sleep and rest,2.8,13.83
+13:50:00,Personal care,13.1,13.83
+13:50:00,Paid work,36.2,13.83
+13:50:00,Travel,5,13.83
+13:50:00,Unpaid household work,20.3,13.83
+13:50:00,Unpaid care,1.9,13.83
+13:50:00,Watching television,5.4,13.83
+13:50:00,Entertainment and leisure,12.2,13.83
+13:50:00,Education and study,2.3,13.83
+13:50:00,Other,0.9,13.83
+14:00:00,Sleep and rest,2.7,14.00
+14:00:00,Personal care,8.9,14.00
+14:00:00,Paid work,38.9,14.00
+14:00:00,Travel,6.5,14.00
+14:00:00,Unpaid household work,20.6,14.00
+14:00:00,Unpaid care,1.8,14.00
+14:00:00,Watching television,5.4,14.00
+14:00:00,Entertainment and leisure,11.9,14.00
+14:00:00,Education and study,2.5,14.00
+14:00:00,Other,0.8,14.00
+14:10:00,Sleep and rest,2.6,14.17
+14:10:00,Personal care,8.3,14.17
+14:10:00,Paid work,39.7,14.17
+14:10:00,Travel,6.3,14.17
+14:10:00,Unpaid household work,20,14.17
+14:10:00,Unpaid care,1.7,14.17
+14:10:00,Watching television,5.7,14.17
+14:10:00,Entertainment and leisure,12.2,14.17
+14:10:00,Education and study,2.5,14.17
+14:10:00,Other,1,14.17
+14:20:00,Sleep and rest,2.9,14.33
+14:20:00,Personal care,7.5,14.33
+14:20:00,Paid work,40,14.33
+14:20:00,Travel,5.8,14.33
+14:20:00,Unpaid household work,19.7,14.33
+14:20:00,Unpaid care,1.8,14.33
+14:20:00,Watching television,6,14.33
+14:20:00,Entertainment and leisure,12.7,14.33
+14:20:00,Education and study,2.7,14.33
+14:20:00,Other,0.9,14.33
+14:30:00,Sleep and rest,2.6,14.50
+14:30:00,Personal care,7.3,14.50
+14:30:00,Paid work,39.4,14.50
+14:30:00,Travel,6.5,14.50
+14:30:00,Unpaid household work,19.7,14.50
+14:30:00,Unpaid care,1.9,14.50
+14:30:00,Watching television,6,14.50
+14:30:00,Entertainment and leisure,13,14.50
+14:30:00,Education and study,2.9,14.50
+14:30:00,Other,0.9,14.50
+14:40:00,Sleep and rest,2.7,14.67
+14:40:00,Personal care,7,14.67
+14:40:00,Paid work,39.2,14.67
+14:40:00,Travel,6.9,14.67
+14:40:00,Unpaid household work,18.9,14.67
+14:40:00,Unpaid care,2,14.67
+14:40:00,Watching television,6.3,14.67
+14:40:00,Entertainment and leisure,13.5,14.67
+14:40:00,Education and study,2.8,14.67
+14:40:00,Other,0.7,14.67
+14:50:00,Sleep and rest,2.7,14.83
+14:50:00,Personal care,6,14.83
+14:50:00,Paid work,39.3,14.83
+14:50:00,Travel,7.7,14.83
+14:50:00,Unpaid household work,19,14.83
+14:50:00,Unpaid care,2.2,14.83
+14:50:00,Watching television,6.1,14.83
+14:50:00,Entertainment and leisure,13.2,14.83
+14:50:00,Education and study,2.8,14.83
+14:50:00,Other,0.9,14.83
+15:00:00,Sleep and rest,2.9,15.00
+15:00:00,Personal care,6.1,15.00
+15:00:00,Paid work,37.7,15.00
+15:00:00,Travel,9.3,15.00
+15:00:00,Unpaid household work,17.8,15.00
+15:00:00,Unpaid care,2.8,15.00
+15:00:00,Watching television,5.8,15.00
+15:00:00,Entertainment and leisure,13.4,15.00
+15:00:00,Education and study,2.9,15.00
+15:00:00,Other,1.4,15.00
+15:10:00,Sleep and rest,2.9,15.17
+15:10:00,Personal care,6.7,15.17
+15:10:00,Paid work,37.7,15.17
+15:10:00,Travel,8.8,15.17
+15:10:00,Unpaid household work,17.2,15.17
+15:10:00,Unpaid care,3.2,15.17
+15:10:00,Watching television,5.9,15.17
+15:10:00,Entertainment and leisure,13.5,15.17
+15:10:00,Education and study,2.6,15.17
+15:10:00,Other,1.3,15.17
+15:20:00,Sleep and rest,3,15.33
+15:20:00,Personal care,5.8,15.33
+15:20:00,Paid work,37.7,15.33
+15:20:00,Travel,9,15.33
+15:20:00,Unpaid household work,16.8,15.33
+15:20:00,Unpaid care,3.5,15.33
+15:20:00,Watching television,6.3,15.33
+15:20:00,Entertainment and leisure,14.5,15.33
+15:20:00,Education and study,2.4,15.33
+15:20:00,Other,1,15.33
+15:30:00,Sleep and rest,3.3,15.50
+15:30:00,Personal care,5,15.50
+15:30:00,Paid work,37.1,15.50
+15:30:00,Travel,8.5,15.50
+15:30:00,Unpaid household work,16.7,15.50
+15:30:00,Unpaid care,4.2,15.50
+15:30:00,Watching television,6.6,15.50
+15:30:00,Entertainment and leisure,15,15.50
+15:30:00,Education and study,2.7,15.50
+15:30:00,Other,1,15.50
+15:40:00,Sleep and rest,3.4,15.67
+15:40:00,Personal care,5.1,15.67
+15:40:00,Paid work,36.9,15.67
+15:40:00,Travel,7.5,15.67
+15:40:00,Unpaid household work,17.7,15.67
+15:40:00,Unpaid care,4.2,15.67
+15:40:00,Watching television,6.6,15.67
+15:40:00,Entertainment and leisure,14.7,15.67
+15:40:00,Education and study,2.8,15.67
+15:40:00,Other,1.1,15.67
+15:50:00,Sleep and rest,3.4,15.83
+15:50:00,Personal care,5.4,15.83
+15:50:00,Paid work,36.5,15.83
+15:50:00,Travel,6.6,15.83
+15:50:00,Unpaid household work,18.7,15.83
+15:50:00,Unpaid care,4.3,15.83
+15:50:00,Watching television,6.5,15.83
+15:50:00,Entertainment and leisure,14.9,15.83
+15:50:00,Education and study,2.9,15.83
+15:50:00,Other,0.9,15.83
+16:00:00,Sleep and rest,2.8,16.00
+16:00:00,Personal care,5.9,16.00
+16:00:00,Paid work,34.1,16.00
+16:00:00,Travel,8.2,16.00
+16:00:00,Unpaid household work,19.8,16.00
+16:00:00,Unpaid care,4.4,16.00
+16:00:00,Watching television,7.1,16.00
+16:00:00,Entertainment and leisure,14.3,16.00
+16:00:00,Education and study,2.5,16.00
+16:00:00,Other,0.8,16.00
+16:10:00,Sleep and rest,3,16.17
+16:10:00,Personal care,6.5,16.17
+16:10:00,Paid work,33.6,16.17
+16:10:00,Travel,6.9,16.17
+16:10:00,Unpaid household work,19.7,16.17
+16:10:00,Unpaid care,4.6,16.17
+16:10:00,Watching television,7,16.17
+16:10:00,Entertainment and leisure,14.9,16.17
+16:10:00,Education and study,2.5,16.17
+16:10:00,Other,1.2,16.17
+16:20:00,Sleep and rest,3.1,16.33
+16:20:00,Personal care,6.6,16.33
+16:20:00,Paid work,32.6,16.33
+16:20:00,Travel,7.7,16.33
+16:20:00,Unpaid household work,19.8,16.33
+16:20:00,Unpaid care,5,16.33
+16:20:00,Watching television,6.7,16.33
+16:20:00,Entertainment and leisure,14.5,16.33
+16:20:00,Education and study,2.6,16.33
+16:20:00,Other,1.4,16.33
+16:30:00,Sleep and rest,3.2,16.50
+16:30:00,Personal care,6.2,16.50
+16:30:00,Paid work,28.1,16.50
+16:30:00,Travel,10.9,16.50
+16:30:00,Unpaid household work,21.8,16.50
+16:30:00,Unpaid care,4.7,16.50
+16:30:00,Watching television,6.6,16.50
+16:30:00,Entertainment and leisure,14.8,16.50
+16:30:00,Education and study,2.5,16.50
+16:30:00,Other,1.2,16.50
+16:40:00,Sleep and rest,3.3,16.67
+16:40:00,Personal care,6.8,16.67
+16:40:00,Paid work,27.7,16.67
+16:40:00,Travel,10.5,16.67
+16:40:00,Unpaid household work,22.2,16.67
+16:40:00,Unpaid care,4.5,16.67
+16:40:00,Watching television,6.7,16.67
+16:40:00,Entertainment and leisure,14.6,16.67
+16:40:00,Education and study,2.3,16.67
+16:40:00,Other,1.3,16.67
+16:50:00,Sleep and rest,3.3,16.83
+16:50:00,Personal care,7.4,16.83
+16:50:00,Paid work,27.2,16.83
+16:50:00,Travel,9.9,16.83
+16:50:00,Unpaid household work,22.9,16.83
+16:50:00,Unpaid care,4.6,16.83
+16:50:00,Watching television,6.9,16.83
+16:50:00,Entertainment and leisure,14.8,16.83
+16:50:00,Education and study,1.8,16.83
+16:50:00,Other,1.2,16.83
+17:00:00,Sleep and rest,3.2,17.00
+17:00:00,Personal care,9.8,17.00
+17:00:00,Paid work,21,17.00
+17:00:00,Travel,11.1,17.00
+17:00:00,Unpaid household work,25.1,17.00
+17:00:00,Unpaid care,4.6,17.00
+17:00:00,Watching television,7.3,17.00
+17:00:00,Entertainment and leisure,14.9,17.00
+17:00:00,Education and study,1.7,17.00
+17:00:00,Other,1.4,17.00
+17:10:00,Sleep and rest,2.9,17.17
+17:10:00,Personal care,11.2,17.17
+17:10:00,Paid work,19.6,17.17
+17:10:00,Travel,10.2,17.17
+17:10:00,Unpaid household work,25.4,17.17
+17:10:00,Unpaid care,4.8,17.17
+17:10:00,Watching television,7.6,17.17
+17:10:00,Entertainment and leisure,15.1,17.17
+17:10:00,Education and study,1.7,17.17
+17:10:00,Other,1.4,17.17
+17:20:00,Sleep and rest,2.9,17.33
+17:20:00,Personal care,12,17.33
+17:20:00,Paid work,18.4,17.33
+17:20:00,Travel,9.9,17.33
+17:20:00,Unpaid household work,26,17.33
+17:20:00,Unpaid care,4.7,17.33
+17:20:00,Watching television,8.3,17.33
+17:20:00,Entertainment and leisure,14.8,17.33
+17:20:00,Education and study,1.6,17.33
+17:20:00,Other,1.4,17.33
+17:30:00,Sleep and rest,2.7,17.50
+17:30:00,Personal care,15.3,17.50
+17:30:00,Paid work,14,17.50
+17:30:00,Travel,10.2,17.50
+17:30:00,Unpaid household work,27,17.50
+17:30:00,Unpaid care,4.4,17.50
+17:30:00,Watching television,8.6,17.50
+17:30:00,Entertainment and leisure,15,17.50
+17:30:00,Education and study,1.6,17.50
+17:30:00,Other,1.1,17.50
+17:40:00,Sleep and rest,2.6,17.67
+17:40:00,Personal care,16.3,17.67
+17:40:00,Paid work,13.5,17.67
+17:40:00,Travel,9.9,17.67
+17:40:00,Unpaid household work,27.3,17.67
+17:40:00,Unpaid care,4,17.67
+17:40:00,Watching television,9.2,17.67
+17:40:00,Entertainment and leisure,15.2,17.67
+17:40:00,Education and study,1.4,17.67
+17:40:00,Other,0.7,17.67
+17:50:00,Sleep and rest,2.5,17.83
+17:50:00,Personal care,17.1,17.83
+17:50:00,Paid work,13.1,17.83
+17:50:00,Travel,9.4,17.83
+17:50:00,Unpaid household work,26.2,17.83
+17:50:00,Unpaid care,4.2,17.83
+17:50:00,Watching television,9.9,17.83
+17:50:00,Entertainment and leisure,15.4,17.83
+17:50:00,Education and study,1.4,17.83
+17:50:00,Other,0.9,17.83
+18:00:00,Sleep and rest,2,18.00
+18:00:00,Personal care,21,18.00
+18:00:00,Paid work,9.8,18.00
+18:00:00,Travel,8.7,18.00
+18:00:00,Unpaid household work,25.1,18.00
+18:00:00,Unpaid care,4.3,18.00
+18:00:00,Watching television,12.1,18.00
+18:00:00,Entertainment and leisure,14.8,18.00
+18:00:00,Education and study,1.3,18.00
+18:00:00,Other,0.9,18.00
+18:10:00,Sleep and rest,2.2,18.17
+18:10:00,Personal care,22,18.17
+18:10:00,Paid work,9.1,18.17
+18:10:00,Travel,7.2,18.17
+18:10:00,Unpaid household work,23.7,18.17
+18:10:00,Unpaid care,4,18.17
+18:10:00,Watching television,13.3,18.17
+18:10:00,Entertainment and leisure,15.6,18.17
+18:10:00,Education and study,1.3,18.17
+18:10:00,Other,1.6,18.17
+18:20:00,Sleep and rest,2.4,18.33
+18:20:00,Personal care,21.6,18.33
+18:20:00,Paid work,8.7,18.33
+18:20:00,Travel,6.7,18.33
+18:20:00,Unpaid household work,23.6,18.33
+18:20:00,Unpaid care,4.1,18.33
+18:20:00,Watching television,13.9,18.33
+18:20:00,Entertainment and leisure,16.1,18.33
+18:20:00,Education and study,1.3,18.33
+18:20:00,Other,1.6,18.33
+18:30:00,Sleep and rest,2.4,18.50
+18:30:00,Personal care,21,18.50
+18:30:00,Paid work,7.2,18.50
+18:30:00,Travel,7.5,18.50
+18:30:00,Unpaid household work,21.8,18.50
+18:30:00,Unpaid care,4.8,18.50
+18:30:00,Watching television,15.2,18.50
+18:30:00,Entertainment and leisure,17.1,18.50
+18:30:00,Education and study,1.3,18.50
+18:30:00,Other,1.6,18.50
+18:40:00,Sleep and rest,2.2,18.67
+18:40:00,Personal care,20.1,18.67
+18:40:00,Paid work,6.8,18.67
+18:40:00,Travel,7.1,18.67
+18:40:00,Unpaid household work,21.7,18.67
+18:40:00,Unpaid care,5.1,18.67
+18:40:00,Watching television,16.2,18.67
+18:40:00,Entertainment and leisure,17.9,18.67
+18:40:00,Education and study,1.4,18.67
+18:40:00,Other,1.5,18.67
+18:50:00,Sleep and rest,2,18.83
+18:50:00,Personal care,19.2,18.83
+18:50:00,Paid work,6.2,18.83
+18:50:00,Travel,6.9,18.83
+18:50:00,Unpaid household work,21.2,18.83
+18:50:00,Unpaid care,5.4,18.83
+18:50:00,Watching television,17.3,18.83
+18:50:00,Entertainment and leisure,18.9,18.83
+18:50:00,Education and study,1.3,18.83
+18:50:00,Other,1.6,18.83
+19:00:00,Sleep and rest,2.4,19.00
+19:00:00,Personal care,19.6,19.00
+19:00:00,Paid work,5.6,19.00
+19:00:00,Travel,6.2,19.00
+19:00:00,Unpaid household work,18.8,19.00
+19:00:00,Unpaid care,5.7,19.00
+19:00:00,Watching television,20.4,19.00
+19:00:00,Entertainment and leisure,18.7,19.00
+19:00:00,Education and study,1.3,19.00
+19:00:00,Other,1.4,19.00
+19:10:00,Sleep and rest,2.3,19.17
+19:10:00,Personal care,19.3,19.17
+19:10:00,Paid work,5.3,19.17
+19:10:00,Travel,5.6,19.17
+19:10:00,Unpaid household work,17.3,19.17
+19:10:00,Unpaid care,6.3,19.17
+19:10:00,Watching television,21.8,19.17
+19:10:00,Entertainment and leisure,19.6,19.17
+19:10:00,Education and study,1.3,19.17
+19:10:00,Other,1.2,19.17
+19:20:00,Sleep and rest,2.1,19.33
+19:20:00,Personal care,17.9,19.33
+19:20:00,Paid work,5.3,19.33
+19:20:00,Travel,4.9,19.33
+19:20:00,Unpaid household work,16.8,19.33
+19:20:00,Unpaid care,6.2,19.33
+19:20:00,Watching television,24.4,19.33
+19:20:00,Entertainment and leisure,19.8,19.33
+19:20:00,Education and study,1.2,19.33
+19:20:00,Other,1.1,19.33
+19:30:00,Sleep and rest,1.9,19.50
+19:30:00,Personal care,17.8,19.50
+19:30:00,Paid work,5.1,19.50
+19:30:00,Travel,3.9,19.50
+19:30:00,Unpaid household work,14.9,19.50
+19:30:00,Unpaid care,5.6,19.50
+19:30:00,Watching television,28.2,19.50
+19:30:00,Entertainment and leisure,20.2,19.50
+19:30:00,Education and study,1.2,19.50
+19:30:00,Other,1.3,19.50
+19:40:00,Sleep and rest,2.2,19.67
+19:40:00,Personal care,16.4,19.67
+19:40:00,Paid work,5,19.67
+19:40:00,Travel,3.6,19.67
+19:40:00,Unpaid household work,13,19.67
+19:40:00,Unpaid care,5.3,19.67
+19:40:00,Watching television,30.8,19.67
+19:40:00,Entertainment and leisure,21.1,19.67
+19:40:00,Education and study,1.2,19.67
+19:40:00,Other,1.4,19.67
+19:50:00,Sleep and rest,2.2,19.83
+19:50:00,Personal care,15.5,19.83
+19:50:00,Paid work,5,19.83
+19:50:00,Travel,3.5,19.83
+19:50:00,Unpaid household work,12.2,19.83
+19:50:00,Unpaid care,5.1,19.83
+19:50:00,Watching television,32.4,19.83
+19:50:00,Entertainment and leisure,21.1,19.83
+19:50:00,Education and study,1.4,19.83
+19:50:00,Other,1.5,19.83
+20:00:00,Sleep and rest,2.7,20.00
+20:00:00,Personal care,14.1,20.00
+20:00:00,Paid work,4.1,20.00
+20:00:00,Travel,3.6,20.00
+20:00:00,Unpaid household work,11.1,20.00
+20:00:00,Unpaid care,4.4,20.00
+20:00:00,Watching television,38.1,20.00
+20:00:00,Entertainment and leisure,19,20.00
+20:00:00,Education and study,1.4,20.00
+20:00:00,Other,1.6,20.00
+20:10:00,Sleep and rest,2.8,20.17
+20:10:00,Personal care,12.8,20.17
+20:10:00,Paid work,3.9,20.17
+20:10:00,Travel,2.8,20.17
+20:10:00,Unpaid household work,10.8,20.17
+20:10:00,Unpaid care,4.2,20.17
+20:10:00,Watching television,39.7,20.17
+20:10:00,Entertainment and leisure,19.8,20.17
+20:10:00,Education and study,1.5,20.17
+20:10:00,Other,1.8,20.17
+20:20:00,Sleep and rest,3.2,20.33
+20:20:00,Personal care,12.1,20.33
+20:20:00,Paid work,4,20.33
+20:20:00,Travel,2.3,20.33
+20:20:00,Unpaid household work,9.7,20.33
+20:20:00,Unpaid care,3.9,20.33
+20:20:00,Watching television,41.1,20.33
+20:20:00,Entertainment and leisure,20.6,20.33
+20:20:00,Education and study,1.3,20.33
+20:20:00,Other,1.9,20.33
+20:30:00,Sleep and rest,3.9,20.50
+20:30:00,Personal care,10.8,20.50
+20:30:00,Paid work,3.7,20.50
+20:30:00,Travel,2.2,20.50
+20:30:00,Unpaid household work,9.1,20.50
+20:30:00,Unpaid care,3.1,20.50
+20:30:00,Watching television,42.9,20.50
+20:30:00,Entertainment and leisure,20.7,20.50
+20:30:00,Education and study,1.2,20.50
+20:30:00,Other,2.4,20.50
+20:40:00,Sleep and rest,4.2,20.67
+20:40:00,Personal care,10.4,20.67
+20:40:00,Paid work,3.6,20.67
+20:40:00,Travel,1.7,20.67
+20:40:00,Unpaid household work,8.5,20.67
+20:40:00,Unpaid care,2.8,20.67
+20:40:00,Watching television,44,20.67
+20:40:00,Entertainment and leisure,21.1,20.67
+20:40:00,Education and study,1.2,20.67
+20:40:00,Other,2.4,20.67
+20:50:00,Sleep and rest,5,20.83
+20:50:00,Personal care,9.4,20.83
+20:50:00,Paid work,3.5,20.83
+20:50:00,Travel,2.3,20.83
+20:50:00,Unpaid household work,8.1,20.83
+20:50:00,Unpaid care,2.6,20.83
+20:50:00,Watching television,44.6,20.83
+20:50:00,Entertainment and leisure,20.9,20.83
+20:50:00,Education and study,1.2,20.83
+20:50:00,Other,2.5,20.83
+21:00:00,Sleep and rest,8,21.00
+21:00:00,Personal care,9.6,21.00
+21:00:00,Paid work,3,21.00
+21:00:00,Travel,2.7,21.00
+21:00:00,Unpaid household work,6.9,21.00
+21:00:00,Unpaid care,2.4,21.00
+21:00:00,Watching television,42.6,21.00
+21:00:00,Entertainment and leisure,20.9,21.00
+21:00:00,Education and study,1.1,21.00
+21:00:00,Other,2.6,21.00
+21:10:00,Sleep and rest,8.9,21.17
+21:10:00,Personal care,9.9,21.17
+21:10:00,Paid work,2.8,21.17
+21:10:00,Travel,2,21.17
+21:10:00,Unpaid household work,6.1,21.17
+21:10:00,Unpaid care,2.4,21.17
+21:10:00,Watching television,43.7,21.17
+21:10:00,Entertainment and leisure,20.5,21.17
+21:10:00,Education and study,1,21.17
+21:10:00,Other,2.7,21.17
+21:20:00,Sleep and rest,9.9,21.33
+21:20:00,Personal care,9.2,21.33
+21:20:00,Paid work,2.7,21.33
+21:20:00,Travel,1.6,21.33
+21:20:00,Unpaid household work,5.7,21.33
+21:20:00,Unpaid care,2.1,21.33
+21:20:00,Watching television,43.6,21.33
+21:20:00,Entertainment and leisure,21.2,21.33
+21:20:00,Education and study,1,21.33
+21:20:00,Other,3,21.33
+21:30:00,Sleep and rest,12.6,21.50
+21:30:00,Personal care,10,21.50
+21:30:00,Paid work,2.7,21.50
+21:30:00,Travel,1.9,21.50
+21:30:00,Unpaid household work,3.8,21.50
+21:30:00,Unpaid care,1.8,21.50
+21:30:00,Watching television,42.3,21.50
+21:30:00,Entertainment and leisure,21.1,21.50
+21:30:00,Education and study,0.9,21.50
+21:30:00,Other,2.7,21.50
+21:40:00,Sleep and rest,14.5,21.67
+21:40:00,Personal care,9.2,21.67
+21:40:00,Paid work,2.8,21.67
+21:40:00,Travel,2.2,21.67
+21:40:00,Unpaid household work,3.5,21.67
+21:40:00,Unpaid care,1.8,21.67
+21:40:00,Watching television,41.1,21.67
+21:40:00,Entertainment and leisure,21.8,21.67
+21:40:00,Education and study,0.8,21.67
+21:40:00,Other,2.3,21.67
+21:50:00,Sleep and rest,15.8,21.83
+21:50:00,Personal care,8.7,21.83
+21:50:00,Paid work,2.8,21.83
+21:50:00,Travel,1.9,21.83
+21:50:00,Unpaid household work,4.1,21.83
+21:50:00,Unpaid care,1.2,21.83
+21:50:00,Watching television,40.5,21.83
+21:50:00,Entertainment and leisure,21.7,21.83
+21:50:00,Education and study,0.6,21.83
+21:50:00,Other,2.5,21.83
+22:00:00,Sleep and rest,27.6,22.00
+22:00:00,Personal care,9.7,22.00
+22:00:00,Paid work,2.1,22.00
+22:00:00,Travel,2.3,22.00
+22:00:00,Unpaid household work,3.8,22.00
+22:00:00,Unpaid care,1.1,22.00
+22:00:00,Watching television,31.4,22.00
+22:00:00,Entertainment and leisure,19,22.00
+22:00:00,Education and study,0.2,22.00
+22:00:00,Other,2.7,22.00
+22:10:00,Sleep and rest,31.4,22.17
+22:10:00,Personal care,7.9,22.17
+22:10:00,Paid work,2.1,22.17
+22:10:00,Travel,2.2,22.17
+22:10:00,Unpaid household work,3.5,22.17
+22:10:00,Unpaid care,1.2,22.17
+22:10:00,Watching television,29.7,22.17
+22:10:00,Entertainment and leisure,19.2,22.17
+22:10:00,Education and study,0.2,22.17
+22:10:00,Other,2.7,22.17
+22:20:00,Sleep and rest,35.3,22.33
+22:20:00,Personal care,7,22.33
+22:20:00,Paid work,2,22.33
+22:20:00,Travel,2.3,22.33
+22:20:00,Unpaid household work,2.6,22.33
+22:20:00,Unpaid care,1.1,22.33
+22:20:00,Watching television,27.3,22.33
+22:20:00,Entertainment and leisure,19.1,22.33
+22:20:00,Education and study,0.4,22.33
+22:20:00,Other,3,22.33
+22:30:00,Sleep and rest,43.9,22.50
+22:30:00,Personal care,7.7,22.50
+22:30:00,Paid work,1.6,22.50
+22:30:00,Travel,2.1,22.50
+22:30:00,Unpaid household work,2.9,22.50
+22:30:00,Unpaid care,1.1,22.50
+22:30:00,Watching television,20.5,22.50
+22:30:00,Entertainment and leisure,16.9,22.50
+22:30:00,Education and study,0.6,22.50
+22:30:00,Other,2.7,22.50
+22:40:00,Sleep and rest,48,22.67
+22:40:00,Personal care,6.8,22.67
+22:40:00,Paid work,1.6,22.67
+22:40:00,Travel,1.8,22.67
+22:40:00,Unpaid household work,2.9,22.67
+22:40:00,Unpaid care,0.9,22.67
+22:40:00,Watching television,18.5,22.67
+22:40:00,Entertainment and leisure,16.3,22.67
+22:40:00,Education and study,0.7,22.67
+22:40:00,Other,2.7,22.67
+22:50:00,Sleep and rest,52.2,22.83
+22:50:00,Personal care,6,22.83
+22:50:00,Paid work,1.6,22.83
+22:50:00,Travel,1.2,22.83
+22:50:00,Unpaid household work,2.5,22.83
+22:50:00,Unpaid care,0.9,22.83
+22:50:00,Watching television,17.1,22.83
+22:50:00,Entertainment and leisure,15.2,22.83
+22:50:00,Education and study,0.6,22.83
+22:50:00,Other,2.5,22.83
+23:00:00,Sleep and rest,64.5,23.00
+23:00:00,Personal care,5.3,23.00
+23:00:00,Paid work,1.4,23.00
+23:00:00,Travel,1.4,23.00
+23:00:00,Unpaid household work,2.1,23.00
+23:00:00,Unpaid care,0.4,23.00
+23:00:00,Watching television,11.1,23.00
+23:00:00,Entertainment and leisure,10.9,23.00
+23:00:00,Education and study,0.6,23.00
+23:00:00,Other,2.3,23.00
+23:10:00,Sleep and rest,68.1,23.17
+23:10:00,Personal care,4.3,23.17
+23:10:00,Paid work,1.4,23.17
+23:10:00,Travel,1.5,23.17
+23:10:00,Unpaid household work,1.9,23.17
+23:10:00,Unpaid care,0.4,23.17
+23:10:00,Watching television,9.8,23.17
+23:10:00,Entertainment and leisure,9.7,23.17
+23:10:00,Education and study,0.6,23.17
+23:10:00,Other,2.2,23.17
+23:20:00,Sleep and rest,71.4,23.33
+23:20:00,Personal care,3.8,23.33
+23:20:00,Paid work,1.4,23.33
+23:20:00,Travel,1.2,23.33
+23:20:00,Unpaid household work,2,23.33
+23:20:00,Unpaid care,0.4,23.33
+23:20:00,Watching television,8.7,23.33
+23:20:00,Entertainment and leisure,8.3,23.33
+23:20:00,Education and study,0.5,23.33
+23:20:00,Other,2.3,23.33
+23:30:00,Sleep and rest,77.8,23.50
+23:30:00,Personal care,3.2,23.50
+23:30:00,Paid work,1.3,23.50
+23:30:00,Travel,0.8,23.50
+23:30:00,Unpaid household work,1.3,23.50
+23:30:00,Unpaid care,0.4,23.50
+23:30:00,Watching television,6.6,23.50
+23:30:00,Entertainment and leisure,6.2,23.50
+23:30:00,Education and study,0.4,23.50
+23:30:00,Other,2,23.50
+23:40:00,Sleep and rest,80.4,23.67
+23:40:00,Personal care,2,23.67
+23:40:00,Paid work,1.3,23.67
+23:40:00,Travel,0.8,23.67
+23:40:00,Unpaid household work,1.1,23.67
+23:40:00,Unpaid care,0.3,23.67
+23:40:00,Watching television,5.7,23.67
+23:40:00,Entertainment and leisure,6.1,23.67
+23:40:00,Education and study,0.3,23.67
+23:40:00,Other,2,23.67
+23:50:00,Sleep and rest,82.2,23.83
+23:50:00,Personal care,1.4,23.83
+23:50:00,Paid work,1.3,23.83
+23:50:00,Travel,0.7,23.83
+23:50:00,Unpaid household work,1.2,23.83
+23:50:00,Unpaid care,0.3,23.83
+23:50:00,Watching television,5,23.83
+23:50:00,Entertainment and leisure,5.6,23.83
+23:50:00,Education and study,0.3,23.83
+23:50:00,Other,2,23.83
+00:00:00,Sleep and rest,87,0.00
+00:00:00,Personal care,1.5,0.00
+00:00:00,Paid work,1,0.00
+00:00:00,Travel,0.3,0.00
+00:00:00,Unpaid household work,0.6,0.00
+00:00:00,Unpaid care,0.2,0.00
+00:00:00,Watching television,2.9,0.00
+00:00:00,Entertainment and leisure,4.2,0.00
+00:00:00,Education and study,0.2,0.00
+00:00:00,Other,2.2,0.00
+00:10:00,Sleep and rest,88.4,0.17
+00:10:00,Personal care,1.2,0.17
+00:10:00,Paid work,0.9,0.17
+00:10:00,Travel,0.3,0.17
+00:10:00,Unpaid household work,0.4,0.17
+00:10:00,Unpaid care,0.3,0.17
+00:10:00,Watching television,2.4,0.17
+00:10:00,Entertainment and leisure,3.7,0.17
+00:10:00,Education and study,0.2,0.17
+00:10:00,Other,2.2,0.17
+00:20:00,Sleep and rest,89.7,0.33
+00:20:00,Personal care,1.1,0.33
+00:20:00,Paid work,0.9,0.33
+00:20:00,Travel,0.2,0.33
+00:20:00,Unpaid household work,0.5,0.33
+00:20:00,Unpaid care,0.2,0.33
+00:20:00,Watching television,2.2,0.33
+00:20:00,Entertainment and leisure,3,0.33
+00:20:00,Education and study,0.2,0.33
+00:20:00,Other,2,0.33
+00:30:00,Sleep and rest,90.8,0.50
+00:30:00,Personal care,1.1,0.50
+00:30:00,Paid work,1,0.50
+00:30:00,Travel,0.2,0.50
+00:30:00,Unpaid household work,0.3,0.50
+00:30:00,Unpaid care,0.2,0.50
+00:30:00,Watching television,1.6,0.50
+00:30:00,Entertainment and leisure,2.7,0.50
+00:30:00,Education and study,0.2,0.50
+00:30:00,Other,1.9,0.50
+00:40:00,Sleep and rest,91.9,0.67
+00:40:00,Personal care,0.8,0.67
+00:40:00,Paid work,1,0.67
+00:40:00,Travel,0.1,0.67
+00:40:00,Unpaid household work,0.3,0.67
+00:40:00,Unpaid care,0.2,0.67
+00:40:00,Watching television,1.5,0.67
+00:40:00,Entertainment and leisure,2.4,0.67
+00:40:00,Education and study,0.1,0.67
+00:40:00,Other,1.8,0.67
+00:50:00,Sleep and rest,92,0.83
+00:50:00,Personal care,0.8,0.83
+00:50:00,Paid work,1,0.83
+00:50:00,Travel,0.2,0.83
+00:50:00,Unpaid household work,0.3,0.83
+00:50:00,Unpaid care,0.2,0.83
+00:50:00,Watching television,1.5,0.83
+00:50:00,Entertainment and leisure,2.2,0.83
+00:50:00,Education and study,0.1,0.83
+00:50:00,Other,1.8,0.83
+01:00:00,Sleep and rest,93.1,1.00
+01:00:00,Personal care,0.6,1.00
+01:00:00,Paid work,1,1.00
+01:00:00,Travel,0.2,1.00
+01:00:00,Unpaid household work,0,1.00
+01:00:00,Unpaid care,0.3,1.00
+01:00:00,Watching television,1.2,1.00
+01:00:00,Entertainment and leisure,1.8,1.00
+01:00:00,Education and study,0,1.00
+01:00:00,Other,1.6,1.00
+01:10:00,Sleep and rest,93.4,1.17
+01:10:00,Personal care,0.5,1.17
+01:10:00,Paid work,1,1.17
+01:10:00,Travel,0.2,1.17
+01:10:00,Unpaid household work,0.1,1.17
+01:10:00,Unpaid care,0.2,1.17
+01:10:00,Watching television,1.2,1.17
+01:10:00,Entertainment and leisure,1.8,1.17
+01:10:00,Education and study,0,1.17
+01:10:00,Other,1.7,1.17
+01:20:00,Sleep and rest,93.5,1.33
+01:20:00,Personal care,0.4,1.33
+01:20:00,Paid work,1,1.33
+01:20:00,Travel,0.2,1.33
+01:20:00,Unpaid household work,0.1,1.33
+01:20:00,Unpaid care,0.1,1.33
+01:20:00,Watching television,1,1.33
+01:20:00,Entertainment and leisure,2,1.33
+01:20:00,Education and study,0,1.33
+01:20:00,Other,1.7,1.33
+01:30:00,Sleep and rest,94,1.50
+01:30:00,Personal care,0.4,1.50
+01:30:00,Paid work,1.1,1.50
+01:30:00,Travel,0,1.50
+01:30:00,Unpaid household work,0,1.50
+01:30:00,Unpaid care,0.1,1.50
+01:30:00,Watching television,1,1.50
+01:30:00,Entertainment and leisure,1.7,1.50
+01:30:00,Education and study,0,1.50
+01:30:00,Other,1.7,1.50
+01:40:00,Sleep and rest,94.1,1.67
+01:40:00,Personal care,0.4,1.67
+01:40:00,Paid work,1,1.67
+01:40:00,Travel,0,1.67
+01:40:00,Unpaid household work,0,1.67
+01:40:00,Unpaid care,0.1,1.67
+01:40:00,Watching television,1,1.67
+01:40:00,Entertainment and leisure,1.6,1.67
+01:40:00,Education and study,0,1.67
+01:40:00,Other,1.7,1.67
+01:50:00,Sleep and rest,94.3,1.83
+01:50:00,Personal care,0.4,1.83
+01:50:00,Paid work,1,1.83
+01:50:00,Travel,0,1.83
+01:50:00,Unpaid household work,0.1,1.83
+01:50:00,Unpaid care,0.1,1.83
+01:50:00,Watching television,1,1.83
+01:50:00,Entertainment and leisure,1.5,1.83
+01:50:00,Education and study,0,1.83
+01:50:00,Other,1.6,1.83
+02:00:00,Sleep and rest,95,2.00
+02:00:00,Personal care,0.2,2.00
+02:00:00,Paid work,0.9,2.00
+02:00:00,Travel,0.1,2.00
+02:00:00,Unpaid household work,0.1,2.00
+02:00:00,Unpaid care,0.2,2.00
+02:00:00,Watching television,0.7,2.00
+02:00:00,Entertainment and leisure,1.1,2.00
+02:00:00,Education and study,0,2.00
+02:00:00,Other,1.7,2.00
+02:10:00,Sleep and rest,94.9,2.17
+02:10:00,Personal care,0.4,2.17
+02:10:00,Paid work,0.9,2.17
+02:10:00,Travel,0.1,2.17
+02:10:00,Unpaid household work,0.1,2.17
+02:10:00,Unpaid care,0.2,2.17
+02:10:00,Watching television,0.6,2.17
+02:10:00,Entertainment and leisure,1.1,2.17
+02:10:00,Education and study,0,2.17
+02:10:00,Other,1.7,2.17
+02:20:00,Sleep and rest,95.2,2.33
+02:20:00,Personal care,0.3,2.33
+02:20:00,Paid work,0.9,2.33
+02:20:00,Travel,0.1,2.33
+02:20:00,Unpaid household work,0.1,2.33
+02:20:00,Unpaid care,0.1,2.33
+02:20:00,Watching television,0.6,2.33
+02:20:00,Entertainment and leisure,1,2.33
+02:20:00,Education and study,0,2.33
+02:20:00,Other,1.7,2.33
+02:30:00,Sleep and rest,95.9,2.50
+02:30:00,Personal care,0.3,2.50
+02:30:00,Paid work,0.9,2.50
+02:30:00,Travel,0.1,2.50
+02:30:00,Unpaid household work,0.1,2.50
+02:30:00,Unpaid care,0.1,2.50
+02:30:00,Watching television,0.4,2.50
+02:30:00,Entertainment and leisure,0.6,2.50
+02:30:00,Education and study,0,2.50
+02:30:00,Other,1.6,2.50
+02:40:00,Sleep and rest,95.8,2.67
+02:40:00,Personal care,0.4,2.67
+02:40:00,Paid work,0.9,2.67
+02:40:00,Travel,0,2.67
+02:40:00,Unpaid household work,0.1,2.67
+02:40:00,Unpaid care,0.1,2.67
+02:40:00,Watching television,0.4,2.67
+02:40:00,Entertainment and leisure,0.6,2.67
+02:40:00,Education and study,0,2.67
+02:40:00,Other,1.6,2.67
+02:50:00,Sleep and rest,95.8,2.83
+02:50:00,Personal care,0.3,2.83
+02:50:00,Paid work,0.9,2.83
+02:50:00,Travel,0,2.83
+02:50:00,Unpaid household work,0.1,2.83
+02:50:00,Unpaid care,0.1,2.83
+02:50:00,Watching television,0.4,2.83
+02:50:00,Entertainment and leisure,0.6,2.83
+02:50:00,Education and study,0,2.83
+02:50:00,Other,1.7,2.83
+03:00:00,Sleep and rest,95.9,3.00
+03:00:00,Personal care,0.3,3.00
+03:00:00,Paid work,0.9,3.00
+03:00:00,Travel,0,3.00
+03:00:00,Unpaid household work,0.2,3.00
+03:00:00,Unpaid care,0.1,3.00
+03:00:00,Watching television,0.3,3.00
+03:00:00,Entertainment and leisure,0.5,3.00
+03:00:00,Education and study,0,3.00
+03:00:00,Other,1.8,3.00
+03:10:00,Sleep and rest,95.9,3.17
+03:10:00,Personal care,0.3,3.17
+03:10:00,Paid work,0.8,3.17
+03:10:00,Travel,0.1,3.17
+03:10:00,Unpaid household work,0.2,3.17
+03:10:00,Unpaid care,0.1,3.17
+03:10:00,Watching television,0.3,3.17
+03:10:00,Entertainment and leisure,0.4,3.17
+03:10:00,Education and study,0,3.17
+03:10:00,Other,1.8,3.17
+03:20:00,Sleep and rest,95.6,3.33
+03:20:00,Personal care,0.6,3.33
+03:20:00,Paid work,0.8,3.33
+03:20:00,Travel,0,3.33
+03:20:00,Unpaid household work,0.3,3.33
+03:20:00,Unpaid care,0.2,3.33
+03:20:00,Watching television,0.3,3.33
+03:20:00,Entertainment and leisure,0.3,3.33
+03:20:00,Education and study,0,3.33
+03:20:00,Other,1.8,3.33
+03:30:00,Sleep and rest,95.3,3.50
+03:30:00,Personal care,0.7,3.50
+03:30:00,Paid work,0.8,3.50
+03:30:00,Travel,0,3.50
+03:30:00,Unpaid household work,0.3,3.50
+03:30:00,Unpaid care,0.3,3.50
+03:30:00,Watching television,0.2,3.50
+03:30:00,Entertainment and leisure,0.4,3.50
+03:30:00,Education and study,0,3.50
+03:30:00,Other,2,3.50
+03:40:00,Sleep and rest,95,3.67
+03:40:00,Personal care,0.7,3.67
+03:40:00,Paid work,0.8,3.67
+03:40:00,Travel,0,3.67
+03:40:00,Unpaid household work,0.3,3.67
+03:40:00,Unpaid care,0.3,3.67
+03:40:00,Watching television,0.2,3.67
+03:40:00,Entertainment and leisure,0.6,3.67
+03:40:00,Education and study,0,3.67
+03:40:00,Other,2,3.67
+03:50:00,Sleep and rest,94.8,3.83
+03:50:00,Personal care,0.9,3.83
+03:50:00,Paid work,0.8,3.83
+03:50:00,Travel,0,3.83
+03:50:00,Unpaid household work,0.4,3.83
+03:50:00,Unpaid care,0.2,3.83
+03:50:00,Watching television,0.2,3.83
+03:50:00,Entertainment and leisure,0.6,3.83
+03:50:00,Education and study,0,3.83
+03:50:00,Other,2,3.83

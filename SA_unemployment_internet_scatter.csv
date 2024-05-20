@@ -1,37 +1,19 @@
-﻿Code,Province,Percent,Year,Measure
-NC,Northern Cape,22.1,2023,Unemployment
-FS,Free State,34.6,2023,Unemployment
-GP,Gauteng,34,2023,Unemployment
-WC,Western Cape,22.5,2023,Unemployment
-EC,Eastern Cape,42.1,2023,Unemployment
-NW,North West,37,2023,Unemployment
-KZN,KwaZulu-Natal,31.4,2023,Unemployment
-MP,Mpumalanga,36.1,2023,Unemployment
-LP,Limpopo,31.8,2023,Unemployment
-NC,Northern Cape,27.4,2011,Unemployment
-FS,Free State,32.6,2011,Unemployment
-GP,Gauteng,26.3,2011,Unemployment
-WC,Western Cape,21.6,2011,Unemployment
-EC,Eastern Cape,37.4,2011,Unemployment
-NW,North West,31.5,2011,Unemployment
-KZN,KwaZulu-Natal,33,2011,Unemployment
-MP,Mpumalanga,31.6,2011,Unemployment
-LP,Limpopo,38.9,2011,Unemployment
-NC,Northern Cape,28.8,2023,Internet Access
-FS,Free State,20.8,2023,Internet Access
-GP,Gauteng,13.6,2023,Internet Access
-WC,Western Cape,16.1,2023,Internet Access
-EC,Eastern Cape,34.3,2023,Internet Access
-NW,North West,27.6,2023,Internet Access
-KZN,KwaZulu-Natal,18,2023,Internet Access
-MP,Mpumalanga,22,2023,Internet Access
-LP,Limpopo,31.9,2023,Internet Access
-NC,Northern Cape,74.1,2011,Internet Access
-FS,Free State,68.8,2011,Internet Access
-GP,Gauteng,53.6,2011,Internet Access
-WC,Western Cape,56.3,2011,Internet Access
-EC,Eastern Cape,75.9,2011,Internet Access
-NW,North West,73.7,2011,Internet Access
-KZN,KwaZulu-Natal,66.4,2011,Internet Access
-MP,Mpumalanga,68.6,2011,Internet Access
-LP,Limpopo,75.7,2011,Internet Access
+﻿Province,Unemployment,Internet Access,Year
+Northern Cape,22.1,28.8,2023
+Free State,34.6,20.8,2023
+Gauteng,34,13.6,2023
+Western Cape,22.5,16.1,2023
+Eastern Cape,42.1,34.3,2023
+North West,37,27.6,2023
+KwaZulu-Natal,31.4,18,2023
+Mpumalanga,36.1,22,2023
+Limpopo,31.8,31.9,2023
+Northern Cape,27.4,74.1,2011
+Free State,32.6,68.8,2011
+Gauteng,26.3,53.6,2011
+Western Cape,21.6,56.3,2011
+Eastern Cape,37.4,75.9,2011
+North West,31.5,73.7,2011
+KwaZulu-Natal,33,66.4,2011
+Mpumalanga,31.6,68.6,2011
+Limpopo,38.9,75.7,2011

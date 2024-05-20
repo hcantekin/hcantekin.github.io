@@ -1,0 +1,25 @@
+﻿Status,Service,Percent
+Metro,Housing,57
+Metro,Courts,46.1
+Metro,Police,45.9
+Metro,Public Hospital,51.2
+Metro,Public Clinic,53.5
+Metro,DCS,58.1
+Metro,Public Transport,54.4
+Metro,Home Affairs,47
+Metro,SARS,48.5
+Metro,SASSA,52.7
+Metro,Public School,51.9
+Metro,Higher Learning Institution,49.3
+Non-Metro,Housing,43
+Non-Metro,Courts,53.9
+Non-Metro,Police,54.1
+Non-Metro,Public Hospital,48.8
+Non-Metro,Public Clinic,46.5
+Non-Metro,DCS,41.9
+Non-Metro,Public Transport,45.6
+Non-Metro,Home Affairs,53
+Non-Metro,SARS,51.5
+Non-Metro,SASSA,47.3
+Non-Metro,Public School,48.1
+Non-Metro,Higher Learning Institution,50.7

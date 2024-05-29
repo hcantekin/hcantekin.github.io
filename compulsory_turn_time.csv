@@ -1,306 +1,245 @@
-﻿Country,ISO3,Turnout,Type,Year
-Argentina,ARG,71.51,Compulsory,2021
-Argentina,ARG,76.74,Compulsory,2017
-Argentina,ARG,77.17,Compulsory,2013
-Argentina,ARG,79.39,Compulsory,2011
-Argentina,ARG,72.39,Compulsory,2009
-Argentina,ARG,73.33,Compulsory,2005
-Argentina,ARG,75.21,Compulsory,2001
-Argentina,ARG,80.54,Compulsory,1999
-Argentina,ARG,78.22,Compulsory,1997
-Argentina,ARG,80.96,Compulsory,1995
-Argentina,ARG,79.7,Compulsory,1993
-Argentina,ARG,89.71,Compulsory,1991
-Argentina,ARG,84.24,Compulsory,1989
-Argentina,ARG,83.61,Compulsory,1987
-Argentina,ARG,82.19,Compulsory,1985
-Argentina,ARG,83.25,Compulsory,1983
-Argentina,ARG,85.55,Compulsory,1973
-Argentina,ARG,83.46,Compulsory,1965
-Argentina,ARG,85.59,Compulsory,1963
-Argentina,ARG,85.73,Compulsory,1962
-Argentina,ARG,87.07,Compulsory,1960
-Argentina,ARG,90.86,Compulsory,1958
-Argentina,ARG,86,Compulsory,1954
-Argentina,ARG,87.95,Compulsory,1951
-Argentina,ARG,83.39,Compulsory,1946
-Argentina,ARG,80.37,Compulsory,2019
-Argentina,ARG,81.06,Compulsory,2015
-Argentina,ARG,76.21,Compulsory,2007
-Argentina,ARG,77.01,Compulsory,2023
-Australia,AUS,89.74,Compulsory,2022
-Australia,AUS,91.89,Compulsory,2019
-Australia,AUS,91.01,Compulsory,2016
-Australia,AUS,93.23,Compulsory,2013
-Australia,AUS,93.22,Compulsory,2010
-Australia,AUS,94.76,Compulsory,2007
-Australia,AUS,94.32,Compulsory,2004
-Australia,AUS,94.85,Compulsory,2001
-Australia,AUS,94.99,Compulsory,1998
-Australia,AUS,95.77,Compulsory,1996
-Australia,AUS,95.75,Compulsory,1993
-Australia,AUS,95.31,Compulsory,1990
-Australia,AUS,93.84,Compulsory,1987
-Australia,AUS,94.19,Compulsory,1984
-Australia,AUS,94.64,Compulsory,1983
-Australia,AUS,94.35,Compulsory,1980
-Australia,AUS,95.08,Compulsory,1977
-Australia,AUS,95.39,Compulsory,1975
-Australia,AUS,95.4,Compulsory,1974
-Australia,AUS,95.38,Compulsory,1972
-Australia,AUS,94.97,Compulsory,1969
-Australia,AUS,95.13,Compulsory,1966
-Australia,AUS,95.71,Compulsory,1963
-Australia,AUS,95.22,Compulsory,1961
-Australia,AUS,95.44,Compulsory,1958
-Australia,AUS,95,Compulsory,1955
-Australia,AUS,96.05,Compulsory,1954
-Australia,AUS,95.97,Compulsory,1951
-Australia,AUS,95.94,Compulsory,1949
-Australia,AUS,93.95,Compulsory,1946
-Belgium,BEL,88.38,Compulsory,2019
-Belgium,BEL,89.37,Compulsory,2014
-Belgium,BEL,89.22,Compulsory,2010
-Belgium,BEL,91.08,Compulsory,2007
-Belgium,BEL,91.63,Compulsory,2003
-Belgium,BEL,90.57,Compulsory,1999
-Belgium,BEL,91.15,Compulsory,1995
-Belgium,BEL,92.71,Compulsory,1991
-Belgium,BEL,93.38,Compulsory,1987
-Belgium,BEL,93.59,Compulsory,1985
-Belgium,BEL,94.56,Compulsory,1981
-Belgium,BEL,94.87,Compulsory,1978
-Belgium,BEL,95.07,Compulsory,1977
-Belgium,BEL,90.35,Compulsory,1974
-Belgium,BEL,91.55,Compulsory,1971
-Belgium,BEL,90.02,Compulsory,1968
-Belgium,BEL,91.58,Compulsory,1965
-Belgium,BEL,92.34,Compulsory,1961
-Belgium,BEL,93.62,Compulsory,1958
-Belgium,BEL,93.18,Compulsory,1954
-Belgium,BEL,92.62,Compulsory,1950
-Belgium,BEL,94.41,Compulsory,1949
-Belgium,BEL,90.3,Compulsory,1946
-Brazil,BRA,79.2,Compulsory,2022
-Brazil,BRA,79.8,Compulsory,2018
-Brazil,BRA,80.6,Compulsory,2014
-Brazil,BRA,81.88,Compulsory,2010
-Brazil,BRA,83.27,Compulsory,2006
-Brazil,BRA,68.72,Compulsory,2002
-Brazil,BRA,78.51,Compulsory,1998
-Brazil,BRA,82.24,Compulsory,1994
-Brazil,BRA,84.61,Compulsory,1990
-Brazil,BRA,85,Compulsory,1986
-Brazil,BRA,82.33,Compulsory,1982
-Brazil,BRA,81.75,Compulsory,1978
-Brazil,BRA,77.45,Compulsory,1970
-Brazil,BRA,77.21,Compulsory,1966
-Brazil,BRA,79.59,Compulsory,1962
-Brazil,BRA,99.2,Compulsory,1958
-Brazil,BRA,65.48,Compulsory,1954
-Brazil,BRA,71.89,Compulsory,1950
-Brazil,BRA,42.47,Compulsory,1947
-Brazil,BRA,81.64,Compulsory,1945
-Costa Rica,CRI,60.65,Compulsory,2022
-Costa Rica,CRI,65.56,Compulsory,2018
-Costa Rica,CRI,68.38,Compulsory,2014
-Costa Rica,CRI,69.11,Compulsory,2010
-Costa Rica,CRI,65.13,Compulsory,2006
-Costa Rica,CRI,68.84,Compulsory,2002
-Costa Rica,CRI,69.99,Compulsory,1998
-Costa Rica,CRI,81.09,Compulsory,1994
-Costa Rica,CRI,81.79,Compulsory,1990
-Costa Rica,CRI,81.81,Compulsory,1986
-Costa Rica,CRI,78.62,Compulsory,1982
-Costa Rica,CRI,81.16,Compulsory,1978
-Costa Rica,CRI,79.89,Compulsory,1974
-Costa Rica,CRI,83.32,Compulsory,1970
-Costa Rica,CRI,81.4,Compulsory,1966
-Costa Rica,CRI,80.89,Compulsory,1962
-Costa Rica,CRI,64.69,Compulsory,1958
-Costa Rica,CRI,67.51,Compulsory,1953
-Costa Rica,CRI,-,Compulsory,1948
-Ecuador,ECU,81,Compulsory,2021
-Ecuador,ECU,81.74,Compulsory,2017
-Ecuador,ECU,80.84,Compulsory,2013
-Ecuador,ECU,75.72,Compulsory,2009
-Ecuador,ECU,63.5,Compulsory,2006
-Ecuador,ECU,63.51,Compulsory,2002
-Ecuador,ECU,64.16,Compulsory,1998
-Ecuador,ECU,67.87,Compulsory,1996
-Ecuador,ECU,65.49,Compulsory,1994
-Ecuador,ECU,69.42,Compulsory,1990
-Ecuador,ECU,77.65,Compulsory,1988
-Ecuador,ECU,74.02,Compulsory,1986
-Ecuador,ECU,71.15,Compulsory,1984
-Ecuador,ECU,80.37,Compulsory,1979
-Ecuador,ECU,71.6,Compulsory,1956
-Ecuador,ECU,81.62,Compulsory,1954
-Ecuador,ECU,64.11,Compulsory,1950
-Ecuador,ECU,56.69,Compulsory,1947
-Ecuador,ECU,82.93,Compulsory,2023
-Greece,GRC,61.1,Compulsory,2023
-Greece,GRC,57.78,Compulsory,2019
-Greece,GRC,63.94,Compulsory,2015
-Greece,GRC,62.47,Compulsory,2012
-Greece,GRC,70.92,Compulsory,2009
-Greece,GRC,74.14,Compulsory,2007
-Greece,GRC,76.62,Compulsory,2004
-Greece,GRC,74.97,Compulsory,2000
-Greece,GRC,76.34,Compulsory,1996
-Greece,GRC,82.95,Compulsory,1993
-Greece,GRC,84.5,Compulsory,1989
-Greece,GRC,80.19,Compulsory,1985
-Greece,GRC,81.5,Compulsory,1981
-Greece,GRC,81.11,Compulsory,1977
-Greece,GRC,79.58,Compulsory,1974
-Greece,GRC,81.69,Compulsory,1964
-Greece,GRC,83.04,Compulsory,1963
-Greece,GRC,81.87,Compulsory,1961
-Greece,GRC,75.48,Compulsory,1958
-Greece,GRC,74.97,Compulsory,1956
-Greece,GRC,75.37,Compulsory,1952
-Greece,GRC,77.2,Compulsory,1951
-Greece,GRC,53.74,Compulsory,2023
-Honduras,HND,59.49,Compulsory,2017
-Honduras,HND,61.16,Compulsory,2013
-Honduras,HND,50.05,Compulsory,2009
-Honduras,HND,45.97,Compulsory,2005
-Honduras,HND,66.31,Compulsory,2001
-Honduras,HND,71.83,Compulsory,1997
-Honduras,HND,64.97,Compulsory,1993
-Honduras,HND,76.03,Compulsory,1989
-Honduras,HND,84.02,Compulsory,1985
-Honduras,HND,77.95,Compulsory,1981
-Honduras,HND,81.35,Compulsory,1980
-Honduras,HND,67.54,Compulsory,1971
-Honduras,HND,75.3,Compulsory,1965
-Honduras,HND,63.49,Compulsory,1957
-Honduras,HND,61.41,Compulsory,1954
-Honduras,HND,85.97,Compulsory,1948
-Liechtenstein,LIE,78.01,Compulsory,2021
-Liechtenstein,LIE,77.82,Compulsory,2017
-Liechtenstein,LIE,79.8,Compulsory,2013
-Liechtenstein,LIE,84.63,Compulsory,2009
-Liechtenstein,LIE,86.47,Compulsory,2005
-Liechtenstein,LIE,86.72,Compulsory,2001
-Liechtenstein,LIE,86.94,Compulsory,1997
-Liechtenstein,LIE,87.54,Compulsory,1993
-Liechtenstein,LIE,90.88,Compulsory,1989
-Liechtenstein,LIE,93.33,Compulsory,1986
-Liechtenstein,LIE,95.39,Compulsory,1982
-Liechtenstein,LIE,95.72,Compulsory,1978
-Liechtenstein,LIE,95.56,Compulsory,1974
-Liechtenstein,LIE,94.94,Compulsory,1970
-Liechtenstein,LIE,95.68,Compulsory,1966
-Liechtenstein,LIE,94.68,Compulsory,1962
-Liechtenstein,LIE,96.47,Compulsory,1958
-Liechtenstein,LIE,93.45,Compulsory,1957
-Liechtenstein,LIE,90.76,Compulsory,1953
-Liechtenstein,LIE,91.99,Compulsory,1949
-Liechtenstein,LIE,93.36,Compulsory,1945
-Luxembourg,LUX,89.66,Compulsory,2018
-Luxembourg,LUX,91.15,Compulsory,2013
-Luxembourg,LUX,90.93,Compulsory,2009
-Luxembourg,LUX,91.68,Compulsory,2004
-Luxembourg,LUX,86.51,Compulsory,1999
-Luxembourg,LUX,88.3,Compulsory,1994
-Luxembourg,LUX,87.39,Compulsory,1989
-Luxembourg,LUX,88.81,Compulsory,1984
-Luxembourg,LUX,88.85,Compulsory,1979
-Luxembourg,LUX,90.14,Compulsory,1974
-Luxembourg,LUX,88.56,Compulsory,1968
-Luxembourg,LUX,90.57,Compulsory,1964
-Luxembourg,LUX,92.33,Compulsory,1959
-Luxembourg,LUX,92.65,Compulsory,1954
-Luxembourg,LUX,90.78,Compulsory,1951
-Luxembourg,LUX,91.9,Compulsory,1948
-Luxembourg,LUX,87.18,Compulsory,2023
-Luxembourg,LUX,-,Compulsory,1945
-Mexico,MEX,52.66,Compulsory,2021
-Mexico,MEX,63.21,Compulsory,2018
-Mexico,MEX,47.72,Compulsory,2015
-Mexico,MEX,62.45,Compulsory,2012
-Mexico,MEX,44.61,Compulsory,2009
-Mexico,MEX,58.9,Compulsory,2006
-Mexico,MEX,41.68,Compulsory,2003
-Mexico,MEX,57.24,Compulsory,2000
-Mexico,MEX,57.69,Compulsory,1997
-Mexico,MEX,77.73,Compulsory,1994
-Mexico,MEX,61.11,Compulsory,1991
-Mexico,MEX,49.43,Compulsory,1988
-Mexico,MEX,51.82,Compulsory,1985
-Mexico,MEX,72.56,Compulsory,1982
-Mexico,MEX,49.43,Compulsory,1979
-Mexico,MEX,62.01,Compulsory,1976
-Mexico,MEX,60.3,Compulsory,1973
-Mexico,MEX,64.38,Compulsory,1970
-Mexico,MEX,62.82,Compulsory,1967
-Mexico,MEX,66.61,Compulsory,1964
-Mexico,MEX,68.43,Compulsory,1961
-Mexico,MEX,70.21,Compulsory,1958
-Mexico,MEX,69.24,Compulsory,1955
-Mexico,MEX,74.15,Compulsory,1952
-Mexico,MEX,72.31,Compulsory,1949
-Mexico,MEX,89.75,Compulsory,1946
-Paraguay,PRY,62.86,Compulsory,2023
-Paraguay,PRY,60.88,Compulsory,2018
-Paraguay,PRY,68.24,Compulsory,2013
-Paraguay,PRY,65.48,Compulsory,2008
-Paraguay,PRY,64.02,Compulsory,2003
-Paraguay,PRY,80.48,Compulsory,1998
-Paraguay,PRY,66.22,Compulsory,1993
-Paraguay,PRY,52.01,Compulsory,1989
-Paraguay,PRY,92.17,Compulsory,1988
-Paraguay,PRY,92.62,Compulsory,1983
-Paraguay,PRY,85.96,Compulsory,1978
-Paraguay,PRY,77.39,Compulsory,1973
-Paraguay,PRY,73.14,Compulsory,1968
-Paraguay,PRY,85.12,Compulsory,1963
-Peru,PER,70.08,Compulsory,2021
-Peru,PER,74.07,Compulsory,2020
-Peru,PER,81.88,Compulsory,2016
-Peru,PER,83.72,Compulsory,2011
-Peru,PER,88.66,Compulsory,2006
-Peru,PER,81.37,Compulsory,2001
-Peru,PER,81.98,Compulsory,2000
-Peru,PER,63.39,Compulsory,1995
-Peru,PER,68.38,Compulsory,1990
-Peru,PER,80.49,Compulsory,1985
-Peru,PER,80.44,Compulsory,1980
-Peru,PER,94.38,Compulsory,1963
-Peru,PER,88.6,Compulsory,1962
-Peru,PER,84.04,Compulsory,1956
-Singapore,SGP,95.81,Compulsory,2020
-Singapore,SGP,93.7,Compulsory,2015
-Singapore,SGP,93.18,Compulsory,2011
-Singapore,SGP,94.01,Compulsory,2006
-Singapore,SGP,94.61,Compulsory,2001
-Singapore,SGP,95.91,Compulsory,1997
-Singapore,SGP,95.03,Compulsory,1991
-Singapore,SGP,94.7,Compulsory,1988
-Singapore,SGP,95.59,Compulsory,1984
-Singapore,SGP,95.48,Compulsory,1980
-Singapore,SGP,95.1,Compulsory,1976
-Singapore,SGP,82.15,Compulsory,1972
-Singapore,SGP,94.09,Compulsory,1968
-United Kingdom,GBR,67.55,Voluntary,2019
-United Kingdom,GBR,69.31,Voluntary,2017
-United Kingdom,GBR,66.34,Voluntary,2015
-United Kingdom,GBR,65.77,Voluntary,2010
-United Kingdom,GBR,61.36,Voluntary,2005
-United Kingdom,GBR,59.38,Voluntary,2001
-United Kingdom,GBR,71.46,Voluntary,1997
-United Kingdom,GBR,77.83,Voluntary,1992
-United Kingdom,GBR,75.42,Voluntary,1987
-United Kingdom,GBR,72.81,Voluntary,1983
-United Kingdom,GBR,76,Voluntary,1979
-United Kingdom,GBR,72.93,Voluntary,1974
-United Kingdom,GBR,72.15,Voluntary,1970
-United Kingdom,GBR,75.96,Voluntary,1966
-United Kingdom,GBR,77.17,Voluntary,1964
-United Kingdom,GBR,78.71,Voluntary,1959
-United Kingdom,GBR,76.78,Voluntary,1955
-United Kingdom,GBR,81.89,Voluntary,1951
-United Kingdom,GBR,83.61,Voluntary,1950
-United Kingdom,GBR,72.55,Voluntary,1945
+﻿Country,ISO3,Turnout,Type,Year,Enforcement
+Argentina,ARG,71.51,Compulsory,2021,Low
+Argentina,ARG,76.74,Compulsory,2017,Low
+Argentina,ARG,77.17,Compulsory,2013,Low
+Argentina,ARG,79.39,Compulsory,2011,Low
+Argentina,ARG,72.39,Compulsory,2009,Low
+Argentina,ARG,73.33,Compulsory,2005,Low
+Argentina,ARG,75.21,Compulsory,2001,Low
+Argentina,ARG,80.54,Compulsory,1999,Low
+Argentina,ARG,78.22,Compulsory,1997,Low
+Argentina,ARG,80.96,Compulsory,1995,Low
+Argentina,ARG,79.7,Compulsory,1993,Low
+Argentina,ARG,89.71,Compulsory,1991,Low
+Argentina,ARG,84.24,Compulsory,1989,Low
+Argentina,ARG,83.61,Compulsory,1987,Low
+Argentina,ARG,82.19,Compulsory,1985,Low
+Argentina,ARG,83.25,Compulsory,1983,Low
+Argentina,ARG,85.55,Compulsory,1973,Low
+Argentina,ARG,83.46,Compulsory,1965,Low
+Argentina,ARG,85.59,Compulsory,1963,Low
+Argentina,ARG,85.73,Compulsory,1962,Low
+Argentina,ARG,87.07,Compulsory,1960,Low
+Argentina,ARG,90.86,Compulsory,1958,Low
+Argentina,ARG,86,Compulsory,1954,Low
+Argentina,ARG,87.95,Compulsory,1951,Low
+Argentina,ARG,83.39,Compulsory,1946,Low
+Argentina,ARG,80.37,Compulsory,2019,Low
+Argentina,ARG,81.06,Compulsory,2015,Low
+Argentina,ARG,76.21,Compulsory,2007,Low
+Argentina,ARG,77.01,Compulsory,2023,Low
+Australia,AUS,89.74,Compulsory,2022,Strict
+Australia,AUS,91.89,Compulsory,2019,Strict
+Australia,AUS,91.01,Compulsory,2016,Strict
+Australia,AUS,93.23,Compulsory,2013,Strict
+Australia,AUS,93.22,Compulsory,2010,Strict
+Australia,AUS,94.76,Compulsory,2007,Strict
+Australia,AUS,94.32,Compulsory,2004,Strict
+Australia,AUS,94.85,Compulsory,2001,Strict
+Australia,AUS,94.99,Compulsory,1998,Strict
+Australia,AUS,95.77,Compulsory,1996,Strict
+Australia,AUS,95.75,Compulsory,1993,Strict
+Australia,AUS,95.31,Compulsory,1990,Strict
+Australia,AUS,93.84,Compulsory,1987,Strict
+Australia,AUS,94.19,Compulsory,1984,Strict
+Australia,AUS,94.64,Compulsory,1983,Strict
+Australia,AUS,94.35,Compulsory,1980,Strict
+Australia,AUS,95.08,Compulsory,1977,Strict
+Australia,AUS,95.39,Compulsory,1975,Strict
+Australia,AUS,95.4,Compulsory,1974,Strict
+Australia,AUS,95.38,Compulsory,1972,Strict
+Australia,AUS,94.97,Compulsory,1969,Strict
+Australia,AUS,95.13,Compulsory,1966,Strict
+Australia,AUS,95.71,Compulsory,1963,Strict
+Australia,AUS,95.22,Compulsory,1961,Strict
+Australia,AUS,95.44,Compulsory,1958,Strict
+Australia,AUS,95,Compulsory,1955,Strict
+Australia,AUS,96.05,Compulsory,1954,Strict
+Australia,AUS,95.97,Compulsory,1951,Strict
+Australia,AUS,95.94,Compulsory,1949,Strict
+Australia,AUS,93.95,Compulsory,1946,Strict
+Belgium,BEL,88.38,Compulsory,2019,Moderate
+Belgium,BEL,89.37,Compulsory,2014,Moderate
+Belgium,BEL,89.22,Compulsory,2010,Moderate
+Belgium,BEL,91.08,Compulsory,2007,Moderate
+Belgium,BEL,91.63,Compulsory,2003,Moderate
+Belgium,BEL,90.57,Compulsory,1999,Moderate
+Belgium,BEL,91.15,Compulsory,1995,Moderate
+Belgium,BEL,92.71,Compulsory,1991,Moderate
+Belgium,BEL,93.38,Compulsory,1987,Moderate
+Belgium,BEL,93.59,Compulsory,1985,Moderate
+Belgium,BEL,94.56,Compulsory,1981,Moderate
+Belgium,BEL,94.87,Compulsory,1978,Moderate
+Belgium,BEL,95.07,Compulsory,1977,Moderate
+Belgium,BEL,90.35,Compulsory,1974,Moderate
+Belgium,BEL,91.55,Compulsory,1971,Moderate
+Belgium,BEL,90.02,Compulsory,1968,Moderate
+Belgium,BEL,91.58,Compulsory,1965,Moderate
+Belgium,BEL,92.34,Compulsory,1961,Moderate
+Belgium,BEL,93.62,Compulsory,1958,Moderate
+Belgium,BEL,93.18,Compulsory,1954,Moderate
+Belgium,BEL,92.62,Compulsory,1950,Moderate
+Belgium,BEL,94.41,Compulsory,1949,Moderate
+Belgium,BEL,90.3,Compulsory,1946,Moderate
+Brazil,BRA,79.2,Compulsory,2022,Strict
+Brazil,BRA,79.8,Compulsory,2018,Strict
+Brazil,BRA,80.6,Compulsory,2014,Strict
+Brazil,BRA,81.88,Compulsory,2010,Strict
+Brazil,BRA,83.27,Compulsory,2006,Strict
+Brazil,BRA,68.72,Compulsory,2002,Strict
+Brazil,BRA,78.51,Compulsory,1998,Strict
+Brazil,BRA,82.24,Compulsory,1994,Strict
+Brazil,BRA,84.61,Compulsory,1990,Strict
+Brazil,BRA,85,Compulsory,1986,Strict
+Brazil,BRA,82.33,Compulsory,1982,Strict
+Brazil,BRA,81.75,Compulsory,1978,Strict
+Brazil,BRA,77.45,Compulsory,1970,Strict
+Brazil,BRA,77.21,Compulsory,1966,Strict
+Brazil,BRA,79.59,Compulsory,1962,Strict
+Brazil,BRA,99.2,Compulsory,1958,Strict
+Brazil,BRA,65.48,Compulsory,1954,Strict
+Brazil,BRA,71.89,Compulsory,1950,Strict
+Brazil,BRA,42.47,Compulsory,1947,Strict
+Brazil,BRA,81.64,Compulsory,1945,Strict
+Ecuador,ECU,81,Compulsory,2021,Moderate
+Ecuador,ECU,81.74,Compulsory,2017,Moderate
+Ecuador,ECU,80.84,Compulsory,2013,Moderate
+Ecuador,ECU,75.72,Compulsory,2009,Moderate
+Ecuador,ECU,63.5,Compulsory,2006,Moderate
+Ecuador,ECU,63.51,Compulsory,2002,Moderate
+Ecuador,ECU,64.16,Compulsory,1998,Moderate
+Ecuador,ECU,67.87,Compulsory,1996,Moderate
+Ecuador,ECU,65.49,Compulsory,1994,Moderate
+Ecuador,ECU,69.42,Compulsory,1990,Moderate
+Ecuador,ECU,77.65,Compulsory,1988,Moderate
+Ecuador,ECU,74.02,Compulsory,1986,Moderate
+Ecuador,ECU,71.15,Compulsory,1984,Moderate
+Ecuador,ECU,80.37,Compulsory,1979,Moderate
+Ecuador,ECU,71.6,Compulsory,1956,Moderate
+Ecuador,ECU,81.62,Compulsory,1954,Moderate
+Ecuador,ECU,64.11,Compulsory,1950,Moderate
+Ecuador,ECU,56.69,Compulsory,1947,Moderate
+Ecuador,ECU,82.93,Compulsory,2023,Moderate
+Greece,GRC,61.1,Compulsory,2023,Low
+Greece,GRC,57.78,Compulsory,2019,Low
+Greece,GRC,63.94,Compulsory,2015,Low
+Greece,GRC,62.47,Compulsory,2012,Low
+Greece,GRC,70.92,Compulsory,2009,Low
+Greece,GRC,74.14,Compulsory,2007,Low
+Greece,GRC,76.62,Compulsory,2004,Low
+Greece,GRC,74.97,Compulsory,2000,Low
+Greece,GRC,76.34,Compulsory,1996,Low
+Greece,GRC,82.95,Compulsory,1993,Low
+Greece,GRC,84.5,Compulsory,1989,Low
+Greece,GRC,80.19,Compulsory,1985,Low
+Greece,GRC,81.5,Compulsory,1981,Low
+Greece,GRC,81.11,Compulsory,1977,Low
+Greece,GRC,79.58,Compulsory,1974,Low
+Greece,GRC,81.69,Compulsory,1964,Low
+Greece,GRC,83.04,Compulsory,1963,Low
+Greece,GRC,81.87,Compulsory,1961,Low
+Greece,GRC,75.48,Compulsory,1958,Low
+Greece,GRC,74.97,Compulsory,1956,Low
+Greece,GRC,75.37,Compulsory,1952,Low
+Greece,GRC,77.2,Compulsory,1951,Low
+Greece,GRC,53.74,Compulsory,2023,Low
+Liechtenstein,LIE,78.01,Compulsory,2021,Moderate
+Liechtenstein,LIE,77.82,Compulsory,2017,Moderate
+Liechtenstein,LIE,79.8,Compulsory,2013,Moderate
+Liechtenstein,LIE,84.63,Compulsory,2009,Moderate
+Liechtenstein,LIE,86.47,Compulsory,2005,Moderate
+Liechtenstein,LIE,86.72,Compulsory,2001,Moderate
+Liechtenstein,LIE,86.94,Compulsory,1997,Moderate
+Liechtenstein,LIE,87.54,Compulsory,1993,Moderate
+Liechtenstein,LIE,90.88,Compulsory,1989,Moderate
+Liechtenstein,LIE,93.33,Compulsory,1986,Moderate
+Liechtenstein,LIE,95.39,Compulsory,1982,Moderate
+Liechtenstein,LIE,95.72,Compulsory,1978,Moderate
+Liechtenstein,LIE,95.56,Compulsory,1974,Moderate
+Liechtenstein,LIE,94.94,Compulsory,1970,Moderate
+Liechtenstein,LIE,95.68,Compulsory,1966,Moderate
+Liechtenstein,LIE,94.68,Compulsory,1962,Moderate
+Liechtenstein,LIE,96.47,Compulsory,1958,Moderate
+Liechtenstein,LIE,93.45,Compulsory,1957,Moderate
+Liechtenstein,LIE,90.76,Compulsory,1953,Moderate
+Liechtenstein,LIE,91.99,Compulsory,1949,Moderate
+Liechtenstein,LIE,93.36,Compulsory,1945,Moderate
+Luxembourg,LUX,89.66,Compulsory,2018,Moderate
+Luxembourg,LUX,91.15,Compulsory,2013,Moderate
+Luxembourg,LUX,90.93,Compulsory,2009,Moderate
+Luxembourg,LUX,91.68,Compulsory,2004,Moderate
+Luxembourg,LUX,86.51,Compulsory,1999,Moderate
+Luxembourg,LUX,88.3,Compulsory,1994,Moderate
+Luxembourg,LUX,87.39,Compulsory,1989,Moderate
+Luxembourg,LUX,88.81,Compulsory,1984,Moderate
+Luxembourg,LUX,88.85,Compulsory,1979,Moderate
+Luxembourg,LUX,90.14,Compulsory,1974,Moderate
+Luxembourg,LUX,88.56,Compulsory,1968,Moderate
+Luxembourg,LUX,90.57,Compulsory,1964,Moderate
+Luxembourg,LUX,92.33,Compulsory,1959,Moderate
+Luxembourg,LUX,92.65,Compulsory,1954,Moderate
+Luxembourg,LUX,90.78,Compulsory,1951,Moderate
+Luxembourg,LUX,91.9,Compulsory,1948,Moderate
+Luxembourg,LUX,87.18,Compulsory,2023,Moderate
+Luxembourg,LUX,-,Compulsory,1945,Moderate
+Paraguay,PRY,62.86,Compulsory,2023,Moderate
+Paraguay,PRY,60.88,Compulsory,2018,Moderate
+Paraguay,PRY,68.24,Compulsory,2013,Moderate
+Paraguay,PRY,65.48,Compulsory,2008,Moderate
+Paraguay,PRY,64.02,Compulsory,2003,Moderate
+Paraguay,PRY,80.48,Compulsory,1998,Moderate
+Paraguay,PRY,66.22,Compulsory,1993,Moderate
+Paraguay,PRY,52.01,Compulsory,1989,Moderate
+Paraguay,PRY,92.17,Compulsory,1988,Moderate
+Paraguay,PRY,92.62,Compulsory,1983,Moderate
+Paraguay,PRY,85.96,Compulsory,1978,Moderate
+Paraguay,PRY,77.39,Compulsory,1973,Moderate
+Paraguay,PRY,73.14,Compulsory,1968,Moderate
+Paraguay,PRY,85.12,Compulsory,1963,Moderate
+Peru,PER,70.08,Compulsory,2021,Strict
+Peru,PER,74.07,Compulsory,2020,Strict
+Peru,PER,81.88,Compulsory,2016,Strict
+Peru,PER,83.72,Compulsory,2011,Strict
+Peru,PER,88.66,Compulsory,2006,Strict
+Peru,PER,81.37,Compulsory,2001,Strict
+Peru,PER,81.98,Compulsory,2000,Strict
+Peru,PER,63.39,Compulsory,1995,Strict
+Peru,PER,68.38,Compulsory,1990,Strict
+Peru,PER,80.49,Compulsory,1985,Strict
+Peru,PER,80.44,Compulsory,1980,Strict
+Peru,PER,94.38,Compulsory,1963,Strict
+Peru,PER,88.6,Compulsory,1962,Strict
+Peru,PER,84.04,Compulsory,1956,Strict
+Singapore,SGP,95.81,Compulsory,2020,Strict
+Singapore,SGP,93.7,Compulsory,2015,Strict
+Singapore,SGP,93.18,Compulsory,2011,Strict
+Singapore,SGP,94.01,Compulsory,2006,Strict
+Singapore,SGP,94.61,Compulsory,2001,Strict
+Singapore,SGP,95.91,Compulsory,1997,Strict
+Singapore,SGP,95.03,Compulsory,1991,Strict
+Singapore,SGP,94.7,Compulsory,1988,Strict
+Singapore,SGP,95.59,Compulsory,1984,Strict
+Singapore,SGP,95.48,Compulsory,1980,Strict
+Singapore,SGP,95.1,Compulsory,1976,Strict
+Singapore,SGP,82.15,Compulsory,1972,Strict
+Singapore,SGP,94.09,Compulsory,1968,Strict
+United Kingdom,GBR,67.55,Voluntary,2019,Voluntary
+United Kingdom,GBR,69.31,Voluntary,2017,Voluntary
+United Kingdom,GBR,66.34,Voluntary,2015,Voluntary
+United Kingdom,GBR,65.77,Voluntary,2010,Voluntary
+United Kingdom,GBR,61.36,Voluntary,2005,Voluntary
+United Kingdom,GBR,59.38,Voluntary,2001,Voluntary
+United Kingdom,GBR,71.46,Voluntary,1997,Voluntary
+United Kingdom,GBR,77.83,Voluntary,1992,Voluntary
+United Kingdom,GBR,75.42,Voluntary,1987,Voluntary
+United Kingdom,GBR,72.81,Voluntary,1983,Voluntary
+United Kingdom,GBR,76,Voluntary,1979,Voluntary
+United Kingdom,GBR,72.93,Voluntary,1974,Voluntary
+United Kingdom,GBR,72.15,Voluntary,1970,Voluntary
+United Kingdom,GBR,75.96,Voluntary,1966,Voluntary
+United Kingdom,GBR,77.17,Voluntary,1964,Voluntary
+United Kingdom,GBR,78.71,Voluntary,1959,Voluntary
+United Kingdom,GBR,76.78,Voluntary,1955,Voluntary
+United Kingdom,GBR,81.89,Voluntary,1951,Voluntary
+United Kingdom,GBR,83.61,Voluntary,1950,Voluntary
+United Kingdom,GBR,72.55,Voluntary,1945,Voluntary

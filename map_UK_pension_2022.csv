@@ -1,12 +1,12 @@
-﻿Region,Caseload,rgn19nm
-North East,510453.00,North East
-North West,1303908.00,North West
-Yorkshire and The Humber,980745.00,Yorkshire and The Humber
-East Midlands,896929.00,East Midlands
-West Midlands,1048882.00,West Midlands
-East of England,1171962.00,East of England
-London,934605.00,London
-South East,1689056.00,South East
-South West,1204151.00,South West
-Wales,626060.00,Wales
-Scotland,995267.00,Scotland
+﻿Region,Caseload,rgn19cd
+North East,510453.00,E12000001
+North West,1303908.00,E12000002
+Yorkshire and The Humber,980745.00,E12000003
+East Midlands,896929.00,E12000004
+West Midlands,1048882.00,E12000005
+East,1171962.00,E12000006
+London,934605.00,E12000007
+South East,1689056.00,E12000008
+South West,1204151.00,E12000009
+Wales,626060.00,W92000004
+Scotland,995267.00,S92000003

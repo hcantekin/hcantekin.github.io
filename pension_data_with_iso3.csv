@@ -1,31 +1,31 @@
-Country,ISO3,pension
-Luxembourg,LUX,5201.88
-Spain,ESP,2709.37
-Belgium,BEL,2698.28
-Bulgaria,BGR,1486.00
-Liechtenstein,LIE,2148.08
-Bosnia and Herzegovina,BIH,1022.23
-Cyprus,CYP,1507.12
-France,FRA,1564.18
-Iceland,ISL,1893.87
-Denmark,DNK,1651.18
-Switzerland,CHE,2148.06
-Netherlands,NLD,1245.48
-Norway,NOR,1412.74
-Ukraine,UKR,482.03
-United Kingdom,GBR,958.53
-Sweden,SWE,886.76
-Ireland,IRL,946.53
-Czech Republic,CZE,696.31
-Finland,FIN,661.94
-Romania,ROU,411.64
-Lithuania,LTU,490.67
-Montenegro,MNE,384.01
-Belarus,BLR,237.98
-Albania,ALB,296.45
-Croatia,HRV,353.29
-Greece,GRC,327.68
-Russia,RUS,165.36
-Georgia,GEO,109.06
-Moldova,MDA,103.36
-Armenia,ARM,74.20
+Country,ISO3,pension,pension2
+Luxembourg,LUX,5201.88,5201.88
+Spain,ESP,2709.37,2709.37
+Belgium,BEL,2698.28,2698.28
+Bulgaria,BGR,1486.00,1486.00
+Liechtenstein,LIE,2148.08,2148.08
+Bosnia and Herzegovina,BIH,1022.23,1022.23
+Cyprus,CYP,1507.12,1507.12
+France,FRA,1564.18,1564.18
+Iceland,ISL,1893.87,1893.87
+Denmark,DNK,1651.18,1651.18
+Switzerland,CHE,2148.06,2148.06
+Netherlands,NLD,1245.48,1245.48
+Norway,NOR,1412.74,1412.74
+Ukraine,UKR,482.03,482.03
+United Kingdom,GBR,958.53,958.53
+Sweden,SWE,886.76,886.76
+Ireland,IRL,946.53,946.53
+Czech Republic,CZE,696.31,696.31
+Finland,FIN,661.94,661.94
+Romania,ROU,411.64,411.64
+Lithuania,LTU,490.67,490.67
+Montenegro,MNE,384.01,384.01
+Belarus,BLR,237.98,237.98
+Albania,ALB,296.45,296.45
+Croatia,HRV,353.29,353.29
+Greece,GRC,327.68,327.68
+Russia,RUS,165.36,165.36
+Georgia,GEO,109.06,109.06
+Moldova,MDA,103.36,103.36
+Armenia,ARM,74.20,74.20

@@ -1,0 +1,13 @@
+time_period,time_identifier,geographic_level,country_code,country_name,version,characteristic_gender,school_type_group,school_type,pc_achieving_3_astar_to_a_alev,pc_achieving_aab_or_better_alev
+2018-01-01,Academic year,National,E92000001,England,Revised,Female,Independent schools,All independent schools,28.507,42.863
+2022-01-01,Academic year,National,E92000001,England,Revised,Female,Independent schools,All independent schools,31.343,46.265
+2018-01-01,Academic year,National,E92000001,England,Revised,Female,State-funded schools,All state-funded schools,10.841,19.3
+2022-01-01,Academic year,National,E92000001,England,Revised,Female,State-funded schools,All state-funded schools,13.925,23.78
+2018-01-01,Academic year,National,E92000001,England,Revised,Male,Independent schools,All independent schools,26.54,37.999
+2022-01-01,Academic year,National,E92000001,England,Revised,Male,Independent schools,All independent schools,32.55,45.304
+2018-01-01,Academic year,National,E92000001,England,Revised,Male,State-funded schools,All state-funded schools,12.854,20.33
+2022-01-01,Academic year,National,E92000001,England,Revised,Male,State-funded schools,All state-funded schools,15.456,23.741
+2018-01-01,Academic year,National,E92000001,England,Revised,All genders,Independent schools,All independent schools,27.55,40.497
+2022-01-01,Academic year,National,E92000001,England,Revised,All genders,Independent schools,All independent schools,31.927,45.798
+2018-01-01,Academic year,National,E92000001,England,Revised,All genders,State-funded schools,All state-funded schools,11.742,19.761
+2022-01-01,Academic year,National,E92000001,England,Revised,All genders,State-funded schools,All state-funded schools,14.632,23.762

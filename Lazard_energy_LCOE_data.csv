@@ -1,0 +1,15 @@
+﻿date,source,value,value2
+2009,Solar PV,359,0
+2023,Solar PV,60,0
+2009,Gas peaker,275,0
+2023,Gas peaker,168,0
+2009,Onshore wind,135,0
+2023,Onshore wind,50,0
+2009,Nuclear,123,0
+2023,Nuclear,180,0
+2009,Coal,111,0
+2023,Coal,117,0
+2009,Gas (combined cycle),83,0
+2023,Gas (combined cycle),70,0
+2009,Geothermal,76,0
+2023,Geothermal,82,0

@@ -1,0 +1,210 @@
+country,iso3,accessible
+Afghanistan,AFG,47
+Albania,ALB,81
+Algeria,DZA,79
+Andorra,AND,99
+Angola,AGO,40
+Antigua and Barbuda,ATG,38
+Armenia,ARM,99
+Australia,AUS,99
+Austria,AUT,99
+Azerbaijan,AZE,92
+Bahrain,BHR,99
+Bangladesh,BGD,83
+Barbados,BRB,98
+Belarus,BLR,99
+Belgium,BEL,99
+Belize,BLZ,97
+Benin,BEN,32
+Bermuda,BMU,99
+Bhutan,BTN,91
+Bolivia (Plurinational State of),BOL,87
+"Bonaire, Sint Eustatius and Saba",BES,99
+Bosnia and Herzegovina,BIH,91
+Botswana,BWA,83
+Brazil,BRA,99
+British Virgin Islands,VGB,98
+Brunei Darussalam,BRN,99
+Bulgaria,BGR,99
+Burkina Faso,BFA,21
+Burundi,BDI,11
+Cabo Verde,CPV,90
+Cambodia,KHM,48
+Cameroon,CMR,37
+Canada,CAN,99
+Cayman Islands,CYM,93
+Central African Republic,CAF,6
+Chad,TCD,10
+Chile,CHL,99
+China,CHN,97
+"China, Hong Kong SAR",HKG,99
+"China, Macao SAR",MAC,99
+Colombia,COL,97
+Cook Islands,COK,87
+Costa Rica,CRI,99
+Côte d'Ivoire,CIV,52
+Cuba,CUB,93
+Cyprus,CYP,99
+Czechia,CZE,98
+Democratic People's Republic of Korea,PRK,74
+Democratic Republic of the Congo,COD,12
+Denmark,DNK,99
+Djibouti,DJI,47
+Dominican Republic,DOM,96
+Ecuador,ECU,96
+Egypt,EGY,98
+El Salvador,SLV,93
+Estonia,EST,97
+Eswatini,SWZ,53
+Ethiopia,ETH,22
+Faroe Islands,FRO,99
+Fiji,FJI,94
+Finland,FIN,99
+France,FRA,99
+French Guiana,GUF,91
+French Polynesia,PYF,98
+Gabon,GAB,72
+Gambia,GMB,53
+Georgia,GEO,95
+Germany,DEU,99
+Ghana,GHA,46
+Gibraltar,GIB,99
+Greece,GRC,99
+Greenland,GRL,90
+Guadeloupe,GLP,99
+Guam,GUM,99
+Guatemala,GTM,88
+Guinea,GIN,38
+Guinea-Bissau,GNB,24
+Guyana,GUY,89
+Haiti,HTI,8
+Honduras,HND,90
+Hungary,HUN,99
+Iceland,ISL,99
+India,IND,72
+Indonesia,IDN,70
+Iran (Islamic Republic of),IRN,94
+Iraq,IRQ,94
+Ireland,IRL,96
+Isle of Man,IMN,99
+Israel,ISR,99
+Italy,ITA,98
+Jamaica,JAM,84
+Japan,JPN,99
+Jordan,JOR,98
+Kazakhstan,KAZ,-
+Kenya,KEN,40
+Kiribati,KIR,53
+Kuwait,KWT,99
+Kyrgyzstan,KGZ,79
+Lao People's Democratic Republic,LAO,84
+Latvia,LVA,97
+Lebanon,LBN,90
+Lesotho,LSO,30
+Liberia,LBR,18
+Libya,LBY,90
+Liechtenstein,LIE,99
+Lithuania,LTU,95
+Luxembourg,LUX,99
+Madagascar,MDG,25
+Malawi,MWI,18
+Malaysia,MYS,94
+Maldives,MDV,98
+Mali,MLI,41
+Malta,MLT,99
+Marshall Islands,MHL,80
+Martinique,MTQ,99
+Mauritania,MRT,65
+Mauritius,MUS,99
+Mayotte,MYT,96
+Mexico,MEX,96
+Monaco,MCO,99
+Mongolia,MNG,39
+Montenegro,MNE,98
+Montserrat,MSR,98
+Morocco,MAR,83
+Mozambique,MOZ,33
+Myanmar,MMR,64
+Namibia,NAM,63
+Nepal,NPL,71
+Netherlands (Kingdom of the),NLD,99
+New Caledonia,NCL,99
+New Zealand,NZL,99
+Niger,NER,17
+Nigeria,NGA,35
+Niue,NIU,94
+North Macedonia,MKD,96
+Northern Mariana Islands,MNP,94
+Norway,NOR,99
+Oman,OMN,91
+Pakistan,PAK,69
+Palau,PLW,90
+Panama,PAN,93
+Papua New Guinea,PNG,36
+Paraguay,PRY,98
+Peru,PER,88
+Philippines,PHL,83
+Poland,POL,89
+Portugal,PRT,97
+Puerto Rico,PRI,99
+Qatar,QAT,99
+Republic of Korea,KOR,99
+Republic of Moldova,MDA,75
+Réunion,REU,99
+Romania,ROU,82
+Russian Federation,RUS,76
+Rwanda,RWA,15
+Saint Barthelemy,BLM,99
+Saint Helena,SHN,99
+Saint Lucia,LCA,94
+Saint Martin (French part),MAF,99
+Samoa,WSM,97
+San Marino,SMR,99
+Sao Tome and Principe,STP,36
+Saudi Arabia,SAU,98
+Senegal,SEN,76
+Serbia,SRB,94
+Seychelles,SYC,95
+Sierra Leone,SLE,15
+Singapore,SGP,99
+Slovakia,SVK,99
+Slovenia,SVN,98
+Solomon Islands,SLB,-
+Somalia,SOM,38
+South Africa,ZAF,79
+South Sudan,SSD,3
+Spain,ESP,99
+Sri Lanka,LKA,79
+State of Palestine,PSE,94
+Sudan,SDN,41
+Suriname,SUR,96
+Sweden,SWE,99
+Switzerland,CHE,99
+Syrian Arab Republic,SYR,86
+Tajikistan,TJK,60
+Thailand,THA,99
+Timor-Leste,TLS,75
+Togo,TGO,19
+Tokelau,TKL,97
+Tonga,TON,98
+Trinidad and Tobago,TTO,99
+Tunisia,TUN,89
+Türkiye,TUR,93
+Turkmenistan,TKM,99
+Turks and Caicos Islands,TCA,47
+Tuvalu,TUV,91
+Uganda,UGA,19
+Ukraine,UKR,92
+United Arab Emirates,ARE,99
+United Kingdom,GBR,99
+United Republic of Tanzania,TZA,42
+United States of America,USA,99
+Uruguay,URY,99
+Uzbekistan,UZB,80
+Vanuatu,VUT,80
+Venezuela (Bolivarian Republic of),VEN,85
+Viet Nam,VNM,98
+Wallis and Futuna Islands,WLF,98
+Yemen,YEM,50
+Zambia,ZMB,32
+Zimbabwe,ZWE,30

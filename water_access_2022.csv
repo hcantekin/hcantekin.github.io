@@ -5,6 +5,7 @@ Algeria,DZA,79
 Andorra,AND,99
 Angola,AGO,40
 Antigua and Barbuda,ATG,38
+Argentina,ARG,0
 Armenia,ARM,99
 Australia,AUS,99
 Austria,AUT,99
@@ -92,7 +93,7 @@ Italy,ITA,98
 Jamaica,JAM,84
 Japan,JPN,99
 Jordan,JOR,98
-Kazakhstan,KAZ,-
+Kazakhstan,KAZ,0
 Kenya,KEN,40
 Kiribati,KIR,53
 Kuwait,KWT,99
@@ -169,7 +170,7 @@ Sierra Leone,SLE,15
 Singapore,SGP,99
 Slovakia,SVK,99
 Slovenia,SVN,98
-Solomon Islands,SLB,-
+Solomon Islands,SLB,0
 Somalia,SOM,38
 South Africa,ZAF,79
 South Sudan,SSD,3

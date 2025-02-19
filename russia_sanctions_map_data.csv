@@ -1,201 +1,201 @@
-﻿region,sanctions,iso3
-Afghanistan,N,AFG
-Albania,N,ALB
-Algeria,N,DZA
-Andorra,N,AND
-Angola,N,AGO
-Antigua and Barbuda,N,ATG
-Argentina,N,ARG
-Armenia,N,ARM
-Australia,Y,AUS
-Austria,Y,AUT
-Azerbaijan,N,AZE
-The Bahamas,N,BHS
-Bahrain,N,BHR
-Bangladesh,N,BGD
-Barbados,N,BRB
-Belarus,N,BLR
-Belgium,Y,BEL
-Belize,N,BLZ
-Benin,N,BEN
-Bhutan,N,BTN
-Bolivia,N,BOL
-Bosnia and Herzegovina,N,BIH
-Botswana,N,BWA
-Brazil,N,BRA
-Brunei,N,BRN
-Bulgaria,Y,BGR
-Burkina Faso,N,BFA
-Burundi,N,BDI
-Côte d'Ivoire,N,CIV
-Cape Verde,N,CPV
-Cambodia,N,KHM
-Cameroon,N,CMR
-Canada,Y,CAN
-Central African Republic,N,CAF
-Chad,N,TCD
-Chile,N,CHL
-China,N,CHN
-Colombia,N,COL
-Comoros,N,COM
-Congo (Republic of),N,COG
-Costa Rica,N,CRI
-Croatia,Y,HRV
-Cuba,N,CUB
-Cyprus,Y,CYP
-Czechia,Y,CZE
-Democratic Republic of Congo,N,COD
-Denmark,Y,DNK
-Djibouti,N,DJI
-Dominica,N,DMA
-Dominican Republic,N,DOM
-Ecuador,N,ECU
-Egypt,N,EGY
-El Salvador,N,SLV
-Equatorial Guinea,N,GNQ
-Eritrea,N,ERI
-Estonia,Y,EST
-Eswatini,N,SWZ
-Ethiopia,N,ETH
-Fiji,N,FJI
-Finland,Y,FIN
-France,Y,FRA
-Gabon,N,GAB
-The Gambia,N,GMB
-Georgia,Y,GEO
-Germany,Y,DEU
-Ghana,N,GHA
-Greece,Y,GRC
-Guatemala,N,GTM
-Guinea,N,GIN
-Guinea-Bissau,N,GNB
-Guyana,N,GUY
-Haiti,N,HTI
-Honduras,N,HND
-Hungary,Y,HUN
-Iceland,Y,ISL
-India,N,IND
-Indonesia,N,IDN
-Iran,N,IRN
-Iraq,N,IRQ
-Ireland,Y,IRL
-Israel,N,ISR
-Italy,Y,ITA
-Jamaica,N,JAM
-Japan,Y,JPN
-Jordan,N,JOR
-Kazakhstan,N,KAZ
-Kenya,N,KEN
-Kiribati,N,KIR
-Kuwait,N,KWT
-Kyrgyzstan,N,KGZ
-Laos,N,LAO
-Latvia,Y,LVA
-Lebanon,N,LBN
-Lesotho,N,LSO
-Liberia,N,LBR
-Libya,N,LBY
-Liechtenstein,Y,LIE
-Lithuania,Y,LTU
-Luxembourg,Y,LUX
-Madagascar,N,MDG
-Malawi,N,MWI
-Malaysia,N,MYS
-Maldives,N,MDV
-Mali,N,MLI
-Malta,Y,MLT
-Marshall Islands,N,MHL
-Mauritania,N,MRT
-Mauritius,N,MUS
-Mexico,N,MEX
-Micronesia,N,FSM
-Moldova,N,MDA
-Monaco,Y,MCO
-Mongolia,N,MNG
-Montenegro,Y,MNE
-Morocco,N,MAR
-Mozambique,N,MOZ
-Myanmar,N,MMR
-Namibia,N,NAM
-Nauru,N,NRU
-Nepal,N,NPL
-Netherlands,Y,NLD
-New Zealand,Y,NZL
-Nicaragua,N,NIC
-Niger,N,NER
-Nigeria,N,NGA
-North Macedonia,Y,MKD
-Norway,Y,NOR
-Oman,N,OMN
-Pakistan,N,PAK
-Palau,N,PLW
-Panama,N,PAN
-Papua New Guinea,N,PNG
-Paraguay,N,PRY
-Peru,N,PER
-Philippines,N,PHL
-Poland,Y,POL
-Portugal,Y,PRT
-Qatar,N,QAT
-Romania,Y,ROU
-Russia,N,RUS
-Rwanda,N,RWA
-Saint Kitts and Nevis,N,KNA
-Saint Lucia,N,LCA
-Saint Vincent and the Grenadines,N,VCT
-Samoa,N,WSM
-San Marino,N,SMR
-São Tomé and Príncipe,N,STP
-Saudi Arabia,N,SAU
-Senegal,N,SEN
-Serbia,N,SRB
-Seychelles,N,SYC
-Sierra Leone,N,SLE
-Singapore,Y,SGP
-Slovakia,Y,SVK
-Slovenia,Y,SVN
-Solomon Islands,N,SLB
-Somalia,N,SOM
-South Africa,N,ZAF
-South Korea,Y,KOR
-South Sudan,N,SSD
-Spain,Y,ESP
-Sri Lanka,N,LKA
-Sudan,N,SDN
-Suriname,N,SUR
-Sweden,Y,SWE
-Switzerland,Y,CHE
-Syria,N,SYR
-Tajikistan,N,TJK
-Tanzania,N,TZA
-Thailand,N,THA
-Timor-Leste,N,TLS
-Togo,N,TGO
-Tonga,N,TON
-Trinidad and Tobago,N,TTO
-Tunisia,N,TUN
-Turkey,N,TUR
-Turkmenistan,N,TKM
-Tuvalu,N,TUV
-Uganda,N,UGA
-Ukraine,Y,UKR
-United Arab Emirates,N,ARE
-United Kingdom,Y,GBR
-United States of America,Y,USA
-Uruguay,N,URY
-Uzbekistan,N,UZB
-Vanuatu,N,VUT
-Venezuela,N,VEN
-Vietnam,N,VNM
-Yemen,N,YEM
-Zambia,N,ZMB
-Zimbabwe,N,ZWE
-Greenland (Den.),Y,GRL
-Taiwan,Y,TWN
-Grenada,N,GRD
-Hong Kong,N,HKG
-Kosovo,Y,XKX
-Macau,N,MAC
-North Korea,N,PRK
-West Bank and Gaza,N,PSE
-Western Sahara,N,ESH
+﻿region,saNo sanctionsctioNo sanctionss,iso3
+Afghanistan,No sanctions,AFG
+Albania,No sanctions,ALB
+Algeria,No sanctions,DZA
+Andorra,No sanctions,AND
+Angola,No sanctions,AGO
+Antigua and Barbuda,No sanctions,ATG
+Argentina,No sanctions,ARG
+Armenia,No sanctions,ARM
+Australia,Sanctions,AUS
+Austria,Sanctions,AUT
+Azerbaijan,No sanctions,AZE
+The Bahamas,No sanctions,BHS
+Bahrain,No sanctions,BHR
+Bangladesh,No sanctions,BGD
+Barbados,No sanctions,BRB
+Belarus,No sanctions,BLR
+Belgium,Sanctions,BEL
+Belize,No sanctions,BLZ
+Benin,No sanctions,BEN
+Bhutan,No sanctions,BTN
+Bolivia,No sanctions,BOL
+Bosnia and Herzegovina,No sanctions,BIH
+Botswana,No sanctions,BWA
+Brazil,No sanctions,BRA
+Brunei,No sanctions,BRN
+Bulgaria,Sanctions,BGR
+Burkina Faso,No sanctions,BFA
+Burundi,No sanctions,BDI
+Côte d'Ivoire,No sanctions,CIV
+Cape Verde,No sanctions,CPV
+Cambodia,No sanctions,KHM
+Cameroon,No sanctions,CMR
+Canada,Sanctions,CAN
+Central African Republic,No sanctions,CAF
+Chad,No sanctions,TCD
+Chile,No sanctions,CHL
+China,No sanctions,CHN
+Colombia,No sanctions,COL
+Comoros,No sanctions,COM
+Congo (Republic of),No sanctions,COG
+Costa Rica,No sanctions,CRI
+Croatia,Sanctions,HRV
+Cuba,No sanctions,CUB
+Cyprus,Sanctions,CYP
+Czechia,Sanctions,CZE
+Democratic Republic of Congo,No sanctions,COD
+Denmark,Sanctions,DNK
+Djibouti,No sanctions,DJI
+Dominica,No sanctions,DMA
+Dominican Republic,No sanctions,DOM
+Ecuador,No sanctions,ECU
+Egypt,No sanctions,EGY
+El Salvador,No sanctions,SLV
+Equatorial Guinea,No sanctions,GNQ
+Eritrea,No sanctions,ERI
+Estonia,Sanctions,EST
+Eswatini,No sanctions,SWZ
+Ethiopia,No sanctions,ETH
+Fiji,No sanctions,FJI
+Finland,Sanctions,FIN
+France,Sanctions,FRA
+Gabon,No sanctions,GAB
+The Gambia,No sanctions,GMB
+Georgia,Sanctions,GEO
+Germany,Sanctions,DEU
+Ghana,No sanctions,GHA
+Greece,Sanctions,GRC
+Guatemala,No sanctions,GTM
+Guinea,No sanctions,GIN
+Guinea-Bissau,No sanctions,GNB
+Guyana,No sanctions,GUY
+Haiti,No sanctions,HTI
+Honduras,No sanctions,HND
+Hungary,Sanctions,HUN
+Iceland,Sanctions,ISL
+India,No sanctions,IND
+Indonesia,No sanctions,IDN
+Iran,No sanctions,IRN
+Iraq,No sanctions,IRQ
+Ireland,Sanctions,IRL
+Israel,No sanctions,ISR
+Italy,Sanctions,ITA
+Jamaica,No sanctions,JAM
+Japan,Sanctions,JPN
+Jordan,No sanctions,JOR
+Kazakhstan,No sanctions,KAZ
+Kenya,No sanctions,KEN
+Kiribati,No sanctions,KIR
+Kuwait,No sanctions,KWT
+Kyrgyzstan,No sanctions,KGZ
+Laos,No sanctions,LAO
+Latvia,Sanctions,LVA
+Lebanon,No sanctions,LBN
+Lesotho,No sanctions,LSO
+Liberia,No sanctions,LBR
+Libya,No sanctions,LBY
+Liechtenstein,Sanctions,LIE
+Lithuania,Sanctions,LTU
+Luxembourg,Sanctions,LUX
+Madagascar,No sanctions,MDG
+Malawi,No sanctions,MWI
+Malaysia,No sanctions,MYS
+Maldives,No sanctions,MDV
+Mali,No sanctions,MLI
+Malta,Sanctions,MLT
+Marshall Islands,No sanctions,MHL
+Mauritania,No sanctions,MRT
+Mauritius,No sanctions,MUS
+Mexico,No sanctions,MEX
+Micronesia,No sanctions,FSM
+Moldova,No sanctions,MDA
+Monaco,Sanctions,MCO
+Mongolia,No sanctions,MNG
+Montenegro,Sanctions,MNE
+Morocco,No sanctions,MAR
+Mozambique,No sanctions,MOZ
+Myanmar,No sanctions,MMR
+Namibia,No sanctions,NAM
+Nauru,No sanctions,NRU
+Nepal,No sanctions,NPL
+Netherlands,Sanctions,NLD
+New Zealand,Sanctions,NZL
+Nicaragua,No sanctions,NIC
+Niger,No sanctions,NER
+Nigeria,No sanctions,NGA
+North Macedonia,Sanctions,MKD
+Norway,Sanctions,NOR
+Oman,No sanctions,OMN
+Pakistan,No sanctions,PAK
+Palau,No sanctions,PLW
+Panama,No sanctions,PAN
+Papua New Guinea,No sanctions,PNG
+Paraguay,No sanctions,PRY
+Peru,No sanctions,PER
+Philippines,No sanctions,PHL
+Poland,Sanctions,POL
+Portugal,Sanctions,PRT
+Qatar,No sanctions,QAT
+Romania,Sanctions,ROU
+Russia,No sanctions,RUS
+Rwanda,No sanctions,RWA
+Saint Kitts and Nevis,No sanctions,KNA
+Saint Lucia,No sanctions,LCA
+Saint Vincent and the Grenadines,No sanctions,VCT
+Samoa,No sanctions,WSM
+San Marino,No sanctions,SMR
+São Tomé and Príncipe,No sanctions,STP
+Saudi Arabia,No sanctions,SAU
+Senegal,No sanctions,SEN
+Serbia,No sanctions,SRB
+Seychelles,No sanctions,SYC
+Sierra Leone,No sanctions,SLE
+Singapore,Sanctions,SGP
+Slovakia,Sanctions,SVK
+Slovenia,Sanctions,SVN
+Solomon Islands,No sanctions,SLB
+Somalia,No sanctions,SOM
+South Africa,No sanctions,ZAF
+South Korea,Sanctions,KOR
+South Sudan,No sanctions,SSD
+Spain,Sanctions,ESP
+Sri Lanka,No sanctions,LKA
+Sudan,No sanctions,SDN
+Suriname,No sanctions,SUR
+Sweden,Sanctions,SWE
+Switzerland,Sanctions,CHE
+Syria,No sanctions,SYR
+Tajikistan,No sanctions,TJK
+Tanzania,No sanctions,TZA
+Thailand,No sanctions,THA
+Timor-Leste,No sanctions,TLS
+Togo,No sanctions,TGO
+Tonga,No sanctions,TON
+Trinidad and Tobago,No sanctions,TTO
+Tunisia,No sanctions,TUN
+Turkey,No sanctions,TUR
+Turkmenistan,No sanctions,TKM
+Tuvalu,No sanctions,TUV
+Uganda,No sanctions,UGA
+Ukraine,Sanctions,UKR
+United Arab Emirates,No sanctions,ARE
+United Kingdom,Sanctions,GBR
+United States of America,Sanctions,USA
+Uruguay,No sanctions,URY
+Uzbekistan,No sanctions,UZB
+Vanuatu,No sanctions,VUT
+Venezuela,No sanctions,VEN
+Vietnam,No sanctions,VNM
+Yemen,No sanctions,YEM
+Zambia,No sanctions,ZMB
+Zimbabwe,No sanctions,ZWE
+Greenland (Den.),Sanctions,GRL
+Taiwan,Sanctions,TWN
+Grenada,No sanctions,GRD
+Hong Kong,No sanctions,HKG
+Kosovo,Sanctions,XKX
+Macau,No sanctions,MAC
+North Korea,No sanctions,PRK
+West Bank and Gaza,No sanctions,PSE
+Western Sahara,No sanctions,ESH

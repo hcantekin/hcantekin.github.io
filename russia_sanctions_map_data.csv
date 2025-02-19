@@ -1,0 +1,201 @@
+﻿region,sanctions,iso3
+Afghanistan,N,AFG
+Albania,N,ALB
+Algeria,N,DZA
+Andorra,N,AND
+Angola,N,AGO
+Antigua and Barbuda,N,ATG
+Argentina,N,ARG
+Armenia,N,ARM
+Australia,Y,AUS
+Austria,Y,AUT
+Azerbaijan,N,AZE
+The Bahamas,N,BHS
+Bahrain,N,BHR
+Bangladesh,N,BGD
+Barbados,N,BRB
+Belarus,N,BLR
+Belgium,Y,BEL
+Belize,N,BLZ
+Benin,N,BEN
+Bhutan,N,BTN
+Bolivia,N,BOL
+Bosnia and Herzegovina,N,BIH
+Botswana,N,BWA
+Brazil,N,BRA
+Brunei,N,BRN
+Bulgaria,Y,BGR
+Burkina Faso,N,BFA
+Burundi,N,BDI
+Côte d'Ivoire,N,CIV
+Cape Verde,N,CPV
+Cambodia,N,KHM
+Cameroon,N,CMR
+Canada,Y,CAN
+Central African Republic,N,CAF
+Chad,N,TCD
+Chile,N,CHL
+China,N,CHN
+Colombia,N,COL
+Comoros,N,COM
+Congo (Republic of),N,COG
+Costa Rica,N,CRI
+Croatia,Y,HRV
+Cuba,N,CUB
+Cyprus,Y,CYP
+Czechia,Y,CZE
+Democratic Republic of Congo,N,COD
+Denmark,Y,DNK
+Djibouti,N,DJI
+Dominica,N,DMA
+Dominican Republic,N,DOM
+Ecuador,N,ECU
+Egypt,N,EGY
+El Salvador,N,SLV
+Equatorial Guinea,N,GNQ
+Eritrea,N,ERI
+Estonia,Y,EST
+Eswatini,N,SWZ
+Ethiopia,N,ETH
+Fiji,N,FJI
+Finland,Y,FIN
+France,Y,FRA
+Gabon,N,GAB
+The Gambia,N,GMB
+Georgia,Y,GEO
+Germany,Y,DEU
+Ghana,N,GHA
+Greece,Y,GRC
+Guatemala,N,GTM
+Guinea,N,GIN
+Guinea-Bissau,N,GNB
+Guyana,N,GUY
+Haiti,N,HTI
+Honduras,N,HND
+Hungary,Y,HUN
+Iceland,Y,ISL
+India,N,IND
+Indonesia,N,IDN
+Iran,N,IRN
+Iraq,N,IRQ
+Ireland,Y,IRL
+Israel,N,ISR
+Italy,Y,ITA
+Jamaica,N,JAM
+Japan,Y,JPN
+Jordan,N,JOR
+Kazakhstan,N,KAZ
+Kenya,N,KEN
+Kiribati,N,KIR
+Kuwait,N,KWT
+Kyrgyzstan,N,KGZ
+Laos,N,LAO
+Latvia,Y,LVA
+Lebanon,N,LBN
+Lesotho,N,LSO
+Liberia,N,LBR
+Libya,N,LBY
+Liechtenstein,Y,LIE
+Lithuania,Y,LTU
+Luxembourg,Y,LUX
+Madagascar,N,MDG
+Malawi,N,MWI
+Malaysia,N,MYS
+Maldives,N,MDV
+Mali,N,MLI
+Malta,Y,MLT
+Marshall Islands,N,MHL
+Mauritania,N,MRT
+Mauritius,N,MUS
+Mexico,N,MEX
+Micronesia,N,FSM
+Moldova,N,MDA
+Monaco,Y,MCO
+Mongolia,N,MNG
+Montenegro,Y,MNE
+Morocco,N,MAR
+Mozambique,N,MOZ
+Myanmar,N,MMR
+Namibia,N,NAM
+Nauru,N,NRU
+Nepal,N,NPL
+Netherlands,Y,NLD
+New Zealand,Y,NZL
+Nicaragua,N,NIC
+Niger,N,NER
+Nigeria,N,NGA
+North Macedonia,Y,MKD
+Norway,Y,NOR
+Oman,N,OMN
+Pakistan,N,PAK
+Palau,N,PLW
+Panama,N,PAN
+Papua New Guinea,N,PNG
+Paraguay,N,PRY
+Peru,N,PER
+Philippines,N,PHL
+Poland,Y,POL
+Portugal,Y,PRT
+Qatar,N,QAT
+Romania,Y,ROU
+Russia,N,RUS
+Rwanda,N,RWA
+Saint Kitts and Nevis,N,KNA
+Saint Lucia,N,LCA
+Saint Vincent and the Grenadines,N,VCT
+Samoa,N,WSM
+San Marino,N,SMR
+São Tomé and Príncipe,N,STP
+Saudi Arabia,N,SAU
+Senegal,N,SEN
+Serbia,N,SRB
+Seychelles,N,SYC
+Sierra Leone,N,SLE
+Singapore,Y,SGP
+Slovakia,Y,SVK
+Slovenia,Y,SVN
+Solomon Islands,N,SLB
+Somalia,N,SOM
+South Africa,N,ZAF
+South Korea,Y,KOR
+South Sudan,N,SSD
+Spain,Y,ESP
+Sri Lanka,N,LKA
+Sudan,N,SDN
+Suriname,N,SUR
+Sweden,Y,SWE
+Switzerland,Y,CHE
+Syria,N,SYR
+Tajikistan,N,TJK
+Tanzania,N,TZA
+Thailand,N,THA
+Timor-Leste,N,TLS
+Togo,N,TGO
+Tonga,N,TON
+Trinidad and Tobago,N,TTO
+Tunisia,N,TUN
+Turkey,N,TUR
+Turkmenistan,N,TKM
+Tuvalu,N,TUV
+Uganda,N,UGA
+Ukraine,Y,UKR
+United Arab Emirates,N,ARE
+United Kingdom,Y,GBR
+United States of America,Y,USA
+Uruguay,N,URY
+Uzbekistan,N,UZB
+Vanuatu,N,VUT
+Venezuela,N,VEN
+Vietnam,N,VNM
+Yemen,N,YEM
+Zambia,N,ZMB
+Zimbabwe,N,ZWE
+Greenland (Den.),Y,GRL
+Taiwan,Y,TWN
+Grenada,N,GRD
+Hong Kong,N,HKG
+Kosovo,Y,XKX
+Macau,N,MAC
+North Korea,N,PRK
+West Bank and Gaza,N,PSE
+Western Sahara,N,ESH

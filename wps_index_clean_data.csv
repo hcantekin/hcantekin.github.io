@@ -1,0 +1,178 @@
+rank,country,index,iso3
+1,Denmark,0.932,DNK
+2,Switzerland,0.928,CHE
+3,Sweden,0.926,SWE
+4,Finland,0.924,FIN
+4,Iceland,0.924,ISL
+4,Luxembourg,0.924,LUX
+7,Norway,0.92,NOR
+8,Austria,0.911,AUT
+9,Netherlands,0.908,NLD
+10,New Zealand,0.904,NZL
+11,Australia,0.902,AUS
+11,Belgium,0.902,BEL
+13,Estonia,0.892,EST
+13,Ireland,0.892,IRL
+15,Singapore,0.887,SGP
+16,Lithuania,0.886,LTU
+17,Canada,0.885,CAN
+18,Czechia,0.884,CZE
+19,Portugal,0.877,PRT
+20,Latvia,0.872,LVA
+21,Germany,0.871,DEU
+22,United Arab Emirates,0.868,ARE
+23,Japan,0.866,JPN
+24,France,0.864,FRA
+25,Croatia,0.862,HRV
+26,United Kingdom,0.86,GBR
+27,Poland,0.859,POL
+27,Spain,0.859,ESP
+29,Slovakia,0.856,SVK
+30,South Korea,0.848,KOR
+31,Malta,0.846,MLT
+32,Hungary,0.835,HUN
+32,Serbia,0.835,SRB
+34,Italy,0.827,ITA
+35,Bulgaria,0.826,BGR
+36,Slovenia,0.824,SVN
+37,United States,0.823,USA
+38,Taiwan,0.818,TWN
+39,Georgia,0.812,GEO
+39,Hong Kong,0.812,HKG
+41,Montenegro,0.808,MNE
+42,Romania,0.8,ROU
+43,Seychelles,0.799,SYC
+44,North Macedonia,0.798,MKD
+45,Albania,0.796,ALB
+46,Mongolia,0.794,MNG
+47,Barbados,0.779,BRB
+48,Armenia,0.772,ARM
+49,Guyana,0.769,GUY
+50,Argentina,0.768,ARG
+51,Greece,0.766,GRC
+52,Thailand,0.764,THA
+53,Moldova,0.758,MDA
+54,Panama,0.757,PAN
+55,Bosnia and Herzegovina,0.754,BIH
+56,Bahrain,0.752,BHR
+56,Russian Federation,0.752,RUS
+58,Turkmenistan,0.75,TKM
+59,Uruguay,0.748,URY
+60,Costa Rica,0.743,CRI
+60,Sri Lanka,0.743,LKA
+61,Kuwait,0.742,KWT
+63,Cyprus,0.739,CYP
+64,Cabo Verde,0.738,CPV
+64,Fiji,0.738,FJI
+64,Malaysia,0.738,MYS
+67,Saudi Arabia,0.737,SAU
+68,Chile,0.736,CHL
+69,Belarus,0.733,BLR
+70,Kazakhstan,0.729,KAZ
+71,Trinidad and Tobago,0.721,TTO
+72,Maldives,0.72,MDV
+73,Nicaragua,0.717,NIC
+73,Peru,0.717,PER
+75,Oman,0.715,OMN
+76,Samoa,0.711,WSM
+77,Jamaica,0.71,JAM
+78,Viet Nam,0.707,VNM
+79,Lao PDR,0.704,LAO
+80,Israel,0.703,ISR
+80,Qatar,0.703,QAT
+82,Bhutan,0.7,BTN
+82,China,0.7,CHN
+82,Indonesia,0.7,IDN
+85,Tonga,0.697,TON
+86,Bolivia,0.696,BOL
+87,Suriname,0.694,SUR
+88,Puerto Rico,0.692,PRI
+89,Paraguay,0.691,PRY
+90,Tajikistan,0.69,TJK
+91,South Africa,0.688,ZAF
+92,Jordan,0.679,JOR
+93,Mauritius,0.678,MUS
+94,Uzbekistan,0.674,UZB
+95,Kyrgyzstan,0.673,KGZ
+96,Tunisia,0.669,TUN
+97,Azerbaijan,0.667,AZE
+98,Dominican Republic,0.666,DOM
+99,Türkiye,0.665,TUR
+100,Kosovo ,0.664,SRB
+100,Solomon Islands,0.664,SLB
+100,Timor-Leste,0.664,TLS
+103,Rwanda,0.663,RWA
+104,Botswana,0.659,BWA
+105,Belize,0.657,BLZ
+106,Ecuador,0.655,ECU
+107,Tanzania,0.652,TZA
+108,Ghana,0.651,GHA
+109,Sao Tome and Principe,0.648,STP
+110,Cambodia,0.645,KHM
+110,Egypt,0.645,EGY
+112,Nepal,0.644,NPL
+112,Vanuatu,0.644,VUT
+114,Morocco,0.637,MAR
+115,Brazil,0.63,BRA
+116,Venezuela,0.628,VEN
+117,Ukraine,0.626,UKR
+118,Algeria,0.622,DZA
+119,Equatorial Guinea,0.619,GNQ
+119,Senegal,0.619,SEN
+121,Philippines,0.612,PHL
+122,Honduras,0.61,HND
+122,Libya,0.61,LBY
+122,Namibia,0.61,NAM
+125,Lesotho,0.605,LSO
+126,Zimbabwe,0.604,ZWE
+127,Angola,0.598,AGO
+128,India,0.595,IND
+128,Lebanon,0.595,LBN
+128,Togo,0.595,TGO
+131,Bangladesh,0.593,BGD
+131,Gabon,0.593,GAB
+132,Colombia,0.582,COL
+134,Mozambique,0.58,MOZ
+135,Gambia,0.575,GMB
+136,Côte d'Ivoire,0.573,CIV
+137,Guatemala,0.569,GTM
+138,Benin,0.566,BEN
+138,El Salvador,0.566,SLV
+140,Iran,0.557,IRN
+141,Zambia,0.556,ZMB
+142,Mexico,0.551,MEX
+143,Uganda,0.544,UGA
+144,Sierra Leone,0.543,SLE
+145,Guinea,0.539,GIN
+146,Ethiopia,0.521,ETH
+146,Malawi,0.521,MWI
+148,Comoros,0.519,COM
+149,Kenya,0.511,KEN
+150,Congo,0.507,COG
+151,Mauritania,0.506,MRT
+152,Madagascar,0.505,MDG
+153,Djibouti,0.504,DJI
+154,Liberia,0.5,LBR
+155,Papua New Guinea,0.487,PNG
+156,Guinea-Bissau,0.483,GNB
+156,Palestine ,0.483,PSE
+158,Burkina Faso,0.481,BFA
+158,Mali,0.481,MLI
+158,Pakistan,0.481,PAK
+161,Cameroon,0.466,CMR
+162,Nigeria,0.465,NGA
+163,Chad,0.462,TCD
+164,Sudan,0.46,SDN
+165,Myanmar,0.451,MMR
+166,Niger,0.442,NER
+167,Haiti,0.431,HTI
+168,Iraq,0.424,IRQ
+169,Somalia,0.417,SOM
+170,Eswatini,0.415,SWZ
+171,Syrian Arab Republic,0.407,SYR
+172,Burundi,0.394,BDI
+173,South Sudan,0.388,SSD
+174,Democratic Republic of the Congo,0.384,
+175,Central African Republic,0.378,CAF
+176,Yemen,0.287,YEM
+177,Afghanistan,0.286,AFG

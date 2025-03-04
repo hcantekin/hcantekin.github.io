@@ -1,0 +1,178 @@
+﻿rank,country,representation,violence ,iso3
+1,Denmark,43.6,3.0,DNK
+2,Switzerland,39.3,2.0,CHE
+3,Sweden,46.4,6.0,SWE
+4,Finland,45.5,8.0,FIN
+4,Iceland,47.6,3.0,ISL
+4,Luxembourg,35.0,4.0,LUX
+7,Norway,46.2,4.0,NOR
+8,Austria,40.6,4.0,AUT
+9,Netherlands,37.8,5.0,NLD
+10,New Zealand,50.0,4.0,NZL
+11,Australia,44.5,3.0,AUS
+11,Belgium,43.3,5.0,BEL
+13,Estonia,27.7,4.0,EST
+13,Ireland,27.4,3.0,IRL
+15,Singapore,29.1,2.0,SGP
+16,Lithuania,28.4,5.0,LTU
+17,Canada,35.2,3.0,CAN
+18,Czechia,23.8,4.0,CZE
+19,Portugal,36.1,4.0,PRT
+20,Latvia,29.0,6.0,LVA
+21,Germany,35.5,3.0,DEU
+22,United Arab Emirates,50.0,17.9,ARE
+23,Japan,15.5,4.0,JPN
+24,France,36.8,5.0,FRA
+25,Croatia,31.8,4.0,HRV
+26,United Kingdom,31.5,4.0,GBR
+27,Poland,27.5,3.0,POL
+27,Spain,41.0,3.0,ESP
+29,Slovakia,22.0,6.0,SVK
+30,South Korea,19.1,8.0,KOR
+31,Malta,27.8,4.0,MLT
+32,Hungary,13.1,6.0,HUN
+32,Serbia,34.8,4.0,SRB
+34,Italy,33.0,4.0,ITA
+35,Bulgaria,24.2,6.0,BGR
+36,Slovenia,31.5,3.0,SVN
+37,United States,27.9,6.0,USA
+38,Taiwan,42.5,7.0,TWN
+39,Georgia,18.4,3.0,GEO
+39,Hong Kong,17.1,3.0,HKG
+41,Montenegro,28.4,4.0,MNE
+42,Romania,18.9,7.0,ROU
+43,Seychelles,22.9,11.7,SYC
+44,North Macedonia,42.5,4.0,MKD
+45,Albania,35.7,6.0,ALB
+46,Mongolia,17.1,12.0,MNG
+47,Barbados,32.7,27.0,BRB
+48,Armenia,35.5,5.0,ARM
+49,Guyana,36.6,10.0,GUY
+50,Argentina,44.4,4.0,ARG
+51,Greece,21.0,5.0,GRC
+52,Thailand,14.4,9.0,THA
+53,Moldova,38.6,9.0,MDA
+54,Panama,22.5,8.0,PAN
+55,Bosnia and Herzegovina,17.5,3.0,BIH
+56,Bahrain,22.5,18.1,BHR
+56,Russian Federation,17.8,6.0,RUS
+58,Turkmenistan,25.9,7.2,TKM
+59,Uruguay,26.9,4.0,URY
+60,Costa Rica,47.4,7.0,CRI
+60,Sri Lanka,5.3,4.0,LKA
+61,Kuwait,6.3,18.1,KWT
+63,Cyprus,14.3,3.0,CYP
+64,Cabo Verde,41.7,11.0,CPV
+64,Fiji,10.9,23.0,FJI
+64,Malaysia,14.7,13.1,MYS
+67,Saudi Arabia,19.9,18.0,SAU
+68,Chile,32.7,6.0,CHL
+69,Belarus,34.7,6.0,BLR
+70,Kazakhstan,25.6,6.0,KAZ
+71,Trinidad and Tobago,33.8,8.0,TTO
+72,Maldives,4.6,6.0,MDV
+73,Nicaragua,51.6,6.0,NIC
+73,Peru,38.8,11.0,PER
+75,Oman,9.9,18.1,OMN
+76,Samoa,13.0,18.0,WSM
+77,Jamaica,31.0,7.0,JAM
+78,Viet Nam,30.3,10.0,VNM
+79,Lao PDR,22.0,8.0,LAO
+80,Israel,24.2,6.0,ISR
+80,Qatar,4.4,18.0,QAT
+82,Bhutan,16.9,9.0,BTN
+82,China,24.9,8.0,CHN
+82,Indonesia,21.6,9.0,IDN
+85,Tonga,7.1,17.0,TON
+86,Bolivia,48.2,18.0,BOL
+87,Suriname,29.4,8.0,SUR
+88,Puerto Rico,28.2,6.8,PRI
+89,Paraguay,16.8,6.0,PRY
+90,Tajikistan,26.6,14.0,TJK
+91,South Africa,46.1,13.0,ZAF
+92,Jordan,13.3,13.0,JOR
+93,Mauritius,20.0,18.4,MUS
+94,Uzbekistan,30.0,7.3,UZB
+95,Kyrgyzstan,20.0,13.0,KGZ
+96,Tunisia,16.2,10.0,TUN
+97,Azerbaijan,18.6,5.0,AZE
+98,Dominican Republic,25.7,10.0,DOM
+99,Türkiye,17.4,12.0,TUR
+100,Kosovo ,35.8,5.0,SRB
+100,Solomon Islands,8.0,28.0,SLB
+100,Timor-Leste,40.0,28.0,TLS
+103,Rwanda,54.7,23.0,RWA
+104,Botswana,11.1,17.0,BWA
+105,Belize,23.9,8.0,BLZ
+106,Ecuador,38.7,8.0,ECU
+107,Tanzania,37.4,24.0,TZA
+108,Ghana,14.5,10.0,GHA
+109,Sao Tome and Principe,14.5,18.0,STP
+110,Cambodia,19.3,9.0,KHM
+110,Egypt,22.9,15.0,EGY
+112,Nepal,33.9,11.0,NPL
+112,Vanuatu,1.9,29.0,VUT
+114,Morocco,21.4,10.0,MAR
+115,Brazil,17.7,6.0,BRA
+116,Venezuela,22.1,8.0,VEN
+117,Ukraine,20.4,9.0,UKR
+118,Algeria,6.8,9.4,DZA
+119,Equatorial Guinea,27.0,29.0,GNQ
+119,Senegal,46.1,12.0,SEN
+121,Philippines,27.5,6.0,PHL
+122,Honduras,27.3,7.0,HND
+122,Libya,16.5,18.3,LBY
+122,Namibia,35.6,16.0,NAM
+125,Lesotho,26.0,16.0,LSO
+126,Zimbabwe,33.6,18.0,ZWE
+127,Angola,33.6,25.0,AGO
+128,India,14.7,18.0,IND
+128,Lebanon,6.3,8.9,LBN
+128,Togo,19.8,13.0,TGO
+131,Bangladesh,20.9,23.0,BGD
+131,Gabon,17.6,22.0,GAB
+132,Colombia,29.4,12.0,COL
+134,Mozambique,43.2,16.0,MOZ
+135,Gambia,8.6,10.0,GMB
+136,Côte d'Ivoire,15.9,16.0,CIV
+137,Guatemala,19.4,7.0,GTM
+138,Benin,25.7,15.0,BEN
+138,El Salvador,27.4,6.0,SLV
+140,Iran,5.6,18.0,IRN
+141,Zambia,15.0,28.0,ZMB
+142,Mexico,50.1,10.0,MEX
+143,Uganda,33.8,26.0,UGA
+144,Sierra Leone,13.0,20.0,SLE
+145,Guinea,29.6,21.0,GIN
+146,Ethiopia,38.8,27.0,ETH
+146,Malawi,20.7,17.0,MWI
+148,Comoros,16.7,8.0,COM
+149,Kenya,24.6,23.0,KEN
+150,Congo,15.9,33.8,COG
+151,Mauritania,20.3,19.7,MRT
+152,Madagascar,17.8,35.0,MDG
+153,Djibouti,23.1,26.9,DJI
+154,Liberia,9.7,27.0,LBR
+155,Papua New Guinea,1.7,31.0,PNG
+156,Guinea-Bissau,13.7,19.4,GNB
+156,Palestine ,21.2,19.0,PSE
+158,Burkina Faso,16.9,11.0,BFA
+158,Mali,28.6,18.0,MLI
+158,Pakistan,20.1,16.0,PAK
+161,Cameroon,31.1,22.0,CMR
+162,Nigeria,4.2,13.0,NGA
+163,Chad,25.9,16.0,TCD
+164,Sudan,22.1,17.0,SDN
+165,Myanmar,15.0,11.0,MMR
+166,Niger,30.7,13.0,NER
+167,Haiti,2.5,12.0,HTI
+168,Iraq,28.9,45.3,IRQ
+169,Somalia,20.7,21.2,SOM
+170,Eswatini,22.1,18.0,SWZ
+171,Syrian Arab Republic,10.8,23.0,SYR
+172,Burundi,38.9,22.0,BDI
+173,South Sudan,32.3,27.0,SSD
+174,Democratic Republic of the Congo,14.8,36.0,COD
+175,Central African Republic,12.9,21.0,CAF
+176,Yemen,0.3,18.2,YEM
+177,Afghanistan,27.2,35.0,AFG

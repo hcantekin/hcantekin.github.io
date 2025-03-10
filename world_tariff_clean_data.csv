@@ -1,0 +1,154 @@
+country,value,iso3
+Afghanistan,999.0,AFG
+Albania,3.5,ALB
+Algeria,18.9,DZA
+Angola,11.0,AGO
+Antigua and Barbuda,9.9,ATG
+Argentina,13.4,ARG
+Armenia,6.3,ARM
+Australia,2.4,AUS
+Azerbaijan,8.2,AZE
+"Bahrain, Kingdom of",4.5,BHR
+Bangladesh,14.1,BGD
+Barbados,13.9,BRB
+Belarus,6.6,BLR
+Belize,11.9,BLZ
+Benin,12.0,BEN
+Bhutan,9.3,BTN
+"Bolivia, Plurinational State of",11.8,BOL
+Bosnia and Herzegovina,6.2,BIH
+Botswana,7.5,BWA
+Brazil,11.2,BRA
+Brunei Darussalam,0.5,BRN
+Burkina Faso,12.0,BFA
+Burundi,14.0,BDI
+Cabo Verde,11.9,CPV
+Cambodia,9.4,KHM
+Cameroon,18.1,CMR
+Canada,3.8,CAN
+Central African Republic,18.1,CAF
+Chad,18.1,TCD
+Chile,6.0,CHL
+China,7.5,CHN
+Colombia,6.7,COL
+Comoros,15.1,COM
+Congo,18.1,COG
+Cook Islands,3.4,COK
+Costa Rica,5.5,CRI
+Côte d'Ivoire,12.1,CIV
+Cuba,4.4,CUB
+Democratic Republic of the Congo,999.0,
+Djibouti,999.0,DJI
+Dominica,10.7,DMA
+Dominican Republic,7.6,DOM
+Ecuador,11.1,ECU
+Egypt,999.0,EGY
+El Salvador,5.7,SLV
+Eswatini,7.5,SWZ
+European Union,5.0,
+Fiji,8.2,FJI
+Gabon,18.1,GAB
+The Gambia,12.0,GMB
+Georgia,1.5,GEO
+Ghana,12.0,GHA
+Grenada,11.0,GRD
+Guatemala,5.6,GTM
+Guinea,12.0,GIN
+Guinea-Bissau,12.0,GNB
+Guyana,11.7,GUY
+Haiti,4.9,HTI
+Honduras,5.7,HND
+"Hong Kong, China",0.0,
+Iceland,3.3,ISL
+India,17.0,IND
+Indonesia,8.0,IDN
+Israel,1.3,ISR
+Jamaica,8.5,JAM
+Japan,3.7,JPN
+Jordan,4.0,JOR
+Kazakhstan,5.6,KAZ
+Kenya,13.8,KEN
+Kiribati,0.0,KIR
+"Korea, Republic of",13.4,KOR
+"Kuwait, the State of",4.7,
+Kyrgyz Republic,6.4,KGZ
+Lao People's Democratic Republic,8.6,LAO
+Lebanese Republic,11.3,LBN
+Lesotho,7.5,LSO
+Liberia,12.0,LBR
+Libya,4.5,LBY
+"Macao, China",0.0,
+Madagascar,12.0,MDG
+Malawi,12.2,MWI
+Malaysia,5.6,MYS
+Maldives,11.6,MDV
+Mali,12.0,MLI
+Mauritania,12.0,MRT
+Mauritius,0.8,MUS
+Mexico,6.8,MEX
+"Micronesia, Federated States of",5.0,FSM
+"Moldova, Republic of",5.3,MDA
+Mongolia,5.2,MNG
+Montenegro,3.7,MNE
+Morocco,14.0,MAR
+Mozambique,10.3,MOZ
+Myanmar,7.6,MMR
+Namibia,7.5,NAM
+Nauru,12.6,NRU
+Nepal,12.7,NPL
+New Zealand,1.9,NZL
+Nicaragua,5.6,NIC
+Niger,12.0,NER
+Nigeria,12.0,NGA
+North Macedonia,6.5,MKD
+Norway,4.6,NOR
+Oman,5.6,OMN
+Pakistan,10.3,PAK
+Palau,4.0,PLW
+Panama,5.1,PAN
+Papua New Guinea,4.2,PNG
+Paraguay,8.6,PRY
+Peru,2.3,PER
+Philippines,6.0,PHL
+Qatar,4.7,QAT
+Russian Federation,6.6,RUS
+Rwanda,13.3,RWA
+Saint Kitts and Nevis,999.0,KNA
+Saint Lucia,999.0,LCA
+Saint Vincent and the Grenadines,10.8,VCT
+Samoa,999.0,WSM
+"Saudi Arabia, Kingdom of",6.2,
+Senegal,12.0,SEN
+Serbia,7.3,SRB
+Seychelles,2.6,SYC
+Sierra Leone,12.0,SLE
+Singapore,0.0,SGP
+Solomon Islands,9.6,SLB
+Somalia,15.6,SOM
+South Africa,7.6,ZAF
+South Sudan,10.2,SSD
+Sri Lanka,8.4,LKA
+Suriname,10.4,SUR
+Switzerland,5.2,CHE
+Chinese Taipei,6.5,
+Tajikistan,999.0,TJK
+Tanzania,14.1,TZA
+Thailand,9.8,THA
+Timor-Leste,2.5,TLS
+Togo,12.0,TGO
+Tonga,10.7,TON
+Trinidad and Tobago,8.2,TTO
+Tunisia,19.5,TUN
+Türkiye,16.2,TUR
+Uganda,15.6,UGA
+Ukraine,4.3,UKR
+United Arab Emirates,4.7,ARE
+United Kingdom,3.8,GBR
+United States of America,3.3,USA
+Uruguay,10.1,URY
+Vanuatu,9.0,VUT
+"Venezuela, Bolivarian Republic of",13.8,VEN
+Viet Nam,9.4,VNM
+Yemen,999.0,YEM
+Zambia,14.6,ZMB
+Zimbabwe,999.0,ZWE

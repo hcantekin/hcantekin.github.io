@@ -37,7 +37,7 @@ Cook Islands,3.4,COK
 Costa Rica,5.5,CRI
 Côte d'Ivoire,12.1,CIV
 Cuba,4.4,CUB
-Democratic Republic of the Congo,999.0,
+Democratic Republic of the Congo,999.0,COD
 Djibouti,999.0,DJI
 Dominica,10.7,DMA
 Dominican Republic,7.6,DOM
@@ -58,7 +58,7 @@ Guinea-Bissau,12.0,GNB
 Guyana,11.7,GUY
 Haiti,4.9,HTI
 Honduras,5.7,HND
-"Hong Kong, China",0.0,
+"Hong Kong, China",0.0,HKG
 Iceland,3.3,ISL
 India,17.0,IND
 Indonesia,8.0,IDN
@@ -70,7 +70,7 @@ Kazakhstan,5.6,KAZ
 Kenya,13.8,KEN
 Kiribati,0.0,KIR
 "Korea, Republic of",13.4,KOR
-"Kuwait, the State of",4.7,
+"Kuwait, the State of",4.7,KWT
 Kyrgyz Republic,6.4,KGZ
 Lao People's Democratic Republic,8.6,LAO
 Lebanese Republic,11.3,LBN
@@ -117,7 +117,7 @@ Saint Kitts and Nevis,999.0,KNA
 Saint Lucia,999.0,LCA
 Saint Vincent and the Grenadines,10.8,VCT
 Samoa,999.0,WSM
-"Saudi Arabia, Kingdom of",6.2,
+"Saudi Arabia, Kingdom of",6.2,SAU
 Senegal,12.0,SEN
 Serbia,7.3,SRB
 Seychelles,2.6,SYC

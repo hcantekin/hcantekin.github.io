@@ -142,8 +142,207 @@ Burkina Faso,21.99,140,BFA
 Cambodia,19.97,141,KHM
 Laos,19.83,142,LAO
 Papua New Guinea,17.3,143,PNG
-Malawi,16.0,144,MWI
+Malawi,16,144,MWI
 Tajikistan,15.62,145,TJK
 Madagascar,13.38,146,MDG
 Myanmar,11.89,147,MMR
 Burundi,6.81,148,BDI
+Aruba,0,149,ABW
+Afghanistan,0,150,AFG
+Angola,0,151,AGO
+Anguilla,0,152,AIA
+Åland Islands,0,153,ALA
+Albania,0,154,ALB
+Andorra,0,155,AND
+Argentina,0,156,ARG
+Armenia,0,157,ARM
+American Samoa,0,158,ASM
+Antarctica,0,159,ATA
+French Southern Territories,0,160,ATF
+Antigua and Barbuda,0,161,ATG
+Azerbaijan,0,162,AZE
+Burundi,0,163,BDI
+Benin,0,164,BEN
+"Bonaire, Sint Eustatius and Saba",0,165,BES
+Burkina Faso,0,166,BFA
+Bangladesh,0,167,BGD
+Bulgaria,0,168,BGR
+Bahamas,0,169,BHS
+Bosnia and Herzegovina,0,170,BIH
+Saint Barthélemy,0,171,BLM
+Belarus,0,172,BLR
+Belize,0,173,BLZ
+Bermuda,0,174,BMU
+"Bolivia, Plurinational State of",0,175,BOL
+Brazil,0,176,BRA
+Barbados,0,177,BRB
+Brunei Darussalam,0,178,BRN
+Bhutan,0,179,BTN
+Bouvet Island,0,180,BVT
+Botswana,0,181,BWA
+Central African Republic,0,182,CAF
+Cocos (Keeling) Islands,0,183,CCK
+China,0,184,CHN
+Côte d'Ivoire,0,185,CIV
+Cameroon,0,186,CMR
+"Congo, The Democratic Republic of the",0,187,COD
+Congo,0,188,COG
+Cook Islands,0,189,COK
+Colombia,0,190,COL
+Comoros,0,191,COM
+Cabo Verde,0,192,CPV
+Costa Rica,0,193,CRI
+Cuba,0,194,CUB
+Curaçao,0,195,CUW
+Christmas Island,0,196,CXR
+Cayman Islands,0,197,CYM
+Djibouti,0,198,DJI
+Dominica,0,199,DMA
+Dominican Republic,0,200,DOM
+Algeria,0,201,DZA
+Ecuador,0,202,ECU
+Egypt,0,203,EGY
+Eritrea,0,204,ERI
+Western Sahara,0,205,ESH
+Ethiopia,0,206,ETH
+Fiji,0,207,FJI
+Falkland Islands (Malvinas),0,208,FLK
+Faroe Islands,0,209,FRO
+"Micronesia, Federated States of",0,210,FSM
+Gabon,0,211,GAB
+Georgia,0,212,GEO
+Guernsey,0,213,GGY
+Ghana,0,214,GHA
+Gibraltar,0,215,GIB
+Guinea,0,216,GIN
+Guadeloupe,0,217,GLP
+Gambia,0,218,GMB
+Guinea-Bissau,0,219,GNB
+Equatorial Guinea,0,220,GNQ
+Grenada,0,221,GRD
+Greenland,0,222,GRL
+Guatemala,0,223,GTM
+French Guiana,0,224,GUF
+Guam,0,225,GUM
+Guyana,0,226,GUY
+Hong Kong,0,227,HKG
+Heard Island and McDonald Islands,0,228,HMD
+Honduras,0,229,HND
+Haiti,0,230,HTI
+Hungary,0,231,HUN
+Indonesia,0,232,IDN
+Isle of Man,0,233,IMN
+India,0,234,IND
+British Indian Ocean Territory,0,235,IOT
+"Iran, Islamic Republic of",0,236,IRN
+Iraq,0,237,IRQ
+Jamaica,0,238,JAM
+Jersey,0,239,JEY
+Jordan,0,240,JOR
+Kenya,0,241,KEN
+Kyrgyzstan,0,242,KGZ
+Cambodia,0,243,KHM
+Kiribati,0,244,KIR
+Saint Kitts and Nevis,0,245,KNA
+Lao People's Democratic Republic,0,246,LAO
+Lebanon,0,247,LBN
+Liberia,0,248,LBR
+Libya,0,249,LBY
+Saint Lucia,0,250,LCA
+Liechtenstein,0,251,LIE
+Sri Lanka,0,252,LKA
+Lesotho,0,253,LSO
+Macao,0,254,MAC
+Saint Martin (French part),0,255,MAF
+Morocco,0,256,MAR
+Monaco,0,257,MCO
+Madagascar,0,258,MDG
+Maldives,0,259,MDV
+Mexico,0,260,MEX
+Marshall Islands,0,261,MHL
+North Macedonia,0,262,MKD
+Mali,0,263,MLI
+Myanmar,0,264,MMR
+Mongolia,0,265,MNG
+Northern Mariana Islands,0,266,MNP
+Mozambique,0,267,MOZ
+Mauritania,0,268,MRT
+Montserrat,0,269,MSR
+Martinique,0,270,MTQ
+Mauritius,0,271,MUS
+Malawi,0,272,MWI
+Malaysia,0,273,MYS
+Mayotte,0,274,MYT
+Namibia,0,275,NAM
+New Caledonia,0,276,NCL
+Niger,0,277,NER
+Norfolk Island,0,278,NFK
+Nigeria,0,279,NGA
+Nicaragua,0,280,NIC
+Niue,0,281,NIU
+Nepal,0,282,NPL
+Nauru,0,283,NRU
+Pakistan,0,284,PAK
+Panama,0,285,PAN
+Pitcairn,0,286,PCN
+Peru,0,287,PER
+Philippines,0,288,PHL
+Palau,0,289,PLW
+Papua New Guinea,0,290,PNG
+Puerto Rico,0,291,PRI
+"Korea, Democratic People's Republic of",0,292,PRK
+Paraguay,0,293,PRY
+"Palestine, State of",0,294,PSE
+French Polynesia,0,295,PYF
+Réunion,0,296,REU
+Rwanda,0,297,RWA
+Sudan,0,298,SDN
+Senegal,0,299,SEN
+Singapore,0,300,SGP
+South Georgia and the South Sandwich Islands,0,301,SGS
+"Saint Helena, Ascension and Tristan da Cunha",0,302,SHN
+Svalbard and Jan Mayen,0,303,SJM
+Solomon Islands,0,304,SLB
+Sierra Leone,0,305,SLE
+El Salvador,0,306,SLV
+San Marino,0,307,SMR
+Somalia,0,308,SOM
+Saint Pierre and Miquelon,0,309,SPM
+Serbia,0,310,SRB
+South Sudan,0,311,SSD
+Sao Tome and Principe,0,312,STP
+Suriname,0,313,SUR
+Eswatini,0,314,SWZ
+Sint Maarten (Dutch part),0,315,SXM
+Syrian Arab Republic,0,316,SYR
+Turks and Caicos Islands,0,317,TCA
+Chad,0,318,TCD
+Togo,0,319,TGO
+Thailand,0,320,THA
+Tajikistan,0,321,TJK
+Tokelau,0,322,TKL
+Turkmenistan,0,323,TKM
+Timor-Leste,0,324,TLS
+Tonga,0,325,TON
+Trinidad and Tobago,0,326,TTO
+Tunisia,0,327,TUN
+Tuvalu,0,328,TUV
+"Taiwan, Province of China",0,329,TWN
+"Tanzania, United Republic of",0,330,TZA
+Uganda,0,331,UGA
+Ukraine,0,332,UKR
+United States Minor Outlying Islands,0,333,UMI
+Uzbekistan,0,334,UZB
+Holy See (Vatican City State),0,335,VAT
+Saint Vincent and the Grenadines,0,336,VCT
+"Venezuela, Bolivarian Republic of",0,337,VEN
+"Virgin Islands, British",0,338,VGB
+"Virgin Islands, U.S.",0,339,VIR
+Viet Nam,0,340,VNM
+Vanuatu,0,341,VUT
+Wallis and Futuna,0,342,WLF
+Samoa,0,343,WSM
+Yemen,0,344,YEM
+South Africa,0,345,ZAF
+Zambia,0,346,ZMB
+Zimbabwe,0,347,ZWE

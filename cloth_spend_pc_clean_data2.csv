@@ -1,0 +1,257 @@
+country,value,rank,iso3
+Afghanistan,0.0,150,AFG
+Albania,242.46,67,ALB
+Algeria,99.91,101,DZA
+American Samoa,0.0,158,ASM
+Andorra,0.0,155,AND
+Angola,68.36,118,AGO
+Anguilla,0.0,152,AIA
+Antarctica,0.0,159,ATA
+Antigua and Barbuda,0.0,161,ATG
+Argentina,292.47,64,ARG
+Armenia,318.22,61,ARM
+Aruba,0.0,149,ABW
+Australia,1079.13,15,AUS
+Austria,1413.67,8,AUT
+Azerbaijan,206.49,74,AZE
+Bahamas,0.0,169,BHS
+Bahrain,516.35,45,BHR
+Bangladesh,72.15,115,BGD
+Barbados,0.0,177,BRB
+Belarus,198.74,76,BLR
+Belgium,1290.44,9,BEL
+Belize,174.77,83,BLZ
+Benin,69.93,116,BEN
+Bermuda,0.0,174,BMU
+Bhutan,230.73,70,BTN
+Bolivia,87.6,108,BOL
+"Bolivia, Plurinational State of",0.0,175,BOL
+"Bonaire, Sint Eustatius and Saba",0.0,165,BES
+Bosnia and Herzegovina,296.35,62,BIH
+Botswana,143.96,87,BWA
+Bouvet Island,0.0,180,BVT
+Brazil,319.35,60,BRA
+British Indian Ocean Territory,0.0,235,IOT
+Brunei Darussalam,234.66,68,BRN
+Bulgaria,343.24,56,BGR
+Burkina Faso,21.99,140,BFA
+Burundi,6.81,148,BDI
+Cabo Verde,0.0,192,CPV
+Cambodia,19.97,141,KHM
+Cameroon,94.7,105,CMR
+Canada,985.3,19,CAN
+Cayman Islands,0.0,197,CYM
+Central African Republic,0.0,182,CAF
+Chad,32.74,133,TCD
+Chile,541.21,42,CHL
+China,232.7,69,CHN
+Christmas Island,0.0,196,CXR
+Cocos (Keeling) Islands,0.0,183,CCK
+Colombia,338.18,58,COL
+Comoros,0.0,191,COM
+Congo,0.0,188,COG
+"Congo, The Democratic Republic of the",0.0,187,COD
+Cook Islands,0.0,189,COK
+Costa Rica,343.69,55,CRI
+Croatia,523.56,44,HRV
+Cuba,51.05,123,CUB
+Curaçao,0.0,195,CUW
+Cyprus,781.58,29,CYP
+Czechia,607.55,37,CZE
+Côte d'Ivoire,0.0,185,CIV
+Denmark,1284.49,10,DNK
+Djibouti,0.0,198,DJI
+Dominica,0.0,199,DMA
+Dominican Republic,142.2,90,DOM
+Ecuador,143.34,88,ECU
+Egypt,138.48,92,EGY
+El Salvador,96.34,104,SLV
+Equatorial Guinea,213.48,73,GNQ
+Eritrea,0.0,204,ERI
+Estonia,959.89,22,EST
+Eswatini,0.0,314,SWZ
+Ethiopia,33.21,132,ETH
+Falkland Islands (Malvinas),0.0,208,FLK
+Faroe Islands,0.0,209,FRO
+Fiji,136.66,94,FJI
+Finland,1045.9,16,FIN
+France,850.29,25,FRA
+French Guiana,0.0,224,GUF
+French Polynesia,0.0,295,PYF
+French Southern Territories,0.0,160,ATF
+Gabon,117.48,97,GAB
+Gambia,76.26,113,GMB
+Georgia,325.64,59,GEO
+Germany,1151.92,13,DEU
+Ghana,120.65,96,GHA
+Gibraltar,0.0,215,GIB
+Greece,643.36,33,GRC
+Greenland,0.0,222,GRL
+Grenada,0.0,221,GRD
+Guadeloupe,0.0,217,GLP
+Guam,0.0,225,GUM
+Guatemala,181.39,80,GTM
+Guernsey,0.0,213,GGY
+Guinea,34.37,129,GIN
+Guinea-Bissau,0.0,219,GNB
+Guyana,352.36,54,GUY
+Haiti,78.3,112,HTI
+Heard Island and McDonald Islands,0.0,228,HMD
+Holy See (Vatican City State),0.0,335,VAT
+Honduras,163.69,84,HND
+Hong Kong,0.0,227,HKG
+Hungary,370.07,53,HUN
+Iceland,1454.95,7,ISL
+India,79.91,111,IND
+Indonesia,43.96,127,IDN
+Iran,107.68,99,IRN
+"Iran, Islamic Republic of",0.0,236,IRN
+Iraq,97.85,103,IRQ
+Ireland,1456.27,6,IRL
+Isle of Man,0.0,233,IMN
+Israel,762.17,30,ISR
+Italy,1258.8,11,ITA
+Ivory Coast,98.84,102,CIV
+Jamaica,293.25,63,JAM
+Japan,623.81,35,JPN
+Jersey,0.0,239,JEY
+Jordan,161.75,85,JOR
+Kazakhstan,492.89,47,KAZ
+Kenya,34.85,128,KEN
+Kiribati,0.0,244,KIR
+"Korea, Democratic People's Republic of",0.0,292,PRK
+Kuwait,609.48,36,KWT
+Kyrgyzstan,181.82,79,KGZ
+Lao People's Democratic Republic,0.0,246,LAO
+Laos,19.83,142,LAO
+Latvia,896.8,24,LVA
+Lebanon,196.51,78,LBN
+Lesotho,81.58,110,LSO
+Liberia,0.0,248,LBR
+Libya,0.0,249,LBY
+Liechtenstein,0.0,251,LIE
+Lithuania,811.56,27,LTU
+Luxembourg,2079.65,1,LUX
+Macao,0.0,254,MAC
+Madagascar,13.38,146,MDG
+Malawi,16.0,144,MWI
+Malaysia,229.72,71,MYS
+Maldives,0.0,259,MDV
+Mali,0.0,263,MLI
+Malta,1043.5,17,MLT
+Marshall Islands,0.0,261,MHL
+Martinique,0.0,270,MTQ
+Mauritania,0.0,268,MRT
+Mauritius,402.97,52,MUS
+Mayotte,0.0,274,MYT
+Mexico,197.2,77,MEX
+"Micronesia, Federated States of",0.0,210,FSM
+Moldova,563.34,40,MDA
+Monaco,0.0,257,MCO
+Mongolia,176.49,81,MNG
+Montenegro,500.97,46,MNE
+Montserrat,0.0,269,MSR
+Morocco,111.27,98,MAR
+Mozambique,26.23,136,MOZ
+Myanmar,11.89,147,MMR
+Namibia,129.77,95,NAM
+Nauru,0.0,283,NRU
+Nepal,53.94,120,NPL
+Netherlands,1460.27,5,NLD
+New Caledonia,0.0,276,NCL
+New Zealand,1094.12,14,NZL
+Nicaragua,72.86,114,NIC
+Niger,34.14,130,NER
+Nigeria,28.2,135,NGA
+Niue,0.0,281,NIU
+Norfolk Island,0.0,278,NFK
+North Macedonia,223.9,72,MKD
+Northern Mariana Islands,0.0,266,MNP
+Norway,1622.91,2,NOR
+Oman,467.23,48,OMN
+Pakistan,53.9,121,PAK
+Palau,0.0,289,PLW
+"Palestine, State of",0.0,294,PSE
+Panama,286.49,65,PAN
+Papua New Guinea,17.3,143,PNG
+Paraguay,142.93,89,PRY
+Peru,243.96,66,PER
+Philippines,64.24,119,PHL
+Pitcairn,0.0,286,PCN
+Poland,557.02,41,POL
+Portugal,968.85,21,PRT
+Puerto Rico,0.0,291,PRI
+Qatar,937.35,23,QAT
+Republic of the Congo,52.25,122,COG
+Romania,796.84,28,ROU
+Russia,451.25,49,RUS
+Rwanda,44.85,126,RWA
+Réunion,0.0,296,REU
+Saint Barthélemy,0.0,171,BLM
+"Saint Helena, Ascension and Tristan da Cunha",0.0,302,SHN
+Saint Kitts and Nevis,0.0,245,KNA
+Saint Lucia,0.0,250,LCA
+Saint Martin (French part),0.0,255,MAF
+Saint Pierre and Miquelon,0.0,309,SPM
+Saint Vincent and the Grenadines,0.0,336,VCT
+Samoa,0.0,343,WSM
+San Marino,0.0,307,SMR
+Sao Tome and Principe,0.0,312,STP
+Saudi Arabia,451.17,50,SAU
+Senegal,46.57,125,SEN
+Serbia,340.9,57,SRB
+Seychelles,624.23,34,SYC
+Sierra Leone,0.0,305,SLE
+Singapore,440.57,51,SGP
+Sint Maarten (Dutch part),0.0,315,SXM
+Slovakia,579.15,39,SVK
+Slovenia,987.64,18,SVN
+Solomon Islands,0.0,304,SLB
+Somalia,0.0,308,SOM
+South Africa,176.02,82,ZAF
+South Georgia and the South Sandwich Islands,0.0,301,SGS
+South Korea,754.65,31,KOR
+South Sudan,0.0,311,SSD
+Spain,702.26,32,ESP
+Sri Lanka,69.71,117,LKA
+Sudan,29.54,134,SDN
+Suriname,83.66,109,SUR
+Svalbard and Jan Mayen,0.0,303,SJM
+Sweden,973.87,20,SWE
+Switzerland,1199.14,12,CHE
+Syrian Arab Republic,0.0,316,SYR
+"Taiwan, Province of China",0.0,329,TWN
+Tajikistan,15.62,145,TJK
+Tanzania,33.31,131,TZA
+"Tanzania, United Republic of",0.0,330,TZA
+Thailand,137.64,93,THA
+Timor-Leste,26.17,137,TLS
+Togo,49.32,124,TGO
+Tokelau,0.0,322,TKL
+Tonga,0.0,325,TON
+Trinidad and Tobago,0.0,326,TTO
+Tunisia,145.3,86,TUN
+Turkey,601.77,38,TUR
+Turkmenistan,203.99,75,TKM
+Turks and Caicos Islands,0.0,317,TCA
+Tuvalu,0.0,328,TUV
+Uganda,23.89,138,UGA
+Ukraine,141.02,91,UKR
+United Arab Emirates,846.06,26,ARE
+United Kingdom,1538.63,4,GBR
+United States,1616.81,3,USA
+United States Minor Outlying Islands,0.0,333,UMI
+Uruguay,539.4,43,URY
+Uzbekistan,90.2,107,UZB
+Vanuatu,0.0,341,VUT
+"Venezuela, Bolivarian Republic of",0.0,337,VEN
+Viet Nam,0.0,340,VNM
+Vietnam,93.51,106,VNM
+"Virgin Islands, British",0.0,338,VGB
+"Virgin Islands, U.S.",0.0,339,VIR
+Wallis and Futuna,0.0,342,WLF
+Western Sahara,0.0,205,ESH
+Yemen,0.0,344,YEM
+Zambia,23.47,139,ZMB
+Zimbabwe,105.57,100,ZWE
+Åland Islands,0.0,153,ALA

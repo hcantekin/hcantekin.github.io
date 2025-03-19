@@ -1,0 +1,149 @@
+country,value,rank,iso3
+Luxembourg,2079.65,1,LUX
+Norway,1622.91,2,NOR
+United States,1616.81,3,USA
+United Kingdom,1538.63,4,GBR
+Netherlands,1460.27,5,NLD
+Ireland,1456.27,6,IRL
+Iceland,1454.95,7,ISL
+Austria,1413.67,8,AUT
+Belgium,1290.44,9,BEL
+Denmark,1284.49,10,DNK
+Italy,1258.8,11,ITA
+Switzerland,1199.14,12,CHE
+Germany,1151.92,13,DEU
+New Zealand,1094.12,14,NZL
+Australia,1079.13,15,AUS
+Finland,1045.9,16,FIN
+Malta,1043.5,17,MLT
+Slovenia,987.64,18,SVN
+Canada,985.3,19,CAN
+Sweden,973.87,20,SWE
+Portugal,968.85,21,PRT
+Estonia,959.89,22,EST
+Qatar,937.35,23,QAT
+Latvia,896.8,24,LVA
+France,850.29,25,FRA
+United Arab Emirates,846.06,26,ARE
+Lithuania,811.56,27,LTU
+Romania,796.84,28,ROU
+Cyprus,781.58,29,CYP
+Israel,762.17,30,ISR
+South Korea,754.65,31,KOR
+Spain,702.26,32,ESP
+Greece,643.36,33,GRC
+Seychelles,624.23,34,SYC
+Japan,623.81,35,JPN
+Kuwait,609.48,36,KWT
+Czechia,607.55,37,CZE
+Turkey,601.77,38,TUR
+Slovakia,579.15,39,SVK
+Moldova,563.34,40,MDA
+Poland,557.02,41,POL
+Chile,541.21,42,CHL
+Uruguay,539.4,43,URY
+Croatia,523.56,44,HRV
+Bahrain,516.35,45,BHR
+Montenegro,500.97,46,MNE
+Kazakhstan,492.89,47,KAZ
+Oman,467.23,48,OMN
+Russia,451.25,49,RUS
+Saudi Arabia,451.17,50,SAU
+Singapore,440.57,51,SGP
+Mauritius,402.97,52,MUS
+Hungary,370.07,53,HUN
+Guyana,352.36,54,GUY
+Costa Rica,343.69,55,CRI
+Bulgaria,343.24,56,BGR
+Serbia,340.9,57,SRB
+Colombia,338.18,58,COL
+Georgia,325.64,59,GEO
+Brazil,319.35,60,BRA
+Armenia,318.22,61,ARM
+Bosnia and Herzegovina,296.35,62,BIH
+Jamaica,293.25,63,JAM
+Argentina,292.47,64,ARG
+Panama,286.49,65,PAN
+Peru,243.96,66,PER
+Albania,242.46,67,ALB
+Brunei Darussalam,234.66,68,BRN
+China,232.7,69,CHN
+Bhutan,230.73,70,BTN
+Malaysia,229.72,71,MYS
+North Macedonia,223.9,72,MKD
+Equatorial Guinea,213.48,73,GNQ
+Azerbaijan,206.49,74,AZE
+Turkmenistan,203.99,75,TKM
+Belarus,198.74,76,BLR
+Mexico,197.2,77,MEX
+Lebanon,196.51,78,LBN
+Kyrgyzstan,181.82,79,KGZ
+Guatemala,181.39,80,GTM
+Mongolia,176.49,81,MNG
+South Africa,176.02,82,ZAF
+Belize,174.77,83,BLZ
+Honduras,163.69,84,HND
+Jordan,161.75,85,JOR
+Tunisia,145.3,86,TUN
+Botswana,143.96,87,BWA
+Ecuador,143.34,88,ECU
+Paraguay,142.93,89,PRY
+Dominican Republic,142.2,90,DOM
+Ukraine,141.02,91,UKR
+Egypt,138.48,92,EGY
+Thailand,137.64,93,THA
+Fiji,136.66,94,FJI
+Namibia,129.77,95,NAM
+Ghana,120.65,96,GHA
+Gabon,117.48,97,GAB
+Morocco,111.27,98,MAR
+Iran,107.68,99,IRN
+Zimbabwe,105.57,100,ZWE
+Algeria,99.91,101,DZA
+Ivory Coast,98.84,102,CIV
+Iraq,97.85,103,IRQ
+El Salvador,96.34,104,SLV
+Cameroon,94.7,105,CMR
+Vietnam,93.51,106,VNM
+Uzbekistan,90.2,107,UZB
+Bolivia,87.6,108,BOL
+Suriname,83.66,109,SUR
+Lesotho,81.58,110,LSO
+India,79.91,111,IND
+Haiti,78.3,112,HTI
+Gambia,76.26,113,GMB
+Nicaragua,72.86,114,NIC
+Bangladesh,72.15,115,BGD
+Benin,69.93,116,BEN
+Sri Lanka,69.71,117,LKA
+Angola,68.36,118,AGO
+Philippines,64.24,119,PHL
+Nepal,53.94,120,NPL
+Pakistan,53.9,121,PAK
+Republic of the Congo,52.25,122,COG
+Cuba,51.05,123,CUB
+Togo,49.32,124,TGO
+Senegal,46.57,125,SEN
+Rwanda,44.85,126,RWA
+Indonesia,43.96,127,IDN
+Kenya,34.85,128,KEN
+Guinea,34.37,129,GIN
+Niger,34.14,130,NER
+Tanzania,33.31,131,TZA
+Ethiopia,33.21,132,ETH
+Chad,32.74,133,TCD
+Sudan,29.54,134,SDN
+Nigeria,28.2,135,NGA
+Mozambique,26.23,136,MOZ
+Timor-Leste,26.17,137,TLS
+Uganda,23.89,138,UGA
+Zambia,23.47,139,ZMB
+Burkina Faso,21.99,140,BFA
+Cambodia,19.97,141,KHM
+Laos,19.83,142,LAO
+Papua New Guinea,17.3,143,PNG
+Malawi,16.0,144,MWI
+Tajikistan,15.62,145,TJK
+Madagascar,13.38,146,MDG
+Myanmar,11.89,147,MMR
+Burundi,6.81,148,BDI

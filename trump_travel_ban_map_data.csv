@@ -1,0 +1,201 @@
+﻿region,ban,iso3
+Afghanistan,Ban,AFG
+Albania,No ban,ALB
+Algeria,No ban,DZA
+Andorra,No ban,AND
+Angola,No ban,AGO
+Antigua and Barbuda,No ban,ATG
+Argentina,No ban,ARG
+Armenia,No ban,ARM
+Australia,No ban,AUS
+Austria,No ban,AUT
+Azerbaijan,No ban,AZE
+The Bahamas,No ban,BHS
+Bahrain,No ban,BHR
+Bangladesh,No ban,BGD
+Barbados,No ban,BRB
+Belarus,No ban,BLR
+Belgium,No ban,BEL
+Belize,No ban,BLZ
+Benin,No ban,BEN
+Bhutan,No ban,BTN
+Bolivia,No ban,BOL
+Bosnia and Herzegovina,No ban,BIH
+Botswana,No ban,BWA
+Brazil,No ban,BRA
+Brunei,No ban,BRN
+Bulgaria,No ban,BGR
+Burkina Faso,No ban,BFA
+Burundi,No ban,BDI
+Côte d'Ivoire,No ban,CIV
+Cape Verde,No ban,CPV
+Cambodia,No ban,KHM
+Cameroon,No ban,CMR
+Canada,No ban,CAN
+Central African Republic,No ban,CAF
+Chad,Ban,TCD
+Chile,No ban,CHL
+China,No ban,CHN
+Colombia,No ban,COL
+Comoros,No ban,COM
+Congo (Republic of),Ban,COG
+Costa Rica,No ban,CRI
+Croatia,No ban,HRV
+Cuba,No ban,CUB
+Cyprus,No ban,CYP
+Czechia,No ban,CZE
+Democratic Republic of Congo,No ban,COD
+Denmark,No ban,DNK
+Djibouti,No ban,DJI
+Dominica,No ban,DMA
+Dominican Republic,No ban,DOM
+Ecuador,No ban,ECU
+Egypt,No ban,EGY
+El Salvador,No ban,SLV
+Equatorial Guinea,Ban,GNQ
+Eritrea,Ban,ERI
+Estonia,No ban,EST
+Eswatini,No ban,SWZ
+Ethiopia,No ban,ETH
+Fiji,No ban,FJI
+Finland,No ban,FIN
+France,No ban,FRA
+Gabon,No ban,GAB
+The Gambia,No ban,GMB
+Georgia,No ban,GEO
+Germany,No ban,DEU
+Ghana,No ban,GHA
+Greece,No ban,GRC
+Guatemala,No ban,GTM
+Guinea,No ban,GIN
+Guinea-Bissau,No ban,GNB
+Guyana,No ban,GUY
+Haiti,Ban,HTI
+Honduras,No ban,HND
+Hungary,No ban,HUN
+Iceland,No ban,ISL
+India,No ban,IND
+Indonesia,No ban,IDN
+Iran,Ban,IRN
+Iraq,No ban,IRQ
+Ireland,No ban,IRL
+Israel,No ban,ISR
+Italy,No ban,ITA
+Jamaica,No ban,JAM
+Japan,No ban,JPN
+Jordan,No ban,JOR
+Kazakhstan,No ban,KAZ
+Kenya,No ban,KEN
+Kiribati,No ban,KIR
+Kuwait,No ban,KWT
+Kyrgyzstan,No ban,KGZ
+Laos,No ban,LAO
+Latvia,No ban,LVA
+Lebanon,No ban,LBN
+Lesotho,No ban,LSO
+Liberia,No ban,LBR
+Libya,Ban,LBY
+Liechtenstein,No ban,LIE
+Lithuania,No ban,LTU
+Luxembourg,No ban,LUX
+Madagascar,No ban,MDG
+Malawi,No ban,MWI
+Malaysia,No ban,MYS
+Maldives,No ban,MDV
+Mali,No ban,MLI
+Malta,No ban,MLT
+Marshall Islands,No ban,MHL
+Mauritania,No ban,MRT
+Mauritius,No ban,MUS
+Mexico,No ban,MEX
+Micronesia,No ban,FSM
+Moldova,No ban,MDA
+Monaco,No ban,MCO
+Mongolia,No ban,MNG
+Montenegro,No ban,MNE
+Morocco,No ban,MAR
+Mozambique,No ban,MOZ
+Myanmar,Ban,MMR
+Namibia,No ban,NAM
+Nauru,No ban,NRU
+Nepal,No ban,NPL
+Netherlands,No ban,NLD
+New Zealand,No ban,NZL
+Nicaragua,No ban,NIC
+Niger,No ban,NER
+Nigeria,No ban,NGA
+North Macedonia,No ban,MKD
+Norway,No ban,NOR
+Oman,No ban,OMN
+Pakistan,No ban,PAK
+Palau,No ban,PLW
+Panama,No ban,PAN
+Papua New Guinea,No ban,PNG
+Paraguay,No ban,PRY
+Peru,No ban,PER
+Philippines,No ban,PHL
+Poland,No ban,POL
+Portugal,No ban,PRT
+Qatar,No ban,QAT
+Romania,No ban,ROU
+Russia,No ban,RUS
+Rwanda,No ban,RWA
+Saint Kitts and Nevis,No ban,KNA
+Saint Lucia,No ban,LCA
+Saint Vincent and the Grenadines,No ban,VCT
+Samoa,No ban,WSM
+San Marino,No ban,SMR
+São Tomé and Príncipe,No ban,STP
+Saudi Arabia,No ban,SAU
+Senegal,No ban,SEN
+Serbia,No ban,SRB
+Seychelles,No ban,SYC
+Sierra Leone,No ban,SLE
+Singapore,No ban,SGP
+Slovakia,No ban,SVK
+Slovenia,No ban,SVN
+Solomon Islands,No ban,SLB
+Somalia,Ban,SOM
+South Africa,No ban,ZAF
+South Korea,No ban,KOR
+South Sudan,No ban,SSD
+Spain,No ban,ESP
+Sri Lanka,No ban,LKA
+Sudan,Ban,SDN
+Suriname,No ban,SUR
+Sweden,No ban,SWE
+Switzerland,No ban,CHE
+Syria,No ban,SYR
+Tajikistan,No ban,TJK
+Tanzania,No ban,TZA
+Thailand,No ban,THA
+Timor-Leste,No ban,TLS
+Togo,No ban,TGO
+Tonga,No ban,TON
+Trinidad and Tobago,No ban,TTO
+Tunisia,No ban,TUN
+Turkey,No ban,TUR
+Turkmenistan,No ban,TKM
+Tuvalu,No ban,TUV
+Uganda,No ban,UGA
+Ukraine,No ban,UKR
+United Arab Emirates,No ban,ARE
+United Kingdom,No ban,GBR
+United States of America,No ban,USA
+Uruguay,No ban,URY
+Uzbekistan,No ban,UZB
+Vanuatu,No ban,VUT
+Venezuela,No ban,VEN
+Vietnam,No ban,VNM
+Yemen,Ban,YEM
+Zambia,No ban,ZMB
+Zimbabwe,No ban,ZWE
+Greenland (Den.),No ban,GRL
+Taiwan,No ban,TWN
+Grenada,No ban,GRD
+Hong Kong,No ban,HKG
+Kosovo,No ban,XKX
+Macau,No ban,MAC
+North Korea,No ban,PRK
+West Bank and Gaza,No ban,PSE
+Western Sahara,No ban,ESH

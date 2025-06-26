@@ -1,0 +1,351 @@
+region,value,industry
+Hartlepool,0.0,Aluminium
+Middlesbrough,20.0,Aluminium
+Redcar and Cleveland,0.0,Aluminium
+Stockton-on-Tees,0.0,Aluminium
+Darlington,0.0,Aluminium
+County Durham,0.0,Aluminium
+Northumberland,50.0,Aluminium
+Newcastle upon Tyne,0.0,Aluminium
+North Tyneside,0.0,Aluminium
+South Tyneside,10.0,Aluminium
+Sunderland,10.0,Aluminium
+Gateshead,150.0,Aluminium
+Halton,0.0,Aluminium
+Warrington,200.0,Aluminium
+Blackburn with Darwen,0.0,Aluminium
+Blackpool,0.0,Aluminium
+Cheshire East,0.0,Aluminium
+Cheshire West and Chester,100.0,Aluminium
+Cumberland,100.0,Aluminium
+Westmorland and Furness,0.0,Aluminium
+Burnley,0.0,Aluminium
+Chorley,0.0,Aluminium
+Fylde,0.0,Aluminium
+Hyndburn,0.0,Aluminium
+Lancaster,0.0,Aluminium
+Pendle,0.0,Aluminium
+Preston,0.0,Aluminium
+Ribble Valley,0.0,Aluminium
+Rossendale,0.0,Aluminium
+South Ribble,0.0,Aluminium
+West Lancashire,0.0,Aluminium
+Wyre,0.0,Aluminium
+Bolton,50.0,Aluminium
+Bury,30.0,Aluminium
+Manchester,0.0,Aluminium
+Oldham,30.0,Aluminium
+Rochdale,0.0,Aluminium
+Salford,100.0,Aluminium
+Stockport,0.0,Aluminium
+Tameside,150.0,Aluminium
+Trafford,10.0,Aluminium
+Wigan,0.0,Aluminium
+Knowsley,0.0,Aluminium
+Liverpool,0.0,Aluminium
+St. Helens,0.0,Aluminium
+Sefton,0.0,Aluminium
+Wirral,0.0,Aluminium
+"Kingston upon Hull, City of",0.0,Aluminium
+East Riding of Yorkshire,0.0,Aluminium
+North East Lincolnshire,0.0,Aluminium
+North Lincolnshire,0.0,Aluminium
+York,0.0,Aluminium
+North Yorkshire,0.0,Aluminium
+Barnsley,0.0,Aluminium
+Doncaster,50.0,Aluminium
+Rotherham,50.0,Aluminium
+Sheffield,10.0,Aluminium
+Bradford,0.0,Aluminium
+Calderdale,10.0,Aluminium
+Kirklees,10.0,Aluminium
+Leeds,0.0,Aluminium
+Wakefield,0.0,Aluminium
+Derby,0.0,Aluminium
+Leicester,0.0,Aluminium
+Rutland,0.0,Aluminium
+Nottingham,0.0,Aluminium
+North Northamptonshire,100.0,Aluminium
+West Northamptonshire,0.0,Aluminium
+Amber Valley,0.0,Aluminium
+Bolsover,300.0,Aluminium
+Chesterfield,0.0,Aluminium
+Derbyshire Dales,20.0,Aluminium
+Erewash,0.0,Aluminium
+High Peak,0.0,Aluminium
+North East Derbyshire,0.0,Aluminium
+South Derbyshire,0.0,Aluminium
+Blaby,0.0,Aluminium
+Charnwood,150.0,Aluminium
+Harborough,0.0,Aluminium
+Hinckley and Bosworth,30.0,Aluminium
+Melton,0.0,Aluminium
+North West Leicestershire,0.0,Aluminium
+Oadby and Wigston,0.0,Aluminium
+Boston,0.0,Aluminium
+East Lindsey,0.0,Aluminium
+Lincoln,0.0,Aluminium
+North Kesteven,0.0,Aluminium
+South Holland,0.0,Aluminium
+South Kesteven,0.0,Aluminium
+West Lindsey,0.0,Aluminium
+Ashfield,0.0,Aluminium
+Bassetlaw,20.0,Aluminium
+Broxtowe,0.0,Aluminium
+Gedling,0.0,Aluminium
+Mansfield,0.0,Aluminium
+Newark and Sherwood,0.0,Aluminium
+Rushcliffe,0.0,Aluminium
+"Herefordshire, County of",150.0,Aluminium
+Telford and Wrekin,20.0,Aluminium
+Stoke-on-Trent,0.0,Aluminium
+Shropshire,300.0,Aluminium
+Cannock Chase,10.0,Aluminium
+East Staffordshire,0.0,Aluminium
+Lichfield,0.0,Aluminium
+Newcastle-under-Lyme,10.0,Aluminium
+South Staffordshire,0.0,Aluminium
+Stafford,100.0,Aluminium
+Staffordshire Moorlands,0.0,Aluminium
+Tamworth,0.0,Aluminium
+North Warwickshire,30.0,Aluminium
+Nuneaton and Bedworth,10.0,Aluminium
+Rugby,0.0,Aluminium
+Stratford-on-Avon,20.0,Aluminium
+Warwick,0.0,Aluminium
+Bromsgrove,0.0,Aluminium
+Malvern Hills,0.0,Aluminium
+Redditch,50.0,Aluminium
+Worcester,150.0,Aluminium
+Wychavon,0.0,Aluminium
+Wyre Forest,20.0,Aluminium
+Birmingham,600.0,Aluminium
+Coventry,0.0,Aluminium
+Dudley,30.0,Aluminium
+Sandwell,40.0,Aluminium
+Solihull,0.0,Aluminium
+Walsall,150.0,Aluminium
+Wolverhampton,50.0,Aluminium
+Peterborough,0.0,Aluminium
+Luton,0.0,Aluminium
+Southend-on-Sea,50.0,Aluminium
+Thurrock,0.0,Aluminium
+Bedford,0.0,Aluminium
+Central Bedfordshire,0.0,Aluminium
+Cambridge,0.0,Aluminium
+East Cambridgeshire,0.0,Aluminium
+Fenland,20.0,Aluminium
+Huntingdonshire,0.0,Aluminium
+South Cambridgeshire,0.0,Aluminium
+Basildon,0.0,Aluminium
+Braintree,0.0,Aluminium
+Brentwood,0.0,Aluminium
+Castle Point,0.0,Aluminium
+Chelmsford,0.0,Aluminium
+Colchester,0.0,Aluminium
+Epping Forest,0.0,Aluminium
+Harlow,0.0,Aluminium
+Maldon,20.0,Aluminium
+Rochford,0.0,Aluminium
+Tendring,0.0,Aluminium
+Uttlesford,0.0,Aluminium
+Broxbourne,0.0,Aluminium
+Dacorum,0.0,Aluminium
+Hertsmere,0.0,Aluminium
+North Hertfordshire,0.0,Aluminium
+Three Rivers,0.0,Aluminium
+Watford,0.0,Aluminium
+Breckland,30.0,Aluminium
+Broadland,0.0,Aluminium
+Great Yarmouth,0.0,Aluminium
+King's Lynn and West Norfolk,0.0,Aluminium
+North Norfolk,0.0,Aluminium
+Norwich,0.0,Aluminium
+South Norfolk,0.0,Aluminium
+Babergh,0.0,Aluminium
+Ipswich,0.0,Aluminium
+Mid Suffolk,0.0,Aluminium
+St Albans,0.0,Aluminium
+Welwyn Hatfield,0.0,Aluminium
+East Hertfordshire,0.0,Aluminium
+Stevenage,0.0,Aluminium
+East Suffolk,0.0,Aluminium
+West Suffolk,0.0,Aluminium
+City of London,0.0,Aluminium
+Barking and Dagenham,0.0,Aluminium
+Barnet,0.0,Aluminium
+Bexley,0.0,Aluminium
+Brent,0.0,Aluminium
+Bromley,0.0,Aluminium
+Camden,0.0,Aluminium
+Croydon,0.0,Aluminium
+Ealing,0.0,Aluminium
+Enfield,0.0,Aluminium
+Greenwich,0.0,Aluminium
+Hackney,0.0,Aluminium
+Hammersmith and Fulham,0.0,Aluminium
+Haringey,0.0,Aluminium
+Harrow,0.0,Aluminium
+Havering,0.0,Aluminium
+Hillingdon,0.0,Aluminium
+Hounslow,0.0,Aluminium
+Islington,0.0,Aluminium
+Kensington and Chelsea,0.0,Aluminium
+Kingston upon Thames,0.0,Aluminium
+Lambeth,0.0,Aluminium
+Lewisham,0.0,Aluminium
+Merton,0.0,Aluminium
+Newham,0.0,Aluminium
+Redbridge,0.0,Aluminium
+Richmond upon Thames,0.0,Aluminium
+Southwark,0.0,Aluminium
+Sutton,0.0,Aluminium
+Tower Hamlets,0.0,Aluminium
+Waltham Forest,0.0,Aluminium
+Wandsworth,0.0,Aluminium
+Westminster,0.0,Aluminium
+Medway,10.0,Aluminium
+Bracknell Forest,0.0,Aluminium
+West Berkshire,0.0,Aluminium
+Reading,0.0,Aluminium
+Slough,100.0,Aluminium
+Windsor and Maidenhead,0.0,Aluminium
+Wokingham,0.0,Aluminium
+Milton Keynes,10.0,Aluminium
+Brighton and Hove,0.0,Aluminium
+Portsmouth,0.0,Aluminium
+Southampton,0.0,Aluminium
+Isle of Wight,0.0,Aluminium
+Buckinghamshire,0.0,Aluminium
+Eastbourne,0.0,Aluminium
+Hastings,0.0,Aluminium
+Lewes,0.0,Aluminium
+Rother,0.0,Aluminium
+Wealden,0.0,Aluminium
+Basingstoke and Deane,0.0,Aluminium
+East Hampshire,0.0,Aluminium
+Eastleigh,0.0,Aluminium
+Fareham,0.0,Aluminium
+Gosport,0.0,Aluminium
+Hart,0.0,Aluminium
+Havant,0.0,Aluminium
+New Forest,0.0,Aluminium
+Rushmoor,20.0,Aluminium
+Test Valley,10.0,Aluminium
+Winchester,0.0,Aluminium
+Ashford,0.0,Aluminium
+Canterbury,0.0,Aluminium
+Dartford,0.0,Aluminium
+Dover,0.0,Aluminium
+Gravesham,0.0,Aluminium
+Maidstone,0.0,Aluminium
+Sevenoaks,0.0,Aluminium
+Folkestone and Hythe,0.0,Aluminium
+Swale,0.0,Aluminium
+Thanet,10.0,Aluminium
+Tonbridge and Malling,0.0,Aluminium
+Tunbridge Wells,0.0,Aluminium
+Cherwell,0.0,Aluminium
+Oxford,0.0,Aluminium
+South Oxfordshire,0.0,Aluminium
+Vale of White Horse,0.0,Aluminium
+West Oxfordshire,0.0,Aluminium
+Elmbridge,0.0,Aluminium
+Epsom and Ewell,0.0,Aluminium
+Guildford,0.0,Aluminium
+Mole Valley,0.0,Aluminium
+Reigate and Banstead,0.0,Aluminium
+Runnymede,0.0,Aluminium
+Spelthorne,0.0,Aluminium
+Surrey Heath,0.0,Aluminium
+Tandridge,0.0,Aluminium
+Waverley,0.0,Aluminium
+Woking,0.0,Aluminium
+Adur,0.0,Aluminium
+Arun,0.0,Aluminium
+Chichester,0.0,Aluminium
+Crawley,0.0,Aluminium
+Horsham,0.0,Aluminium
+Mid Sussex,0.0,Aluminium
+Worthing,0.0,Aluminium
+Bath and North East Somerset,0.0,Aluminium
+"Bristol, City of",0.0,Aluminium
+North Somerset,0.0,Aluminium
+South Gloucestershire,0.0,Aluminium
+Plymouth,0.0,Aluminium
+Torbay,0.0,Aluminium
+Swindon,0.0,Aluminium
+Cornwall,0.0,Aluminium
+Isles of Scilly,0.0,Aluminium
+Wiltshire,0.0,Aluminium
+"Bournemouth, Christchurch and Poole",0.0,Aluminium
+Dorset,10.0,Aluminium
+East Devon,0.0,Aluminium
+Exeter,0.0,Aluminium
+Mid Devon,0.0,Aluminium
+North Devon,0.0,Aluminium
+South Hams,0.0,Aluminium
+Teignbridge,0.0,Aluminium
+Torridge,0.0,Aluminium
+West Devon,0.0,Aluminium
+Cheltenham,100.0,Aluminium
+Cotswold,10.0,Aluminium
+Forest of Dean,10.0,Aluminium
+Gloucester,50.0,Aluminium
+Stroud,0.0,Aluminium
+Tewkesbury,0.0,Aluminium
+Somerset,0.0,Aluminium
+Isle of Anglesey,30.0,Aluminium
+Gwynedd,0.0,Aluminium
+Conwy,0.0,Aluminium
+Denbighshire,10.0,Aluminium
+Flintshire,0.0,Aluminium
+Wrexham,50.0,Aluminium
+Ceredigion,0.0,Aluminium
+Pembrokeshire,0.0,Aluminium
+Carmarthenshire,0.0,Aluminium
+Swansea,0.0,Aluminium
+Neath Port Talbot,0.0,Aluminium
+Bridgend,0.0,Aluminium
+Vale of Glamorgan,0.0,Aluminium
+Cardiff,0.0,Aluminium
+Rhondda Cynon Taf,0.0,Aluminium
+Caerphilly,10.0,Aluminium
+Blaenau Gwent,0.0,Aluminium
+Torfaen,10.0,Aluminium
+Monmouthshire,0.0,Aluminium
+Newport,40.0,Aluminium
+Powys,0.0,Aluminium
+Merthyr Tydfil,40.0,Aluminium
+Clackmannanshire,0.0,Aluminium
+Dumfries and Galloway,0.0,Aluminium
+East Ayrshire,0.0,Aluminium
+East Lothian,0.0,Aluminium
+East Renfrewshire,0.0,Aluminium
+Na h-Eileanan Siar,0.0,Aluminium
+Falkirk,0.0,Aluminium
+Highland,150.0,Aluminium
+Inverclyde,0.0,Aluminium
+Midlothian,0.0,Aluminium
+Moray,0.0,Aluminium
+North Ayrshire,0.0,Aluminium
+Orkney Islands,0.0,Aluminium
+Scottish Borders,0.0,Aluminium
+Shetland Islands,0.0,Aluminium
+South Ayrshire,0.0,Aluminium
+South Lanarkshire,0.0,Aluminium
+Stirling,0.0,Aluminium
+Aberdeen City,0.0,Aluminium
+Aberdeenshire,0.0,Aluminium
+Argyll and Bute,0.0,Aluminium
+City of Edinburgh,0.0,Aluminium
+Renfrewshire,0.0,Aluminium
+West Dunbartonshire,0.0,Aluminium
+West Lothian,0.0,Aluminium
+Angus,0.0,Aluminium
+Dundee City,0.0,Aluminium
+East Dunbartonshire,0.0,Aluminium
+Fife,0.0,Aluminium
+Perth and Kinross,10.0,Aluminium
+Glasgow City,10.0,Aluminium
+North Lanarkshire,0.0,Aluminium

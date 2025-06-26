@@ -1,351 +1,351 @@
 region,value,industry
-Hartlepool,0.0,Cars
-Middlesbrough,40.0,Cars
-Redcar and Cleveland,0.0,Cars
-Stockton-on-Tees,20.0,Cars
-Darlington,1500.0,Cars
-County Durham,600.0,Cars
-Northumberland,10.0,Cars
-Newcastle upon Tyne,10.0,Cars
-North Tyneside,0.0,Cars
-South Tyneside,0.0,Cars
-Sunderland,6000.0,Cars
-Gateshead,30.0,Cars
-Halton,0.0,Cars
-Warrington,0.0,Cars
-Blackburn with Darwen,40.0,Cars
-Blackpool,0.0,Cars
-Cheshire East,4000.0,Cars
-Cheshire West and Chester,800.0,Cars
-Cumberland,5.0,Cars
-Westmorland and Furness,0.0,Cars
-Burnley,50.0,Cars
-Chorley,0.0,Cars
-Fylde,0.0,Cars
-Hyndburn,5.0,Cars
-Lancaster,0.0,Cars
-Pendle,20.0,Cars
-Preston,0.0,Cars
-Ribble Valley,10.0,Cars
-Rossendale,0.0,Cars
-South Ribble,1000.0,Cars
-West Lancashire,0.0,Cars
-Wyre,0.0,Cars
-Bolton,5.0,Cars
-Bury,0.0,Cars
-Manchester,250.0,Cars
-Oldham,0.0,Cars
-Rochdale,0.0,Cars
-Salford,0.0,Cars
-Stockport,0.0,Cars
-Tameside,5.0,Cars
-Trafford,20.0,Cars
-Wigan,40.0,Cars
-Knowsley,3000.0,Cars
-Liverpool,15.0,Cars
-St. Helens,10.0,Cars
-Sefton,0.0,Cars
-Wirral,0.0,Cars
-"Kingston upon Hull, City of",10.0,Cars
-East Riding of Yorkshire,0.0,Cars
-North East Lincolnshire,200.0,Cars
-North Lincolnshire,5.0,Cars
-York,0.0,Cars
-North Yorkshire,1000.0,Cars
-Barnsley,25.0,Cars
-Doncaster,50.0,Cars
-Rotherham,150.0,Cars
-Sheffield,15.0,Cars
-Bradford,150.0,Cars
-Calderdale,40.0,Cars
-Kirklees,175.0,Cars
-Leeds,125.0,Cars
-Wakefield,1500.0,Cars
-Derby,15.0,Cars
-Leicester,25.0,Cars
-Rutland,0.0,Cars
-Nottingham,15.0,Cars
-North Northamptonshire,250.0,Cars
-West Northamptonshire,600.0,Cars
-Amber Valley,50.0,Cars
-Bolsover,0.0,Cars
-Chesterfield,50.0,Cars
-Derbyshire Dales,0.0,Cars
-Erewash,0.0,Cars
-High Peak,0.0,Cars
-North East Derbyshire,0.0,Cars
-South Derbyshire,2000.0,Cars
-Blaby,0.0,Cars
-Charnwood,45.0,Cars
-Harborough,40.0,Cars
-Hinckley and Bosworth,50.0,Cars
-Melton,0.0,Cars
-North West Leicestershire,10.0,Cars
-Oadby and Wigston,0.0,Cars
-Boston,10.0,Cars
-East Lindsey,0.0,Cars
-Lincoln,0.0,Cars
-North Kesteven,10.0,Cars
-South Holland,0.0,Cars
-South Kesteven,300.0,Cars
-West Lindsey,50.0,Cars
-Ashfield,0.0,Cars
-Bassetlaw,40.0,Cars
-Broxtowe,0.0,Cars
-Gedling,10.0,Cars
-Mansfield,10.0,Cars
-Newark and Sherwood,40.0,Cars
-Rushcliffe,0.0,Cars
-"Herefordshire, County of",0.0,Cars
-Telford and Wrekin,5.0,Cars
-Stoke-on-Trent,0.0,Cars
-Shropshire,100.0,Cars
-Cannock Chase,30.0,Cars
-East Staffordshire,5.0,Cars
-Lichfield,0.0,Cars
-Newcastle-under-Lyme,0.0,Cars
-South Staffordshire,1000.0,Cars
-Stafford,0.0,Cars
-Staffordshire Moorlands,50.0,Cars
-Tamworth,5.0,Cars
-North Warwickshire,1500.0,Cars
-Nuneaton and Bedworth,5.0,Cars
-Rugby,1000.0,Cars
-Stratford-on-Avon,2000.0,Cars
-Warwick,1500.0,Cars
-Bromsgrove,0.0,Cars
-Malvern Hills,200.0,Cars
-Redditch,0.0,Cars
-Worcester,0.0,Cars
-Wychavon,50.0,Cars
-Wyre Forest,10.0,Cars
-Birmingham,1500.0,Cars
-Coventry,4000.0,Cars
-Dudley,20.0,Cars
-Sandwell,10.0,Cars
-Solihull,10000.0,Cars
-Walsall,100.0,Cars
-Wolverhampton,10.0,Cars
-Peterborough,150.0,Cars
-Luton,1000.0,Cars
-Southend-on-Sea,0.0,Cars
-Thurrock,10.0,Cars
-Bedford,0.0,Cars
-Central Bedfordshire,5.0,Cars
-Cambridge,0.0,Cars
-East Cambridgeshire,10.0,Cars
-Fenland,10.0,Cars
-Huntingdonshire,125.0,Cars
-South Cambridgeshire,5.0,Cars
-Basildon,3000.0,Cars
-Braintree,10.0,Cars
-Brentwood,0.0,Cars
-Castle Point,0.0,Cars
-Chelmsford,40.0,Cars
-Colchester,0.0,Cars
-Epping Forest,0.0,Cars
-Harlow,0.0,Cars
-Maldon,0.0,Cars
-Rochford,0.0,Cars
-Tendring,0.0,Cars
-Uttlesford,10.0,Cars
-Broxbourne,0.0,Cars
-Dacorum,10.0,Cars
-Hertsmere,0.0,Cars
-North Hertfordshire,10.0,Cars
-Three Rivers,0.0,Cars
-Watford,0.0,Cars
-Breckland,30.0,Cars
-Broadland,10.0,Cars
-Great Yarmouth,0.0,Cars
-King's Lynn and West Norfolk,0.0,Cars
-North Norfolk,0.0,Cars
-Norwich,0.0,Cars
-South Norfolk,1500.0,Cars
-Babergh,0.0,Cars
-Ipswich,10.0,Cars
-Mid Suffolk,20.0,Cars
-St Albans,0.0,Cars
-Welwyn Hatfield,20.0,Cars
-East Hertfordshire,10.0,Cars
-Stevenage,0.0,Cars
-East Suffolk,0.0,Cars
-West Suffolk,5.0,Cars
-City of London,50.0,Cars
-Barking and Dagenham,2000.0,Cars
-Barnet,5.0,Cars
-Bexley,100.0,Cars
-Brent,50.0,Cars
-Bromley,0.0,Cars
-Camden,30.0,Cars
-Croydon,0.0,Cars
-Ealing,15.0,Cars
-Enfield,10.0,Cars
-Greenwich,0.0,Cars
-Hackney,5.0,Cars
-Hammersmith and Fulham,40.0,Cars
-Haringey,5.0,Cars
-Harrow,10.0,Cars
-Havering,5.0,Cars
-Hillingdon,5.0,Cars
-Hounslow,0.0,Cars
-Islington,200.0,Cars
-Kensington and Chelsea,0.0,Cars
-Kingston upon Thames,0.0,Cars
-Lambeth,0.0,Cars
-Lewisham,0.0,Cars
-Merton,0.0,Cars
-Newham,5.0,Cars
-Redbridge,0.0,Cars
-Richmond upon Thames,0.0,Cars
-Southwark,5.0,Cars
-Sutton,0.0,Cars
-Tower Hamlets,5.0,Cars
-Waltham Forest,5.0,Cars
-Wandsworth,5.0,Cars
-Westminster,15.0,Cars
-Medway,0.0,Cars
-Bracknell Forest,5.0,Cars
-West Berkshire,10.0,Cars
-Reading,100.0,Cars
-Slough,0.0,Cars
-Windsor and Maidenhead,5.0,Cars
-Wokingham,10.0,Cars
-Milton Keynes,150.0,Cars
-Brighton and Hove,10.0,Cars
-Portsmouth,0.0,Cars
-Southampton,10.0,Cars
-Isle of Wight,0.0,Cars
-Buckinghamshire,25.0,Cars
-Eastbourne,0.0,Cars
-Hastings,0.0,Cars
-Lewes,0.0,Cars
-Rother,10.0,Cars
-Wealden,10.0,Cars
-Basingstoke and Deane,10.0,Cars
-East Hampshire,5.0,Cars
-Eastleigh,0.0,Cars
-Fareham,0.0,Cars
-Gosport,10.0,Cars
-Hart,50.0,Cars
-Havant,15.0,Cars
-New Forest,250.0,Cars
-Rushmoor,0.0,Cars
-Test Valley,0.0,Cars
-Winchester,20.0,Cars
-Ashford,300.0,Cars
-Canterbury,0.0,Cars
-Dartford,0.0,Cars
-Dover,20.0,Cars
-Gravesham,0.0,Cars
-Maidstone,250.0,Cars
-Sevenoaks,15.0,Cars
-Folkestone and Hythe,50.0,Cars
-Swale,10.0,Cars
-Thanet,0.0,Cars
-Tonbridge and Malling,10.0,Cars
-Tunbridge Wells,20.0,Cars
-Cherwell,175.0,Cars
-Oxford,3000.0,Cars
-South Oxfordshire,0.0,Cars
-Vale of White Horse,10.0,Cars
-West Oxfordshire,10.0,Cars
-Elmbridge,0.0,Cars
-Epsom and Ewell,5.0,Cars
-Guildford,100.0,Cars
-Mole Valley,10.0,Cars
-Reigate and Banstead,0.0,Cars
-Runnymede,0.0,Cars
-Spelthorne,5.0,Cars
-Surrey Heath,0.0,Cars
-Tandridge,10.0,Cars
-Waverley,0.0,Cars
-Woking,2000.0,Cars
-Adur,0.0,Cars
-Arun,0.0,Cars
-Chichester,2000.0,Cars
-Crawley,0.0,Cars
-Horsham,10.0,Cars
-Mid Sussex,10.0,Cars
-Worthing,0.0,Cars
-Bath and North East Somerset,5.0,Cars
-"Bristol, City of",10.0,Cars
-North Somerset,20.0,Cars
-South Gloucestershire,20.0,Cars
-Plymouth,0.0,Cars
-Torbay,0.0,Cars
-Swindon,0.0,Cars
-Cornwall,25.0,Cars
-Isles of Scilly,0.0,Cars
-Wiltshire,50.0,Cars
-"Bournemouth, Christchurch and Poole",5.0,Cars
-Dorset,5.0,Cars
-East Devon,0.0,Cars
-Exeter,5.0,Cars
-Mid Devon,0.0,Cars
-North Devon,0.0,Cars
-South Hams,40.0,Cars
-Teignbridge,200.0,Cars
-Torridge,0.0,Cars
-West Devon,0.0,Cars
-Cheltenham,0.0,Cars
-Cotswold,150.0,Cars
-Forest of Dean,40.0,Cars
-Gloucester,0.0,Cars
-Stroud,20.0,Cars
-Tewkesbury,0.0,Cars
-Somerset,30.0,Cars
-Isle of Anglesey,0.0,Cars
-Gwynedd,0.0,Cars
-Conwy,50.0,Cars
-Denbighshire,10.0,Cars
-Flintshire,600.0,Cars
-Wrexham,5.0,Cars
-Ceredigion,0.0,Cars
-Pembrokeshire,0.0,Cars
-Carmarthenshire,10.0,Cars
-Swansea,0.0,Cars
-Neath Port Talbot,0.0,Cars
-Bridgend,0.0,Cars
-Vale of Glamorgan,400.0,Cars
-Cardiff,5.0,Cars
-Rhondda Cynon Taf,0.0,Cars
-Caerphilly,5.0,Cars
-Blaenau Gwent,20.0,Cars
-Torfaen,0.0,Cars
-Monmouthshire,0.0,Cars
-Newport,0.0,Cars
-Powys,0.0,Cars
-Merthyr Tydfil,200.0,Cars
-Clackmannanshire,0.0,Cars
-Dumfries and Galloway,10.0,Cars
-East Ayrshire,10.0,Cars
-East Lothian,15.0,Cars
-East Renfrewshire,0.0,Cars
-Na h-Eileanan Siar,0.0,Cars
-Falkirk,800.0,Cars
-Highland,30.0,Cars
-Inverclyde,40.0,Cars
-Midlothian,0.0,Cars
-Moray,0.0,Cars
-North Ayrshire,10.0,Cars
-Orkney Islands,0.0,Cars
-Scottish Borders,0.0,Cars
-Shetland Islands,0.0,Cars
-South Ayrshire,0.0,Cars
-South Lanarkshire,125.0,Cars
-Stirling,0.0,Cars
-Aberdeen City,0.0,Cars
-Aberdeenshire,0.0,Cars
-Argyll and Bute,0.0,Cars
-City of Edinburgh,15.0,Cars
-Renfrewshire,10.0,Cars
-West Dunbartonshire,0.0,Cars
-West Lothian,0.0,Cars
-Angus,0.0,Cars
-Dundee City,10.0,Cars
-East Dunbartonshire,0.0,Cars
-Fife,200.0,Cars
-Perth and Kinross,0.0,Cars
-Glasgow City,800.0,Cars
-North Lanarkshire,20.0,Cars
+Hartlepool,550,Cars
+Middlesbrough,90,Cars
+Redcar and Cleveland,500,Cars
+Stockton-on-Tees,840,Cars
+Darlington,1650,Cars
+County Durham,2450,Cars
+Northumberland,135,Cars
+Newcastle upon Tyne,185,Cars
+North Tyneside,10,Cars
+South Tyneside,150,Cars
+Sunderland,10000,Cars
+Gateshead,1330,Cars
+Halton,50,Cars
+Warrington,330,Cars
+Blackburn with Darwen,180,Cars
+Blackpool,105,Cars
+Cheshire East,4070,Cars
+Cheshire West and Chester,1350,Cars
+Cumberland,15,Cars
+Westmorland and Furness,45,Cars
+Burnley,600,Cars
+Chorley,50,Cars
+Fylde,305,Cars
+Hyndburn,85,Cars
+Lancaster,80,Cars
+Pendle,25,Cars
+Preston,30,Cars
+Ribble Valley,10,Cars
+Rossendale,260,Cars
+South Ribble,1160,Cars
+West Lancashire,15,Cars
+Wyre,30,Cars
+Bolton,280,Cars
+Bury,150,Cars
+Manchester,365,Cars
+Oldham,10,Cars
+Rochdale,100,Cars
+Salford,10,Cars
+Stockport,40,Cars
+Tameside,155,Cars
+Trafford,25,Cars
+Wigan,325,Cars
+Knowsley,4000,Cars
+Liverpool,335,Cars
+St. Helens,50,Cars
+Sefton,60,Cars
+Wirral,0,Cars
+"Kingston upon Hull, City of",1260,Cars
+East Riding of Yorkshire,1545,Cars
+North East Lincolnshire,200,Cars
+North Lincolnshire,135,Cars
+York,0,Cars
+North Yorkshire,1485,Cars
+Barnsley,315,Cars
+Doncaster,415,Cars
+Rotherham,330,Cars
+Sheffield,215,Cars
+Bradford,390,Cars
+Calderdale,195,Cars
+Kirklees,275,Cars
+Leeds,190,Cars
+Wakefield,1630,Cars
+Derby,240,Cars
+Leicester,225,Cars
+Rutland,0,Cars
+Nottingham,90,Cars
+North Northamptonshire,1285,Cars
+West Northamptonshire,2300,Cars
+Amber Valley,375,Cars
+Bolsover,10,Cars
+Chesterfield,70,Cars
+Derbyshire Dales,10,Cars
+Erewash,200,Cars
+High Peak,400,Cars
+North East Derbyshire,90,Cars
+South Derbyshire,2030,Cars
+Blaby,35,Cars
+Charnwood,80,Cars
+Harborough,215,Cars
+Hinckley and Bosworth,220,Cars
+Melton,125,Cars
+North West Leicestershire,370,Cars
+Oadby and Wigston,0,Cars
+Boston,340,Cars
+East Lindsey,30,Cars
+Lincoln,150,Cars
+North Kesteven,170,Cars
+South Holland,40,Cars
+South Kesteven,730,Cars
+West Lindsey,300,Cars
+Ashfield,125,Cars
+Bassetlaw,160,Cars
+Broxtowe,10,Cars
+Gedling,60,Cars
+Mansfield,225,Cars
+Newark and Sherwood,165,Cars
+Rushcliffe,50,Cars
+"Herefordshire, County of",230,Cars
+Telford and Wrekin,2115,Cars
+Stoke-on-Trent,525,Cars
+Shropshire,245,Cars
+Cannock Chase,230,Cars
+East Staffordshire,555,Cars
+Lichfield,60,Cars
+Newcastle-under-Lyme,30,Cars
+South Staffordshire,1015,Cars
+Stafford,45,Cars
+Staffordshire Moorlands,365,Cars
+Tamworth,455,Cars
+North Warwickshire,2200,Cars
+Nuneaton and Bedworth,915,Cars
+Rugby,1105,Cars
+Stratford-on-Avon,2135,Cars
+Warwick,1810,Cars
+Bromsgrove,800,Cars
+Malvern Hills,270,Cars
+Redditch,460,Cars
+Worcester,30,Cars
+Wychavon,210,Cars
+Wyre Forest,410,Cars
+Birmingham,4665,Cars
+Coventry,6400,Cars
+Dudley,445,Cars
+Sandwell,1120,Cars
+Solihull,11300,Cars
+Walsall,625,Cars
+Wolverhampton,240,Cars
+Peterborough,470,Cars
+Luton,1080,Cars
+Southend-on-Sea,10,Cars
+Thurrock,60,Cars
+Bedford,25,Cars
+Central Bedfordshire,135,Cars
+Cambridge,0,Cars
+East Cambridgeshire,35,Cars
+Fenland,385,Cars
+Huntingdonshire,245,Cars
+South Cambridgeshire,50,Cars
+Basildon,3200,Cars
+Braintree,270,Cars
+Brentwood,0,Cars
+Castle Point,30,Cars
+Chelmsford,75,Cars
+Colchester,110,Cars
+Epping Forest,20,Cars
+Harlow,20,Cars
+Maldon,20,Cars
+Rochford,25,Cars
+Tendring,70,Cars
+Uttlesford,20,Cars
+Broxbourne,0,Cars
+Dacorum,10,Cars
+Hertsmere,0,Cars
+North Hertfordshire,10,Cars
+Three Rivers,0,Cars
+Watford,10,Cars
+Breckland,90,Cars
+Broadland,20,Cars
+Great Yarmouth,0,Cars
+King's Lynn and West Norfolk,40,Cars
+North Norfolk,100,Cars
+Norwich,0,Cars
+South Norfolk,1910,Cars
+Babergh,125,Cars
+Ipswich,20,Cars
+Mid Suffolk,90,Cars
+St Albans,5,Cars
+Welwyn Hatfield,35,Cars
+East Hertfordshire,60,Cars
+Stevenage,20,Cars
+East Suffolk,285,Cars
+West Suffolk,65,Cars
+City of London,80,Cars
+Barking and Dagenham,2010,Cars
+Barnet,25,Cars
+Bexley,105,Cars
+Brent,50,Cars
+Bromley,0,Cars
+Camden,40,Cars
+Croydon,30,Cars
+Ealing,55,Cars
+Enfield,10,Cars
+Greenwich,0,Cars
+Hackney,5,Cars
+Hammersmith and Fulham,45,Cars
+Haringey,5,Cars
+Harrow,10,Cars
+Havering,5,Cars
+Hillingdon,55,Cars
+Hounslow,0,Cars
+Islington,220,Cars
+Kensington and Chelsea,0,Cars
+Kingston upon Thames,0,Cars
+Lambeth,0,Cars
+Lewisham,0,Cars
+Merton,0,Cars
+Newham,5,Cars
+Redbridge,0,Cars
+Richmond upon Thames,0,Cars
+Southwark,15,Cars
+Sutton,0,Cars
+Tower Hamlets,5,Cars
+Waltham Forest,25,Cars
+Wandsworth,5,Cars
+Westminster,20,Cars
+Medway,15,Cars
+Bracknell Forest,5,Cars
+West Berkshire,410,Cars
+Reading,110,Cars
+Slough,20,Cars
+Windsor and Maidenhead,115,Cars
+Wokingham,40,Cars
+Milton Keynes,630,Cars
+Brighton and Hove,15,Cars
+Portsmouth,100,Cars
+Southampton,50,Cars
+Isle of Wight,130,Cars
+Buckinghamshire,275,Cars
+Eastbourne,0,Cars
+Hastings,10,Cars
+Lewes,30,Cars
+Rother,20,Cars
+Wealden,55,Cars
+Basingstoke and Deane,55,Cars
+East Hampshire,5,Cars
+Eastleigh,100,Cars
+Fareham,405,Cars
+Gosport,20,Cars
+Hart,60,Cars
+Havant,25,Cars
+New Forest,315,Cars
+Rushmoor,90,Cars
+Test Valley,300,Cars
+Winchester,60,Cars
+Ashford,305,Cars
+Canterbury,0,Cars
+Dartford,50,Cars
+Dover,70,Cars
+Gravesham,0,Cars
+Maidstone,280,Cars
+Sevenoaks,125,Cars
+Folkestone and Hythe,90,Cars
+Swale,85,Cars
+Thanet,30,Cars
+Tonbridge and Malling,30,Cars
+Tunbridge Wells,40,Cars
+Cherwell,1430,Cars
+Oxford,3030,Cars
+South Oxfordshire,20,Cars
+Vale of White Horse,25,Cars
+West Oxfordshire,130,Cars
+Elmbridge,10,Cars
+Epsom and Ewell,15,Cars
+Guildford,130,Cars
+Mole Valley,510,Cars
+Reigate and Banstead,0,Cars
+Runnymede,35,Cars
+Spelthorne,15,Cars
+Surrey Heath,20,Cars
+Tandridge,30,Cars
+Waverley,15,Cars
+Woking,2150,Cars
+Adur,10,Cars
+Arun,400,Cars
+Chichester,2100,Cars
+Crawley,0,Cars
+Horsham,65,Cars
+Mid Sussex,60,Cars
+Worthing,0,Cars
+Bath and North East Somerset,5,Cars
+"Bristol, City of",685,Cars
+North Somerset,85,Cars
+South Gloucestershire,155,Cars
+Plymouth,40,Cars
+Torbay,0,Cars
+Swindon,650,Cars
+Cornwall,45,Cars
+Isles of Scilly,0,Cars
+Wiltshire,405,Cars
+"Bournemouth, Christchurch and Poole",265,Cars
+Dorset,85,Cars
+East Devon,50,Cars
+Exeter,15,Cars
+Mid Devon,75,Cars
+North Devon,25,Cars
+South Hams,50,Cars
+Teignbridge,215,Cars
+Torridge,0,Cars
+West Devon,10,Cars
+Cheltenham,10,Cars
+Cotswold,160,Cars
+Forest of Dean,60,Cars
+Gloucester,110,Cars
+Stroud,30,Cars
+Tewkesbury,610,Cars
+Somerset,220,Cars
+Isle of Anglesey,0,Cars
+Gwynedd,15,Cars
+Conwy,65,Cars
+Denbighshire,810,Cars
+Flintshire,1000,Cars
+Wrexham,505,Cars
+Ceredigion,0,Cars
+Pembrokeshire,15,Cars
+Carmarthenshire,1045,Cars
+Swansea,175,Cars
+Neath Port Talbot,200,Cars
+Bridgend,50,Cars
+Vale of Glamorgan,400,Cars
+Cardiff,15,Cars
+Rhondda Cynon Taf,40,Cars
+Caerphilly,315,Cars
+Blaenau Gwent,620,Cars
+Torfaen,815,Cars
+Monmouthshire,255,Cars
+Newport,0,Cars
+Powys,55,Cars
+Merthyr Tydfil,500,Cars
+Clackmannanshire,0,Cars
+Dumfries and Galloway,110,Cars
+East Ayrshire,90,Cars
+East Lothian,35,Cars
+East Renfrewshire,0,Cars
+Na h-Eileanan Siar,0,Cars
+Falkirk,980,Cars
+Highland,80,Cars
+Inverclyde,40,Cars
+Midlothian,50,Cars
+Moray,0,Cars
+North Ayrshire,20,Cars
+Orkney Islands,0,Cars
+Scottish Borders,0,Cars
+Shetland Islands,0,Cars
+South Ayrshire,20,Cars
+South Lanarkshire,135,Cars
+Stirling,0,Cars
+Aberdeen City,50,Cars
+Aberdeenshire,620,Cars
+Argyll and Bute,40,Cars
+City of Edinburgh,235,Cars
+Renfrewshire,20,Cars
+West Dunbartonshire,100,Cars
+West Lothian,200,Cars
+Angus,150,Cars
+Dundee City,10,Cars
+East Dunbartonshire,10,Cars
+Fife,470,Cars
+Perth and Kinross,10,Cars
+Glasgow City,1010,Cars
+North Lanarkshire,85,Cars

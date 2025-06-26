@@ -1,351 +1,351 @@
 region,value,industry
-Hartlepool,50.0,Steel
-Middlesbrough,30.0,Steel
-Redcar and Cleveland,1000.0,Steel
-Stockton-on-Tees,45.0,Steel
-Darlington,20.0,Steel
-County Durham,175.0,Steel
-Northumberland,5.0,Steel
-Newcastle upon Tyne,25.0,Steel
-North Tyneside,100.0,Steel
-South Tyneside,20.0,Steel
-Sunderland,100.0,Steel
-Gateshead,150.0,Steel
-Halton,100.0,Steel
-Warrington,0.0,Steel
-Blackburn with Darwen,50.0,Steel
-Blackpool,40.0,Steel
-Cheshire East,20.0,Steel
-Cheshire West and Chester,20.0,Steel
-Cumberland,75.0,Steel
-Westmorland and Furness,20.0,Steel
-Burnley,10.0,Steel
-Chorley,150.0,Steel
-Fylde,0.0,Steel
-Hyndburn,100.0,Steel
-Lancaster,10.0,Steel
-Pendle,20.0,Steel
-Preston,400.0,Steel
-Ribble Valley,40.0,Steel
-Rossendale,0.0,Steel
-South Ribble,20.0,Steel
-West Lancashire,20.0,Steel
-Wyre,0.0,Steel
-Bolton,10.0,Steel
-Bury,10.0,Steel
-Manchester,0.0,Steel
-Oldham,20.0,Steel
-Rochdale,0.0,Steel
-Salford,250.0,Steel
-Stockport,350.0,Steel
-Tameside,100.0,Steel
-Trafford,50.0,Steel
-Wigan,25.0,Steel
-Knowsley,100.0,Steel
-Liverpool,0.0,Steel
-St. Helens,40.0,Steel
-Sefton,100.0,Steel
-Wirral,200.0,Steel
-"Kingston upon Hull, City of",45.0,Steel
-East Riding of Yorkshire,75.0,Steel
-North East Lincolnshire,0.0,Steel
-North Lincolnshire,3000.0,Steel
-York,0.0,Steel
-North Yorkshire,30.0,Steel
-Barnsley,75.0,Steel
-Doncaster,75.0,Steel
-Rotherham,1000.0,Steel
-Sheffield,2250.0,Steel
-Bradford,40.0,Steel
-Calderdale,75.0,Steel
-Kirklees,10.0,Steel
-Leeds,50.0,Steel
-Wakefield,125.0,Steel
-Derby,0.0,Steel
-Leicester,30.0,Steel
-Rutland,0.0,Steel
-Nottingham,100.0,Steel
-North Northamptonshire,75.0,Steel
-West Northamptonshire,150.0,Steel
-Amber Valley,35.0,Steel
-Bolsover,100.0,Steel
-Chesterfield,175.0,Steel
-Derbyshire Dales,0.0,Steel
-Erewash,0.0,Steel
-High Peak,0.0,Steel
-North East Derbyshire,150.0,Steel
-South Derbyshire,0.0,Steel
-Blaby,10.0,Steel
-Charnwood,50.0,Steel
-Harborough,10.0,Steel
-Hinckley and Bosworth,50.0,Steel
-Melton,0.0,Steel
-North West Leicestershire,0.0,Steel
-Oadby and Wigston,0.0,Steel
-Boston,10.0,Steel
-East Lindsey,0.0,Steel
-Lincoln,0.0,Steel
-North Kesteven,0.0,Steel
-South Holland,10.0,Steel
-South Kesteven,0.0,Steel
-West Lindsey,10.0,Steel
-Ashfield,0.0,Steel
-Bassetlaw,30.0,Steel
-Broxtowe,0.0,Steel
-Gedling,10.0,Steel
-Mansfield,0.0,Steel
-Newark and Sherwood,50.0,Steel
-Rushcliffe,0.0,Steel
-"Herefordshire, County of",150.0,Steel
-Telford and Wrekin,50.0,Steel
-Stoke-on-Trent,10.0,Steel
-Shropshire,200.0,Steel
-Cannock Chase,0.0,Steel
-East Staffordshire,0.0,Steel
-Lichfield,150.0,Steel
-Newcastle-under-Lyme,30.0,Steel
-South Staffordshire,20.0,Steel
-Stafford,10.0,Steel
-Staffordshire Moorlands,125.0,Steel
-Tamworth,75.0,Steel
-North Warwickshire,0.0,Steel
-Nuneaton and Bedworth,10.0,Steel
-Rugby,20.0,Steel
-Stratford-on-Avon,75.0,Steel
-Warwick,15.0,Steel
-Bromsgrove,10.0,Steel
-Malvern Hills,10.0,Steel
-Redditch,0.0,Steel
-Worcester,0.0,Steel
-Wychavon,5.0,Steel
-Wyre Forest,100.0,Steel
-Birmingham,30.0,Steel
-Coventry,0.0,Steel
-Dudley,400.0,Steel
-Sandwell,400.0,Steel
-Solihull,0.0,Steel
-Walsall,300.0,Steel
-Wolverhampton,125.0,Steel
-Peterborough,10.0,Steel
-Luton,5.0,Steel
-Southend-on-Sea,0.0,Steel
-Thurrock,15.0,Steel
-Bedford,100.0,Steel
-Central Bedfordshire,20.0,Steel
-Cambridge,0.0,Steel
-East Cambridgeshire,0.0,Steel
-Fenland,25.0,Steel
-Huntingdonshire,0.0,Steel
-South Cambridgeshire,5.0,Steel
-Basildon,100.0,Steel
-Braintree,100.0,Steel
-Brentwood,150.0,Steel
-Castle Point,0.0,Steel
-Chelmsford,75.0,Steel
-Colchester,10.0,Steel
-Epping Forest,0.0,Steel
-Harlow,10.0,Steel
-Maldon,10.0,Steel
-Rochford,10.0,Steel
-Tendring,10.0,Steel
-Uttlesford,0.0,Steel
-Broxbourne,20.0,Steel
-Dacorum,0.0,Steel
-Hertsmere,0.0,Steel
-North Hertfordshire,0.0,Steel
-Three Rivers,0.0,Steel
-Watford,0.0,Steel
-Breckland,0.0,Steel
-Broadland,0.0,Steel
-Great Yarmouth,0.0,Steel
-King's Lynn and West Norfolk,0.0,Steel
-North Norfolk,0.0,Steel
-Norwich,0.0,Steel
-South Norfolk,0.0,Steel
-Babergh,0.0,Steel
-Ipswich,0.0,Steel
-Mid Suffolk,15.0,Steel
-St Albans,30.0,Steel
-Welwyn Hatfield,0.0,Steel
-East Hertfordshire,0.0,Steel
-Stevenage,0.0,Steel
-East Suffolk,0.0,Steel
-West Suffolk,20.0,Steel
-City of London,0.0,Steel
-Barking and Dagenham,0.0,Steel
-Barnet,0.0,Steel
-Bexley,0.0,Steel
-Brent,0.0,Steel
-Bromley,0.0,Steel
-Camden,0.0,Steel
-Croydon,0.0,Steel
-Ealing,0.0,Steel
-Enfield,0.0,Steel
-Greenwich,0.0,Steel
-Hackney,0.0,Steel
-Hammersmith and Fulham,0.0,Steel
-Haringey,0.0,Steel
-Harrow,0.0,Steel
-Havering,0.0,Steel
-Hillingdon,0.0,Steel
-Hounslow,10.0,Steel
-Islington,0.0,Steel
-Kensington and Chelsea,0.0,Steel
-Kingston upon Thames,0.0,Steel
-Lambeth,0.0,Steel
-Lewisham,0.0,Steel
-Merton,0.0,Steel
-Newham,0.0,Steel
-Redbridge,0.0,Steel
-Richmond upon Thames,0.0,Steel
-Southwark,0.0,Steel
-Sutton,0.0,Steel
-Tower Hamlets,0.0,Steel
-Waltham Forest,0.0,Steel
-Wandsworth,0.0,Steel
-Westminster,0.0,Steel
-Medway,225.0,Steel
-Bracknell Forest,10.0,Steel
-West Berkshire,0.0,Steel
-Reading,0.0,Steel
-Slough,0.0,Steel
-Windsor and Maidenhead,45.0,Steel
-Wokingham,0.0,Steel
-Milton Keynes,15.0,Steel
-Brighton and Hove,0.0,Steel
-Portsmouth,10.0,Steel
-Southampton,0.0,Steel
-Isle of Wight,0.0,Steel
-Buckinghamshire,75.0,Steel
-Eastbourne,0.0,Steel
-Hastings,0.0,Steel
-Lewes,0.0,Steel
-Rother,50.0,Steel
-Wealden,20.0,Steel
-Basingstoke and Deane,0.0,Steel
-East Hampshire,0.0,Steel
-Eastleigh,0.0,Steel
-Fareham,0.0,Steel
-Gosport,0.0,Steel
-Hart,0.0,Steel
-Havant,0.0,Steel
-New Forest,0.0,Steel
-Rushmoor,0.0,Steel
-Test Valley,0.0,Steel
-Winchester,0.0,Steel
-Ashford,0.0,Steel
-Canterbury,0.0,Steel
-Dartford,15.0,Steel
-Dover,0.0,Steel
-Gravesham,0.0,Steel
-Maidstone,20.0,Steel
-Sevenoaks,0.0,Steel
-Folkestone and Hythe,0.0,Steel
-Swale,5.0,Steel
-Thanet,30.0,Steel
-Tonbridge and Malling,50.0,Steel
-Tunbridge Wells,0.0,Steel
-Cherwell,0.0,Steel
-Oxford,0.0,Steel
-South Oxfordshire,20.0,Steel
-Vale of White Horse,0.0,Steel
-West Oxfordshire,0.0,Steel
-Elmbridge,0.0,Steel
-Epsom and Ewell,0.0,Steel
-Guildford,0.0,Steel
-Mole Valley,0.0,Steel
-Reigate and Banstead,0.0,Steel
-Runnymede,10.0,Steel
-Spelthorne,20.0,Steel
-Surrey Heath,0.0,Steel
-Tandridge,0.0,Steel
-Waverley,0.0,Steel
-Woking,0.0,Steel
-Adur,0.0,Steel
-Arun,0.0,Steel
-Chichester,50.0,Steel
-Crawley,0.0,Steel
-Horsham,10.0,Steel
-Mid Sussex,0.0,Steel
-Worthing,10.0,Steel
-Bath and North East Somerset,0.0,Steel
-"Bristol, City of",50.0,Steel
-North Somerset,0.0,Steel
-South Gloucestershire,0.0,Steel
-Plymouth,0.0,Steel
-Torbay,0.0,Steel
-Swindon,0.0,Steel
-Cornwall,0.0,Steel
-Isles of Scilly,0.0,Steel
-Wiltshire,0.0,Steel
-"Bournemouth, Christchurch and Poole",35.0,Steel
-Dorset,100.0,Steel
-East Devon,0.0,Steel
-Exeter,0.0,Steel
-Mid Devon,20.0,Steel
-North Devon,0.0,Steel
-South Hams,0.0,Steel
-Teignbridge,20.0,Steel
-Torridge,15.0,Steel
-West Devon,0.0,Steel
-Cheltenham,0.0,Steel
-Cotswold,0.0,Steel
-Forest of Dean,100.0,Steel
-Gloucester,25.0,Steel
-Stroud,10.0,Steel
-Tewkesbury,0.0,Steel
-Somerset,20.0,Steel
-Isle of Anglesey,0.0,Steel
-Gwynedd,10.0,Steel
-Conwy,10.0,Steel
-Denbighshire,0.0,Steel
-Flintshire,1000.0,Steel
-Wrexham,0.0,Steel
-Ceredigion,10.0,Steel
-Pembrokeshire,0.0,Steel
-Carmarthenshire,600.0,Steel
-Swansea,10.0,Steel
-Neath Port Talbot,4000.0,Steel
-Bridgend,15.0,Steel
-Vale of Glamorgan,0.0,Steel
-Cardiff,1000.0,Steel
-Rhondda Cynon Taf,10.0,Steel
-Caerphilly,30.0,Steel
-Blaenau Gwent,0.0,Steel
-Torfaen,10.0,Steel
-Monmouthshire,10.0,Steel
-Newport,1000.0,Steel
-Powys,20.0,Steel
-Merthyr Tydfil,0.0,Steel
-Clackmannanshire,20.0,Steel
-Dumfries and Galloway,10.0,Steel
-East Ayrshire,0.0,Steel
-East Lothian,10.0,Steel
-East Renfrewshire,0.0,Steel
-Na h-Eileanan Siar,0.0,Steel
-Falkirk,0.0,Steel
-Highland,0.0,Steel
-Inverclyde,0.0,Steel
-Midlothian,0.0,Steel
-Moray,0.0,Steel
-North Ayrshire,20.0,Steel
-Orkney Islands,0.0,Steel
-Scottish Borders,0.0,Steel
-Shetland Islands,0.0,Steel
-South Ayrshire,20.0,Steel
-South Lanarkshire,40.0,Steel
-Stirling,0.0,Steel
-Aberdeen City,50.0,Steel
-Aberdeenshire,15.0,Steel
-Argyll and Bute,0.0,Steel
-City of Edinburgh,0.0,Steel
-Renfrewshire,0.0,Steel
-West Dunbartonshire,0.0,Steel
-West Lothian,0.0,Steel
-Angus,0.0,Steel
-Dundee City,0.0,Steel
-East Dunbartonshire,0.0,Steel
-Fife,45.0,Steel
-Perth and Kinross,0.0,Steel
-Glasgow City,0.0,Steel
-North Lanarkshire,150.0,Steel
+Hartlepool,450,Steel
+Middlesbrough,40,Steel
+Redcar and Cleveland,1030,Steel
+Stockton-on-Tees,545,Steel
+Darlington,20,Steel
+County Durham,225,Steel
+Northumberland,45,Steel
+Newcastle upon Tyne,25,Steel
+North Tyneside,130,Steel
+South Tyneside,120,Steel
+Sunderland,120,Steel
+Gateshead,150,Steel
+Halton,150,Steel
+Warrington,10,Steel
+Blackburn with Darwen,100,Steel
+Blackpool,40,Steel
+Cheshire East,120,Steel
+Cheshire West and Chester,20,Steel
+Cumberland,95,Steel
+Westmorland and Furness,40,Steel
+Burnley,10,Steel
+Chorley,150,Steel
+Fylde,0,Steel
+Hyndburn,100,Steel
+Lancaster,30,Steel
+Pendle,220,Steel
+Preston,400,Steel
+Ribble Valley,50,Steel
+Rossendale,10,Steel
+South Ribble,220,Steel
+West Lancashire,120,Steel
+Wyre,0,Steel
+Bolton,60,Steel
+Bury,50,Steel
+Manchester,260,Steel
+Oldham,60,Steel
+Rochdale,0,Steel
+Salford,375,Steel
+Stockport,350,Steel
+Tameside,100,Steel
+Trafford,80,Steel
+Wigan,125,Steel
+Knowsley,150,Steel
+Liverpool,40,Steel
+St. Helens,440,Steel
+Sefton,100,Steel
+Wirral,400,Steel
+"Kingston upon Hull, City of",45,Steel
+East Riding of Yorkshire,95,Steel
+North East Lincolnshire,50,Steel
+North Lincolnshire,3020,Steel
+York,0,Steel
+North Yorkshire,390,Steel
+Barnsley,85,Steel
+Doncaster,75,Steel
+Rotherham,1130,Steel
+Sheffield,2350,Steel
+Bradford,190,Steel
+Calderdale,115,Steel
+Kirklees,90,Steel
+Leeds,370,Steel
+Wakefield,125,Steel
+Derby,40,Steel
+Leicester,130,Steel
+Rutland,0,Steel
+Nottingham,100,Steel
+North Northamptonshire,685,Steel
+West Northamptonshire,190,Steel
+Amber Valley,35,Steel
+Bolsover,100,Steel
+Chesterfield,185,Steel
+Derbyshire Dales,0,Steel
+Erewash,10,Steel
+High Peak,20,Steel
+North East Derbyshire,150,Steel
+South Derbyshire,0,Steel
+Blaby,10,Steel
+Charnwood,60,Steel
+Harborough,10,Steel
+Hinckley and Bosworth,50,Steel
+Melton,10,Steel
+North West Leicestershire,0,Steel
+Oadby and Wigston,0,Steel
+Boston,10,Steel
+East Lindsey,10,Steel
+Lincoln,0,Steel
+North Kesteven,150,Steel
+South Holland,10,Steel
+South Kesteven,0,Steel
+West Lindsey,10,Steel
+Ashfield,0,Steel
+Bassetlaw,40,Steel
+Broxtowe,40,Steel
+Gedling,10,Steel
+Mansfield,0,Steel
+Newark and Sherwood,70,Steel
+Rushcliffe,0,Steel
+"Herefordshire, County of",150,Steel
+Telford and Wrekin,70,Steel
+Stoke-on-Trent,30,Steel
+Shropshire,200,Steel
+Cannock Chase,10,Steel
+East Staffordshire,100,Steel
+Lichfield,230,Steel
+Newcastle-under-Lyme,30,Steel
+South Staffordshire,70,Steel
+Stafford,10,Steel
+Staffordshire Moorlands,125,Steel
+Tamworth,75,Steel
+North Warwickshire,0,Steel
+Nuneaton and Bedworth,10,Steel
+Rugby,20,Steel
+Stratford-on-Avon,95,Steel
+Warwick,65,Steel
+Bromsgrove,60,Steel
+Malvern Hills,10,Steel
+Redditch,125,Steel
+Worcester,200,Steel
+Wychavon,5,Steel
+Wyre Forest,110,Steel
+Birmingham,155,Steel
+Coventry,50,Steel
+Dudley,760,Steel
+Sandwell,1250,Steel
+Solihull,0,Steel
+Walsall,770,Steel
+Wolverhampton,305,Steel
+Peterborough,20,Steel
+Luton,5,Steel
+Southend-on-Sea,30,Steel
+Thurrock,15,Steel
+Bedford,150,Steel
+Central Bedfordshire,70,Steel
+Cambridge,0,Steel
+East Cambridgeshire,0,Steel
+Fenland,25,Steel
+Huntingdonshire,0,Steel
+South Cambridgeshire,25,Steel
+Basildon,110,Steel
+Braintree,100,Steel
+Brentwood,150,Steel
+Castle Point,0,Steel
+Chelmsford,75,Steel
+Colchester,50,Steel
+Epping Forest,0,Steel
+Harlow,20,Steel
+Maldon,10,Steel
+Rochford,40,Steel
+Tendring,40,Steel
+Uttlesford,0,Steel
+Broxbourne,20,Steel
+Dacorum,10,Steel
+Hertsmere,0,Steel
+North Hertfordshire,310,Steel
+Three Rivers,10,Steel
+Watford,0,Steel
+Breckland,100,Steel
+Broadland,0,Steel
+Great Yarmouth,0,Steel
+King's Lynn and West Norfolk,10,Steel
+North Norfolk,0,Steel
+Norwich,20,Steel
+South Norfolk,0,Steel
+Babergh,0,Steel
+Ipswich,30,Steel
+Mid Suffolk,15,Steel
+St Albans,30,Steel
+Welwyn Hatfield,0,Steel
+East Hertfordshire,0,Steel
+Stevenage,0,Steel
+East Suffolk,0,Steel
+West Suffolk,20,Steel
+City of London,0,Steel
+Barking and Dagenham,0,Steel
+Barnet,0,Steel
+Bexley,0,Steel
+Brent,0,Steel
+Bromley,0,Steel
+Camden,0,Steel
+Croydon,0,Steel
+Ealing,0,Steel
+Enfield,0,Steel
+Greenwich,0,Steel
+Hackney,0,Steel
+Hammersmith and Fulham,0,Steel
+Haringey,0,Steel
+Harrow,0,Steel
+Havering,0,Steel
+Hillingdon,0,Steel
+Hounslow,10,Steel
+Islington,0,Steel
+Kensington and Chelsea,0,Steel
+Kingston upon Thames,0,Steel
+Lambeth,0,Steel
+Lewisham,0,Steel
+Merton,0,Steel
+Newham,0,Steel
+Redbridge,0,Steel
+Richmond upon Thames,0,Steel
+Southwark,0,Steel
+Sutton,0,Steel
+Tower Hamlets,0,Steel
+Waltham Forest,0,Steel
+Wandsworth,0,Steel
+Westminster,0,Steel
+Medway,225,Steel
+Bracknell Forest,10,Steel
+West Berkshire,0,Steel
+Reading,0,Steel
+Slough,0,Steel
+Windsor and Maidenhead,65,Steel
+Wokingham,0,Steel
+Milton Keynes,15,Steel
+Brighton and Hove,0,Steel
+Portsmouth,10,Steel
+Southampton,0,Steel
+Isle of Wight,0,Steel
+Buckinghamshire,95,Steel
+Eastbourne,0,Steel
+Hastings,100,Steel
+Lewes,0,Steel
+Rother,50,Steel
+Wealden,20,Steel
+Basingstoke and Deane,0,Steel
+East Hampshire,10,Steel
+Eastleigh,0,Steel
+Fareham,0,Steel
+Gosport,30,Steel
+Hart,0,Steel
+Havant,0,Steel
+New Forest,10,Steel
+Rushmoor,0,Steel
+Test Valley,10,Steel
+Winchester,0,Steel
+Ashford,0,Steel
+Canterbury,0,Steel
+Dartford,25,Steel
+Dover,10,Steel
+Gravesham,0,Steel
+Maidstone,20,Steel
+Sevenoaks,0,Steel
+Folkestone and Hythe,0,Steel
+Swale,5,Steel
+Thanet,30,Steel
+Tonbridge and Malling,50,Steel
+Tunbridge Wells,0,Steel
+Cherwell,30,Steel
+Oxford,0,Steel
+South Oxfordshire,20,Steel
+Vale of White Horse,10,Steel
+West Oxfordshire,0,Steel
+Elmbridge,0,Steel
+Epsom and Ewell,0,Steel
+Guildford,0,Steel
+Mole Valley,0,Steel
+Reigate and Banstead,0,Steel
+Runnymede,20,Steel
+Spelthorne,50,Steel
+Surrey Heath,0,Steel
+Tandridge,0,Steel
+Waverley,0,Steel
+Woking,10,Steel
+Adur,0,Steel
+Arun,0,Steel
+Chichester,50,Steel
+Crawley,0,Steel
+Horsham,10,Steel
+Mid Sussex,0,Steel
+Worthing,10,Steel
+Bath and North East Somerset,0,Steel
+"Bristol, City of",50,Steel
+North Somerset,0,Steel
+South Gloucestershire,0,Steel
+Plymouth,200,Steel
+Torbay,0,Steel
+Swindon,0,Steel
+Cornwall,5,Steel
+Isles of Scilly,0,Steel
+Wiltshire,0,Steel
+"Bournemouth, Christchurch and Poole",35,Steel
+Dorset,120,Steel
+East Devon,0,Steel
+Exeter,0,Steel
+Mid Devon,20,Steel
+North Devon,200,Steel
+South Hams,0,Steel
+Teignbridge,20,Steel
+Torridge,15,Steel
+West Devon,0,Steel
+Cheltenham,0,Steel
+Cotswold,0,Steel
+Forest of Dean,100,Steel
+Gloucester,125,Steel
+Stroud,60,Steel
+Tewkesbury,0,Steel
+Somerset,20,Steel
+Isle of Anglesey,0,Steel
+Gwynedd,10,Steel
+Conwy,10,Steel
+Denbighshire,0,Steel
+Flintshire,1500,Steel
+Wrexham,10,Steel
+Ceredigion,10,Steel
+Pembrokeshire,0,Steel
+Carmarthenshire,650,Steel
+Swansea,10,Steel
+Neath Port Talbot,4300,Steel
+Bridgend,15,Steel
+Vale of Glamorgan,0,Steel
+Cardiff,1350,Steel
+Rhondda Cynon Taf,40,Steel
+Caerphilly,70,Steel
+Blaenau Gwent,0,Steel
+Torfaen,10,Steel
+Monmouthshire,10,Steel
+Newport,1000,Steel
+Powys,20,Steel
+Merthyr Tydfil,0,Steel
+Clackmannanshire,20,Steel
+Dumfries and Galloway,10,Steel
+East Ayrshire,0,Steel
+East Lothian,10,Steel
+East Renfrewshire,0,Steel
+Na h-Eileanan Siar,0,Steel
+Falkirk,30,Steel
+Highland,0,Steel
+Inverclyde,0,Steel
+Midlothian,0,Steel
+Moray,0,Steel
+North Ayrshire,20,Steel
+Orkney Islands,0,Steel
+Scottish Borders,0,Steel
+Shetland Islands,0,Steel
+South Ayrshire,20,Steel
+South Lanarkshire,70,Steel
+Stirling,0,Steel
+Aberdeen City,200,Steel
+Aberdeenshire,315,Steel
+Argyll and Bute,0,Steel
+City of Edinburgh,0,Steel
+Renfrewshire,0,Steel
+West Dunbartonshire,0,Steel
+West Lothian,40,Steel
+Angus,0,Steel
+Dundee City,0,Steel
+East Dunbartonshire,0,Steel
+Fife,170,Steel
+Perth and Kinross,0,Steel
+Glasgow City,0,Steel
+North Lanarkshire,190,Steel

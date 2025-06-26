@@ -1,0 +1,351 @@
+region,value,industry
+Hartlepool,0.0,Air
+Middlesbrough,0.0,Air
+Redcar and Cleveland,0.0,Air
+Stockton-on-Tees,30.0,Air
+Darlington,0.0,Air
+County Durham,150.0,Air
+Northumberland,0.0,Air
+Newcastle upon Tyne,0.0,Air
+North Tyneside,0.0,Air
+South Tyneside,0.0,Air
+Sunderland,400.0,Air
+Gateshead,0.0,Air
+Halton,250.0,Air
+Warrington,35.0,Air
+Blackburn with Darwen,0.0,Air
+Blackpool,600.0,Air
+Cheshire East,350.0,Air
+Cheshire West and Chester,75.0,Air
+Cumberland,10.0,Air
+Westmorland and Furness,0.0,Air
+Burnley,1000.0,Air
+Chorley,0.0,Air
+Fylde,5000.0,Air
+Hyndburn,400.0,Air
+Lancaster,0.0,Air
+Pendle,900.0,Air
+Preston,100.0,Air
+Ribble Valley,5000.0,Air
+Rossendale,0.0,Air
+South Ribble,10.0,Air
+West Lancashire,0.0,Air
+Wyre,40.0,Air
+Bolton,500.0,Air
+Bury,0.0,Air
+Manchester,225.0,Air
+Oldham,30.0,Air
+Rochdale,10.0,Air
+Salford,250.0,Air
+Stockport,10.0,Air
+Tameside,400.0,Air
+Trafford,75.0,Air
+Wigan,0.0,Air
+Knowsley,0.0,Air
+Liverpool,10.0,Air
+St. Helens,0.0,Air
+Sefton,30.0,Air
+Wirral,100.0,Air
+"Kingston upon Hull, City of",0.0,Air
+East Riding of Yorkshire,700.0,Air
+North East Lincolnshire,0.0,Air
+North Lincolnshire,0.0,Air
+York,0.0,Air
+North Yorkshire,100.0,Air
+Barnsley,0.0,Air
+Doncaster,0.0,Air
+Rotherham,100.0,Air
+Sheffield,250.0,Air
+Bradford,100.0,Air
+Calderdale,0.0,Air
+Kirklees,0.0,Air
+Leeds,10.0,Air
+Wakefield,0.0,Air
+Derby,8000.0,Air
+Leicester,0.0,Air
+Rutland,0.0,Air
+Nottingham,20.0,Air
+North Northamptonshire,10.0,Air
+West Northamptonshire,150.0,Air
+Amber Valley,150.0,Air
+Bolsover,250.0,Air
+Chesterfield,0.0,Air
+Derbyshire Dales,0.0,Air
+Erewash,0.0,Air
+High Peak,0.0,Air
+North East Derbyshire,0.0,Air
+South Derbyshire,0.0,Air
+Blaby,50.0,Air
+Charnwood,400.0,Air
+Harborough,0.0,Air
+Hinckley and Bosworth,250.0,Air
+Melton,0.0,Air
+North West Leicestershire,100.0,Air
+Oadby and Wigston,0.0,Air
+Boston,0.0,Air
+East Lindsey,600.0,Air
+Lincoln,150.0,Air
+North Kesteven,100.0,Air
+South Holland,0.0,Air
+South Kesteven,0.0,Air
+West Lindsey,5.0,Air
+Ashfield,1250.0,Air
+Bassetlaw,200.0,Air
+Broxtowe,0.0,Air
+Gedling,0.0,Air
+Mansfield,50.0,Air
+Newark and Sherwood,0.0,Air
+Rushcliffe,0.0,Air
+"Herefordshire, County of",250.0,Air
+Telford and Wrekin,0.0,Air
+Stoke-on-Trent,150.0,Air
+Shropshire,150.0,Air
+Cannock Chase,0.0,Air
+East Staffordshire,0.0,Air
+Lichfield,20.0,Air
+Newcastle-under-Lyme,0.0,Air
+South Staffordshire,600.0,Air
+Stafford,0.0,Air
+Staffordshire Moorlands,0.0,Air
+Tamworth,0.0,Air
+North Warwickshire,30.0,Air
+Nuneaton and Bedworth,100.0,Air
+Rugby,300.0,Air
+Stratford-on-Avon,0.0,Air
+Warwick,20.0,Air
+Bromsgrove,0.0,Air
+Malvern Hills,100.0,Air
+Redditch,0.0,Air
+Worcester,150.0,Air
+Wychavon,600.0,Air
+Wyre Forest,0.0,Air
+Birmingham,10.0,Air
+Coventry,0.0,Air
+Dudley,200.0,Air
+Sandwell,0.0,Air
+Solihull,1000.0,Air
+Walsall,0.0,Air
+Wolverhampton,2000.0,Air
+Peterborough,0.0,Air
+Luton,600.0,Air
+Southend-on-Sea,10.0,Air
+Thurrock,0.0,Air
+Bedford,20.0,Air
+Central Bedfordshire,600.0,Air
+Cambridge,50.0,Air
+East Cambridgeshire,0.0,Air
+Fenland,100.0,Air
+Huntingdonshire,50.0,Air
+South Cambridgeshire,1000.0,Air
+Basildon,150.0,Air
+Braintree,0.0,Air
+Brentwood,0.0,Air
+Castle Point,0.0,Air
+Chelmsford,50.0,Air
+Colchester,0.0,Air
+Epping Forest,0.0,Air
+Harlow,0.0,Air
+Maldon,0.0,Air
+Rochford,600.0,Air
+Tendring,0.0,Air
+Uttlesford,50.0,Air
+Broxbourne,0.0,Air
+Dacorum,40.0,Air
+Hertsmere,0.0,Air
+North Hertfordshire,100.0,Air
+Three Rivers,10.0,Air
+Watford,50.0,Air
+Breckland,10.0,Air
+Broadland,0.0,Air
+Great Yarmouth,10.0,Air
+King's Lynn and West Norfolk,150.0,Air
+North Norfolk,75.0,Air
+Norwich,0.0,Air
+South Norfolk,50.0,Air
+Babergh,10.0,Air
+Ipswich,0.0,Air
+Mid Suffolk,0.0,Air
+St Albans,0.0,Air
+Welwyn Hatfield,150.0,Air
+East Hertfordshire,100.0,Air
+Stevenage,1500.0,Air
+East Suffolk,0.0,Air
+West Suffolk,0.0,Air
+City of London,20.0,Air
+Barking and Dagenham,0.0,Air
+Barnet,10.0,Air
+Bexley,0.0,Air
+Brent,0.0,Air
+Bromley,50.0,Air
+Camden,0.0,Air
+Croydon,20.0,Air
+Ealing,0.0,Air
+Enfield,0.0,Air
+Greenwich,10.0,Air
+Hackney,5.0,Air
+Hammersmith and Fulham,0.0,Air
+Haringey,0.0,Air
+Harrow,10.0,Air
+Havering,50.0,Air
+Hillingdon,100.0,Air
+Hounslow,10.0,Air
+Islington,0.0,Air
+Kensington and Chelsea,0.0,Air
+Kingston upon Thames,0.0,Air
+Lambeth,0.0,Air
+Lewisham,0.0,Air
+Merton,0.0,Air
+Newham,0.0,Air
+Redbridge,0.0,Air
+Richmond upon Thames,0.0,Air
+Southwark,0.0,Air
+Sutton,0.0,Air
+Tower Hamlets,10.0,Air
+Waltham Forest,0.0,Air
+Wandsworth,0.0,Air
+Westminster,100.0,Air
+Medway,0.0,Air
+Bracknell Forest,0.0,Air
+West Berkshire,10.0,Air
+Reading,10.0,Air
+Slough,0.0,Air
+Windsor and Maidenhead,0.0,Air
+Wokingham,0.0,Air
+Milton Keynes,50.0,Air
+Brighton and Hove,0.0,Air
+Portsmouth,1500.0,Air
+Southampton,5.0,Air
+Isle of Wight,40.0,Air
+Buckinghamshire,1500.0,Air
+Eastbourne,0.0,Air
+Hastings,10.0,Air
+Lewes,0.0,Air
+Rother,0.0,Air
+Wealden,0.0,Air
+Basingstoke and Deane,50.0,Air
+East Hampshire,100.0,Air
+Eastleigh,600.0,Air
+Fareham,600.0,Air
+Gosport,0.0,Air
+Hart,0.0,Air
+Havant,5.0,Air
+New Forest,75.0,Air
+Rushmoor,50.0,Air
+Test Valley,100.0,Air
+Winchester,0.0,Air
+Ashford,150.0,Air
+Canterbury,0.0,Air
+Dartford,0.0,Air
+Dover,0.0,Air
+Gravesham,0.0,Air
+Maidstone,0.0,Air
+Sevenoaks,0.0,Air
+Folkestone and Hythe,0.0,Air
+Swale,0.0,Air
+Thanet,0.0,Air
+Tonbridge and Malling,10.0,Air
+Tunbridge Wells,0.0,Air
+Cherwell,150.0,Air
+Oxford,0.0,Air
+South Oxfordshire,45.0,Air
+Vale of White Horse,35.0,Air
+West Oxfordshire,20.0,Air
+Elmbridge,0.0,Air
+Epsom and Ewell,0.0,Air
+Guildford,400.0,Air
+Mole Valley,10.0,Air
+Reigate and Banstead,0.0,Air
+Runnymede,10.0,Air
+Spelthorne,150.0,Air
+Surrey Heath,0.0,Air
+Tandridge,0.0,Air
+Waverley,0.0,Air
+Woking,0.0,Air
+Adur,0.0,Air
+Arun,0.0,Air
+Chichester,0.0,Air
+Crawley,400.0,Air
+Horsham,10.0,Air
+Mid Sussex,250.0,Air
+Worthing,5.0,Air
+Bath and North East Somerset,150.0,Air
+"Bristol, City of",225.0,Air
+North Somerset,0.0,Air
+South Gloucestershire,8000.0,Air
+Plymouth,300.0,Air
+Torbay,0.0,Air
+Swindon,0.0,Air
+Cornwall,10.0,Air
+Isles of Scilly,0.0,Air
+Wiltshire,500.0,Air
+"Bournemouth, Christchurch and Poole",500.0,Air
+Dorset,1000.0,Air
+East Devon,0.0,Air
+Exeter,0.0,Air
+Mid Devon,0.0,Air
+North Devon,400.0,Air
+South Hams,0.0,Air
+Teignbridge,400.0,Air
+Torridge,0.0,Air
+West Devon,0.0,Air
+Cheltenham,400.0,Air
+Cotswold,0.0,Air
+Forest of Dean,0.0,Air
+Gloucester,100.0,Air
+Stroud,125.0,Air
+Tewkesbury,3000.0,Air
+Somerset,3000.0,Air
+Isle of Anglesey,100.0,Air
+Gwynedd,0.0,Air
+Conwy,0.0,Air
+Denbighshire,0.0,Air
+Flintshire,5000.0,Air
+Wrexham,600.0,Air
+Ceredigion,0.0,Air
+Pembrokeshire,100.0,Air
+Carmarthenshire,0.0,Air
+Swansea,0.0,Air
+Neath Port Talbot,0.0,Air
+Bridgend,50.0,Air
+Vale of Glamorgan,15.0,Air
+Cardiff,0.0,Air
+Rhondda Cynon Taf,0.0,Air
+Caerphilly,0.0,Air
+Blaenau Gwent,0.0,Air
+Torfaen,1000.0,Air
+Monmouthshire,0.0,Air
+Newport,0.0,Air
+Powys,0.0,Air
+Merthyr Tydfil,0.0,Air
+Clackmannanshire,0.0,Air
+Dumfries and Galloway,0.0,Air
+East Ayrshire,0.0,Air
+East Lothian,50.0,Air
+East Renfrewshire,0.0,Air
+Na h-Eileanan Siar,0.0,Air
+Falkirk,0.0,Air
+Highland,0.0,Air
+Inverclyde,0.0,Air
+Midlothian,10.0,Air
+Moray,50.0,Air
+North Ayrshire,30.0,Air
+Orkney Islands,0.0,Air
+Scottish Borders,0.0,Air
+Shetland Islands,0.0,Air
+South Ayrshire,1000.0,Air
+South Lanarkshire,0.0,Air
+Stirling,0.0,Air
+Aberdeen City,50.0,Air
+Aberdeenshire,0.0,Air
+Argyll and Bute,0.0,Air
+City of Edinburgh,150.0,Air
+Renfrewshire,600.0,Air
+West Dunbartonshire,0.0,Air
+West Lothian,0.0,Air
+Angus,0.0,Air
+Dundee City,0.0,Air
+East Dunbartonshire,0.0,Air
+Fife,20.0,Air
+Perth and Kinross,100.0,Air
+Glasgow City,350.0,Air
+North Lanarkshire,100.0,Air

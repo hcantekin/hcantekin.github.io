@@ -1,0 +1,348 @@
+﻿region,name,code,value
+East Midlands,Amber Valley,E07000032,2071.00
+East Midlands,Ashfield,E07000170,1628.00
+East Midlands,Bassetlaw,E07000171,1558.00
+East Midlands,Blaby,E07000129,1136.00
+East Midlands,Bolsover,E07000033,1114.00
+East Midlands,Boston,E07000136,2923.00
+East Midlands,Broxtowe,E07000172,848.00
+East Midlands,Charnwood,E07000130,4912.00
+East Midlands,Chesterfield,E07000034,2450.00
+East Midlands,Corby,E07000150,2028.00
+East Midlands,Daventry,E07000151,1811.00
+East Midlands,Derby,E06000015,6883.00
+East Midlands,Derbyshire Dales,E07000035,2148.00
+East Midlands,East Lindsey,E07000137,1668.00
+East Midlands,East Northamptonshire,E07000152,1066.00
+East Midlands,Erewash,E07000036,1874.00
+East Midlands,Gedling,E07000173,708.00
+East Midlands,Harborough,E07000131,1740.00
+East Midlands,High Peak,E07000037,1278.00
+East Midlands,Hinckley and Bosworth,E07000132,1446.00
+East Midlands,Kettering,E07000153,2535.00
+East Midlands,Leicester,E06000016,9687.00
+East Midlands,Lincoln,E07000138,2163.00
+East Midlands,Mansfield,E07000174,1618.00
+East Midlands,Melton,E07000133,928.00
+East Midlands,Newark and Sherwood,E07000175,3030.00
+East Midlands,North East Derbyshire,E07000038,732.00
+East Midlands,North Kesteven,E07000139,1442.00
+East Midlands,North West Leicestershire,E07000134,2498.00
+East Midlands,Northampton,E07000154,8272.00
+East Midlands,Nottingham,E06000018,13276.00
+East Midlands,Oadby and Wigston,E07000135,579.00
+East Midlands,Rushcliffe,E07000176,1117.00
+East Midlands,Rutland,E06000017,790.00
+East Midlands,South Derbyshire,E07000039,1716.00
+East Midlands,South Holland,E07000140,1115.00
+East Midlands,South Kesteven,E07000141,2500.00
+East Midlands,South Northamptonshire,E07000155,1533.00
+East Midlands,Wellingborough,E07000156,1816.00
+East Midlands,West Lindsey,E07000142,1332.00
+East of England,Babergh,E07000200,985.00
+East of England,Basildon,E07000066,5478.00
+East of England,Bedford,E06000055,4901.00
+East of England,Braintree,E07000067,2711.00
+East of England,Breckland,E07000143,2925.00
+East of England,Brentwood,E07000068,1375.00
+East of England,Broadland,E07000144,658.00
+East of England,Broxbourne,E07000095,1448.00
+East of England,Cambridge,E07000008,10883.00
+East of England,Castle Point,E07000069,642.00
+East of England,Central Bedfordshire,E06000056,4451.00
+East of England,Chelmsford,E07000070,5567.00
+East of England,Colchester,E07000071,4938.00
+East of England,Dacorum,E07000096,3568.00
+East of England,East Cambridgeshire,E07000009,1544.00
+East of England,East Hertfordshire,E07000242,3127.00
+East of England,East Suffolk,E07000244,3922.00
+East of England,Epping Forest,E07000072,2339.00
+East of England,Fenland,E07000010,1666.00
+East of England,Great Yarmouth,E07000145,1372.00
+East of England,Harlow,E07000073,2016.00
+East of England,Hertsmere,E07000098,2244.00
+East of England,Huntingdonshire,E07000011,4667.00
+East of England,Ipswich,E07000202,4702.00
+East of England,King's Lynn and West Norfolk,E07000146,2388.00
+East of England,Luton,E06000032,3832.00
+East of England,Maldon,E07000074,840.00
+East of England,Mid Suffolk,E07000203,1912.00
+East of England,North Hertfordshire,E07000099,2800.00
+East of England,North Norfolk,E07000147,1574.00
+East of England,Norwich,E07000148,7150.00
+East of England,Peterborough,E06000031,6538.00
+East of England,Rochford,E07000075,885.00
+East of England,South Cambridgeshire,E07000012,2278.00
+East of England,South Norfolk,E07000149,1583.00
+East of England,Southend-on-Sea,E06000033,3123.00
+East of England,St Albans,E07000240,3300.00
+East of England,Stevenage,E07000243,3543.00
+East of England,Tendring,E07000076,1566.00
+East of England,Three Rivers,E07000102,659.00
+East of England,Thurrock,E06000034,3058.00
+East of England,Uttlesford,E07000077,1817.00
+East of England,Watford,E07000103,3837.00
+East of England,Welwyn Hatfield,E07000241,4235.00
+East of England,West Suffolk,E07000245,5017.00
+London,London,,237881.00
+North East,County Durham,E06000047,6587.00
+North East,Darlington,E06000005,2400.00
+North East,Gateshead,E08000037,3337.00
+North East,Hartlepool,E06000001,1014.00
+North East,Middlesbrough,E06000002,3239.00
+North East,Newcastle upon Tyne,E08000021,11436.00
+North East,North Tyneside,E08000022,1838.00
+North East,Northumberland,E06000057,4802.00
+North East,Redcar and Cleveland,E06000003,1089.00
+North East,South Tyneside,E08000023,1466.00
+North East,Stockton-on-Tees,E06000004,2923.00
+North East,Sunderland,E08000024,3105.00
+North West,Allerdale,E07000026,1246.00
+North West,Barrow-in-Furness,E07000027,1299.00
+North West,Blackburn with Darwen,E06000008,3361.00
+North West,Blackpool,E06000009,3306.00
+North West,Bolton,E08000001,5170.00
+North West,Burnley,E07000117,1269.00
+North West,Bury,E08000002,2565.00
+North West,Carlisle,E07000028,2023.00
+North West,Cheshire East,E06000049,8995.00
+North West,Cheshire West and Chester,E06000050,8507.00
+North West,Chorley,E07000118,1793.00
+North West,Copeland,E07000029,985.00
+North West,Eden,E07000030,2322.00
+North West,Fylde,E07000119,1388.00
+North West,Halton,E06000006,2835.00
+North West,Hyndburn,E07000120,1024.00
+North West,Knowsley,E08000011,2326.00
+North West,Lancaster,E07000121,3313.00
+North West,Liverpool,E08000012,14166.00
+North West,Manchester,E08000003,35076.00
+North West,Oldham,E08000004,3276.00
+North West,Pendle,E07000122,937.00
+North West,Preston,E07000123,7044.00
+North West,Ribble Valley,E07000124,799.00
+North West,Rochdale,E08000005,3020.00
+North West,Rossendale,E07000125,522.00
+North West,Salford,E08000006,4571.00
+North West,Sefton,E08000014,3097.00
+North West,South Lakeland,E07000031,2534.00
+North West,South Ribble,E07000126,1855.00
+North West,St. Helens,E08000013,2598.00
+North West,Stockport,E08000007,5791.00
+North West,Tameside,E08000008,2159.00
+North West,Trafford,E08000009,5325.00
+North West,Warrington,E06000007,6805.00
+North West,West Lancashire,E07000127,1980.00
+North West,Wigan,E08000010,4347.00
+North West,Wirral,E08000015,4526.00
+North West,Wyre,E07000128,817.00
+Northern Ireland,Antrim and Newtownabbey,N09000001,1985.00
+Northern Ireland,Ards and North Down,N09000011,1038.00
+Northern Ireland,"Armagh City, Banbridge and Craigavon",N09000002,2208.00
+Northern Ireland,Belfast,N09000003,8135.00
+Northern Ireland,Causeway Coast and Glens,N09000004,1069.00
+Northern Ireland,Derry City and Strabane,N09000005,1194.00
+Northern Ireland,Fermanagh and Omagh,N09000006,926.00
+Northern Ireland,Lisburn and Castlereagh,N09000007,1492.00
+Northern Ireland,Mid Ulster,N09000009,1490.00
+Northern Ireland,Mid and East Antrim,N09000008,1415.00
+Northern Ireland,"Newry, Mourne and Down",N09000010,1437.00
+Scotland,Aberdeen City,S12000033,3538.00
+Scotland,Aberdeenshire,S12000034,2322.00
+Scotland,Angus,S12000041,877.00
+Scotland,Argyll and Bute,S12000035,1332.00
+Scotland,City of Edinburgh,S12000036,13037.00
+Scotland,Clackmannanshire,S12000005,452.00
+Scotland,Dumfries and Galloway,S12000006,1895.00
+Scotland,Dundee City,S12000042,2142.00
+Scotland,East Ayrshire,S12000008,1066.00
+Scotland,East Dunbartonshire,S12000045,892.00
+Scotland,East Lothian,S12000010,1506.00
+Scotland,East Renfrewshire,S12000011,490.00
+Scotland,Falkirk,S12000014,1754.00
+Scotland,Fife,S12000047,4230.00
+Scotland,Glasgow City,S12000049,15350.00
+Scotland,Highland,S12000017,5035.00
+Scotland,Inverclyde,S12000018,604.00
+Scotland,Midlothian,S12000019,1674.00
+Scotland,Moray,S12000020,955.00
+Scotland,Na h-Eileanan Siar,S12000013,272.00
+Scotland,North Ayrshire,S12000021,1143.00
+Scotland,North Lanarkshire,S12000050,3375.00
+Scotland,Orkney Islands,S12000023,316.00
+Scotland,Perth and Kinross,S12000048,2767.00
+Scotland,Renfrewshire,S12000038,2196.00
+Scotland,Scottish Borders,S12000026,1533.00
+Scotland,Shetland Islands,S12000027,244.00
+Scotland,South Ayrshire,S12000028,1484.00
+Scotland,South Lanarkshire,S12000029,3538.00
+Scotland,Stirling,S12000030,1814.00
+Scotland,West Dunbartonshire,S12000039,865.00
+Scotland,West Lothian,S12000040,2472.00
+South East,Adur,E07000223,1213.00
+South East,Arun,E07000224,2887.00
+South East,Ashford,E07000105,2985.00
+South East,Basingstoke and Deane,E07000084,4859.00
+South East,Bracknell Forest,E06000036,2609.00
+South East,Brighton and Hove,E06000043,8721.00
+South East,Buckinghamshire,E06000060,12238.00
+South East,Canterbury,E07000106,3275.00
+South East,Cherwell,E07000177,5094.00
+South East,Chichester,E07000225,3645.00
+South East,Crawley,E07000226,4273.00
+South East,Dartford,E07000107,3750.00
+South East,Dover,E07000108,2111.00
+South East,East Hampshire,E07000085,1923.00
+South East,Eastbourne,E07000061,2212.00
+South East,Eastleigh,E07000086,2445.00
+South East,Elmbridge,E07000207,3658.00
+South East,Epsom and Ewell,E07000208,2138.00
+South East,Fareham,E07000087,2554.00
+South East,Folkestone and Hythe,E07000112,1597.00
+South East,Gosport,E07000088,796.00
+South East,Gravesham,E07000109,1509.00
+South East,Guildford,E07000209,5993.00
+South East,Hart,E07000089,1181.00
+South East,Hastings,E07000062,1823.00
+South East,Havant,E07000090,2015.00
+South East,Horsham,E07000227,5542.00
+South East,Isle of Wight,E06000046,1682.00
+South East,Lewes,E07000063,2049.00
+South East,Maidstone,E07000110,4593.00
+South East,Medway,E06000035,3920.00
+South East,Mid Sussex,E07000228,4841.00
+South East,Milton Keynes,E06000042,9890.00
+South East,Mole Valley,E07000210,3112.00
+South East,New Forest,E07000091,3462.00
+South East,Oxford,E07000178,11118.00
+South East,Portsmouth,E06000044,5768.00
+South East,Reading,E06000038,9606.00
+South East,Reigate and Banstead,E07000211,6204.00
+South East,Rother,E07000064,1405.00
+South East,Runnymede,E07000212,2539.00
+South East,Rushmoor,E07000092,2695.00
+South East,Sevenoaks,E07000111,2854.00
+South East,Slough,E06000039,4737.00
+South East,South Oxfordshire,E07000179,3962.00
+South East,Southampton,E06000045,9510.00
+South East,Spelthorne,E07000213,1987.00
+South East,Surrey Heath,E07000214,2685.00
+South East,Swale,E07000113,2577.00
+South East,Tandridge,E07000215,1790.00
+South East,Test Valley,E07000093,3344.00
+South East,Thanet,E07000114,1746.00
+South East,Tonbridge and Malling,E07000115,5329.00
+South East,Tunbridge Wells,E07000116,3198.00
+South East,Vale of White Horse,E07000180,2844.00
+South East,Waverley,E07000216,3676.00
+South East,Wealden,E07000065,3788.00
+South East,West Berkshire,E06000037,4461.00
+South East,West Oxfordshire,E07000181,2723.00
+South East,Winchester,E07000094,4845.00
+South East,Windsor and Maidenhead,E06000040,4738.00
+South East,Woking,E07000217,5404.00
+South East,Wokingham,E06000041,2683.00
+South East,Worthing,E07000229,2966.00
+South West,Bath and North East Somerset,E06000022,6396.00
+South West,"Bournemouth, Christchurch and Poole",E06000058,10708.00
+South West,"Bristol, City of",E06000023,25561.00
+South West,Cheltenham,E07000078,4429.00
+South West,Cornwall,E06000052,10996.00
+South West,Cotswold,E07000079,3061.00
+South West,Dorset,E06000059,7437.00
+South West,East Devon,E07000040,2068.00
+South West,Exeter,E07000041,7949.00
+South West,Forest of Dean,E07000080,740.00
+South West,Gloucester,E07000081,7831.00
+South West,Isles of Scilly,E06000053,28.00
+South West,Mendip,E07000187,2512.00
+South West,Mid Devon,E07000042,2461.00
+South West,North Devon,E07000043,1975.00
+South West,North Somerset,E06000024,3952.00
+South West,Plymouth,E06000026,4200.00
+South West,Sedgemoor,E07000188,4625.00
+South West,Somerset West and Taunton,E07000246,3442.00
+South West,South Gloucestershire,E06000025,4404.00
+South West,South Hams,E07000044,1589.00
+South West,South Somerset,E07000189,4024.00
+South West,Stroud,E07000082,2262.00
+South West,Swindon,E06000030,6643.00
+South West,Teignbridge,E07000045,2430.00
+South West,Tewkesbury,E07000083,1806.00
+South West,Torbay,E06000027,2478.00
+South West,Torridge,E07000046,955.00
+South West,West Devon,E07000047,1111.00
+South West,Wiltshire,E06000054,11578.00
+Wales,Blaenau Gwent,W06000019,796.00
+Wales,Bridgend,W06000013,2238.00
+Wales,Caerphilly,W06000018,2018.00
+Wales,Cardiff,W06000015,10062.00
+Wales,Carmarthenshire,W06000010,2624.00
+Wales,Ceredigion,W06000008,1134.00
+Wales,Conwy,W06000003,1839.00
+Wales,Denbighshire,W06000004,1722.00
+Wales,Flintshire,W06000005,2546.00
+Wales,Gwynedd,W06000002,1665.00
+Wales,Isle of Anglesey,W06000001,503.00
+Wales,Merthyr Tydfil,W06000024,778.00
+Wales,Monmouthshire,W06000021,1872.00
+Wales,Neath Port Talbot,W06000012,1505.00
+Wales,Newport,W06000022,2398.00
+Wales,Pembrokeshire,W06000009,1991.00
+Wales,Powys,W06000023,2068.00
+Wales,Rhondda Cynon Taf,W06000016,3131.00
+Wales,Swansea,W06000011,4045.00
+Wales,Torfaen,W06000020,1275.00
+Wales,Vale of Glamorgan,W06000014,1421.00
+Wales,Wrexham,W06000006,1904.00
+West Midlands,Birmingham,E08000025,29886.00
+West Midlands,Bromsgrove,E07000234,1444.00
+West Midlands,Cannock Chase,E07000192,1843.00
+West Midlands,Coventry,E08000026,7742.00
+West Midlands,Dudley,E08000027,5571.00
+West Midlands,East Staffordshire,E07000193,3477.00
+West Midlands,"Herefordshire, County of",E06000019,3999.00
+West Midlands,Lichfield,E07000194,2137.00
+West Midlands,Malvern Hills,E07000235,1494.00
+West Midlands,Newcastle-under-Lyme,E07000195,1448.00
+West Midlands,North Warwickshire,E07000218,1285.00
+West Midlands,Nuneaton and Bedworth,E07000219,1965.00
+West Midlands,Redditch,E07000236,2276.00
+West Midlands,Rugby,E07000220,1954.00
+West Midlands,Sandwell,E08000028,4368.00
+West Midlands,Shropshire,E06000051,5764.00
+West Midlands,Solihull,E08000029,5412.00
+West Midlands,South Staffordshire,E07000196,671.00
+West Midlands,Stafford,E07000197,4027.00
+West Midlands,Staffordshire Moorlands,E07000198,785.00
+West Midlands,Stoke-on-Trent,E06000021,6064.00
+West Midlands,Stratford-on-Avon,E07000221,3538.00
+West Midlands,Tamworth,E07000199,2044.00
+West Midlands,Telford and Wrekin,E06000020,4051.00
+West Midlands,Walsall,E08000030,3785.00
+West Midlands,Warwick,E07000222,4764.00
+West Midlands,Wolverhampton,E08000031,4824.00
+West Midlands,Worcester,E07000237,3457.00
+West Midlands,Wychavon,E07000238,2855.00
+West Midlands,Wyre Forest,E07000239,1672.00
+Yorkshire and The Humber,Barnsley,E08000016,3710.00
+Yorkshire and The Humber,Bradford,E08000032,8774.00
+Yorkshire and The Humber,Calderdale,E08000033,2968.00
+Yorkshire and The Humber,Craven,E07000163,978.00
+Yorkshire and The Humber,Doncaster,E08000017,6083.00
+Yorkshire and The Humber,East Riding of Yorkshire,E06000011,4636.00
+Yorkshire and The Humber,Hambleton,E07000164,1911.00
+Yorkshire and The Humber,Harrogate,E07000165,4439.00
+Yorkshire and The Humber,"Kingston upon Hull, City of",E06000010,5487.00
+Yorkshire and The Humber,Kirklees,E08000034,5610.00
+Yorkshire and The Humber,Leeds,E08000035,25260.00
+Yorkshire and The Humber,North East Lincolnshire,E06000012,2665.00
+Yorkshire and The Humber,North Lincolnshire,E06000013,2713.00
+Yorkshire and The Humber,Richmondshire,E07000166,679.00
+Yorkshire and The Humber,Rotherham,E08000018,1576.00
+Yorkshire and The Humber,Ryedale,E07000167,824.00
+Yorkshire and The Humber,Scarborough,E07000168,2098.00
+Yorkshire and The Humber,Selby,E07000169,1282.00
+Yorkshire and The Humber,Sheffield,E08000019,13489.00
+Yorkshire and The Humber,Wakefield,E08000036,7438.00
+Yorkshire and The Humber,York,E06000014,6090.00

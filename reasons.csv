@@ -1,0 +1,28 @@
+reason,value,type,row_order,value_label
+"The cost of raising children up (e.g. food, clothing, education)",39,Financial,0,39%
+Concerns about the general cost of living,36,Financial,1,36%
+Cost of childcare,29,Financial,2,29%
+Cost of developing/extending current home/moving house,17,Financial,3,17%
+My child would grow up to be worse off than I was,16,Financial,4,16%
+Cost of antenatal care,5,Financial,5,5%
+Want to dedicate time to the child(ren) I have,21,Time/commitments,6,21%
+Want to focus on other things,18,Time/commitments,7,18%
+Want to focus on my career,16,Time/commitments,8,16%
+I wouldn’t have enough time to dedicate to the child,14,Time/commitments,9,14%
+I have other commitments/unable to dedicate time to children,10,Time/commitments,10,10%
+I/my partner don’t want to have another/a child(ren),30,Personal,11,30%
+I/my partner is too old/too young,19,Personal,12,19%
+I feel daunted at the thought of having another/a child(ren),19,Personal,13,19%
+Haven’t found a suitable partner to have children with,12,Personal,14,12%
+Concerns about my/my partner’s health,12,Personal,15,12%
+Relationship with partner is too early/not ready for children,5,Personal,16,5%
+I/my partner is unable to have children,5,Personal,17,5%
+Impact of climate change/global warming on children’s future,14,Resources,18,14%
+Concerns about accessibility of suitable housing,13,Resources,19,13%
+Concerns about accessibility of adequate healthcare for child,13,Resources,20,13%
+Impact of children on environment/climate change/global warming,11,Resources,21,11%
+Concerns about accessibility of adequate education for child,11,Resources,22,11%
+Concerns about adequate healthcare during pregnancy,9,Resources,23,9%
+The world is too dangerous today,15,Other,24,15%
+Other,6,Other,25,6%
+Don’t know,1,Other,26,1%
